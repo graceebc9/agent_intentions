@@ -1,4 +1,4 @@
-# Project Name
+# Agent Intentions
 
 ![Banner Image](path/to/banner-image.png)
 
