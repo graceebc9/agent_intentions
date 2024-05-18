@@ -1,4 +1,4 @@
-name: agent_intentions
+name: HHH_agent
 channels:
   - anaconda
   - defaults
