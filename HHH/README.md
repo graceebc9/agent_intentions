@@ -4,7 +4,7 @@ This sub-directory relates to the generation of the Helpful/Harmless dataset and
 - **Contents**:
   - `src`: This folder contains all the source code for the project. It includes scripts, modules, and other code files that are directly used to run the project.
 	  - `/utils`: Contains gelper scripts and utility functions
-    - '/examples' : contains the examples used for generating the dataset and few shot prompting. 
+    - '/examples` : contains the examples used for generating the dataset and few shot prompting. 
 - `/experiments`
 	- run_experiments.py - script relating to testing the dataset and model combinations for few shot and chain of thought prompting
  
