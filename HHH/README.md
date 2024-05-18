@@ -17,3 +17,13 @@ This sub-directory relates to the generation of the Helpful/Harmless dataset and
 	  -processed_chainofthought: the results from the dataset procesed with COT prompting call
 	  -Process_fewshot_X: the results from the dataset processed with few shot prompting with X examples 
 	  
+
+## Getting Started
+
+Provide instructions on how to set up, configure, and run the project locally. This might include steps to install software, configure environments, and execute scripts:
+
+```bash
+git clone https://github.com/yourusername/agent_intentions.git
+cd agent_intetions/HHH
+pip install -r requirements.txt
+python main.py
