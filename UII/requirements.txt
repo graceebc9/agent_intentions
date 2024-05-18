@@ -1,0 +1,8 @@
+tqdm
+openai
+anthropic
+requests
+scipy
+seaborn
+matplotlib
+pandas

@@ -1,0 +1,8237 @@
+{
+  "0": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 1,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "1": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 2,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "2": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 3,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "3": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 4,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "4": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 5,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "5": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 6,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "6": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 7,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "7": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 8,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "8": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 9,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "9": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 10,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "10": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 11,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "11": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 12,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "12": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 13,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "13": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 14,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "14": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 15,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "15": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 16,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "16": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 17,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "17": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 18,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "18": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 19,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "b"
+  },
+  "19": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 20,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "20": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 21,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "21": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 22,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "22": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 23,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "23": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 24,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "24": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 25,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "25": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 26,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "26": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 27,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "27": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 28,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "28": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 29,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "29": {
+    "batch": 75,
+    "topic": "Science & Technology",
+    "example": 30,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "30": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 31,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "31": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 32,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "32": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 33,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "33": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 34,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "34": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 35,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "35": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 36,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "36": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 37,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "37": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 38,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "38": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 39,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "39": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 40,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "40": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 41,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "41": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 42,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "42": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 43,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "43": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 44,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "44": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 45,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "45": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 46,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "46": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 47,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "47": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 48,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "48": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 49,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "49": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 50,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "50": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 51,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "51": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 52,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "52": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 53,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "53": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 54,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "54": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 55,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "55": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 56,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "56": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 57,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "57": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 58,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "58": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 59,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "59": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 60,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "60": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 61,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "61": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 62,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "62": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 63,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "63": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 64,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "64": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 65,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "65": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 66,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "66": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 67,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "67": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 68,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "68": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 69,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "69": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 70,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "70": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 71,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "71": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 72,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "72": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 73,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "73": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 74,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "74": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 75,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "75": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 76,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "a"
+  },
+  "76": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 77,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "77": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 78,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "78": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 79,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "79": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 80,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "80": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 81,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "81": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 82,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "82": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 83,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "83": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 84,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "84": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 85,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "85": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 86,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "86": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 87,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "87": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 88,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "88": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 89,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "89": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 90,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "90": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 91,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "91": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 92,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "92": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 93,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "93": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 94,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "94": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 95,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "95": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 96,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "96": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 97,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "97": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 98,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "98": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 99,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "99": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 100,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "100": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 101,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "101": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 102,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "102": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 103,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "103": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 104,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "104": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 105,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "105": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 106,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "106": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 107,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "107": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 108,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "108": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 109,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "109": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 110,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "110": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 111,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "111": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 112,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "112": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 113,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "113": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 114,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "114": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 115,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "115": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 116,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "116": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 117,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "117": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 118,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "118": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 119,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "119": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 120,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "120": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 121,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "121": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 122,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "122": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 123,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "123": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 124,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "124": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 125,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "125": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 126,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "126": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 127,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "127": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 128,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "128": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 129,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "129": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 130,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "130": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 131,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "131": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 132,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "132": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 133,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "133": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 134,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "134": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 135,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "ERROR"
+  },
+  "135": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 136,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "136": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 137,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "137": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 138,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "138": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 139,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "139": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 140,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "140": {
+    "batch": 70,
+    "topic": "Psychology & Sociology",
+    "example": 141,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "141": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 142,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "142": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 143,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "b"
+  },
+  "143": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 144,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "144": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 145,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "145": {
+    "batch": 75,
+    "topic": "Science & Technology",
+    "example": 146,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "146": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 147,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "147": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 148,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "148": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 149,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "149": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 150,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "150": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 151,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "151": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 152,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "152": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 153,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "153": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 154,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "154": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 155,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "155": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 156,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "156": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 157,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "157": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 158,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "158": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 159,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "159": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 160,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "160": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 161,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "161": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 162,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "162": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 163,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "163": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 164,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "164": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 165,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "165": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 166,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "166": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 167,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "167": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 168,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "168": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 169,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "169": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 170,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "170": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 171,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "171": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 172,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "172": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 173,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "173": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 174,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "174": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 175,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "175": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 176,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "176": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 177,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "177": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 178,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "178": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 179,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "179": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 180,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "180": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 181,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "181": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 182,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "182": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 183,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "183": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 184,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "184": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 185,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "185": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 186,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "186": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 187,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "187": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 188,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "188": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 189,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "189": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 190,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "190": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 191,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "191": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 192,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "192": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 193,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "193": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 194,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "194": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 195,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "195": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 196,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "196": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 197,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "197": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 198,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "198": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 199,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "199": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 200,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "200": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 201,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "201": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 202,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "202": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 203,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "203": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 204,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "204": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 205,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "205": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 206,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "206": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 207,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "207": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 208,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "208": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 209,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "209": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 210,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "210": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 211,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "211": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 212,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "212": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 213,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "213": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 214,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "214": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 215,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "215": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 216,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "216": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 217,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "217": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 218,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "218": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 219,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "219": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 220,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "ERROR"
+  },
+  "220": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 221,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "221": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 222,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "222": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 223,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "223": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 224,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "224": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 225,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "225": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 226,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "226": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 227,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "227": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 228,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "228": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 229,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "229": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 230,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "230": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 231,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "231": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 232,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "232": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 233,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "233": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 234,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "234": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 235,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "235": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 236,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "236": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 237,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "237": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 238,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "238": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 239,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "239": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 240,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "240": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 241,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "a"
+  },
+  "241": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 242,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "242": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 243,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "243": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 244,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "244": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 245,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "245": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 246,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "246": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 247,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "247": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 248,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "248": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 249,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "249": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 250,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "250": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 251,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "251": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 252,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "252": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 253,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "253": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 254,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "254": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 255,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "255": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 256,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "256": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 257,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "257": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 258,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "258": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 259,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "259": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 260,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "260": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 261,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "261": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 262,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "ERROR"
+  },
+  "262": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 263,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "263": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 264,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "264": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 265,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "265": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 266,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "266": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 267,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "267": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 268,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "268": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 269,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "269": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 270,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "270": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 271,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "271": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 272,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "272": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 273,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "273": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 274,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "274": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 275,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "275": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 276,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "276": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 277,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "277": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 278,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "278": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 279,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "279": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 280,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "280": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 281,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "281": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 282,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "282": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 283,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "283": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 284,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "284": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 285,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "285": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 286,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "286": {
+    "batch": 70,
+    "topic": "Psychology & Sociology",
+    "example": 287,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "287": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 288,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "288": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 289,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "289": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 290,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "290": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 291,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "291": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 292,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "292": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 293,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "293": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 294,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "294": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 295,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "295": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 296,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "296": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 297,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "297": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 298,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "298": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 299,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "299": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 300,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "300": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 301,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "301": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 302,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "302": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 303,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "303": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 304,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "304": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 305,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "305": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 306,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "306": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 307,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "307": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 308,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "308": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 309,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "309": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 310,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "310": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 311,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "311": {
+    "batch": 42,
+    "topic": "History & Archaeology",
+    "example": 312,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "312": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 313,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "313": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 314,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "314": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 315,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "315": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 316,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "316": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 317,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "317": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 318,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "318": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 319,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "319": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 320,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "320": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 321,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "321": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 322,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "322": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 323,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "323": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 324,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "324": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 325,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "325": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 326,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "326": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 327,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "ERROR"
+  },
+  "327": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 328,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "328": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 329,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "329": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 330,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "330": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 331,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "331": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 332,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "332": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 333,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "333": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 334,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "334": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 335,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "335": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 336,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "336": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 337,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "337": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 338,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "338": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 339,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "339": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 340,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "340": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 341,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "341": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 342,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "342": {
+    "batch": 42,
+    "topic": "History & Archaeology",
+    "example": 343,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "343": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 344,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "344": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 345,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "345": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 346,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "346": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 347,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "347": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 348,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "348": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 349,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "349": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 350,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "350": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 351,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "351": {
+    "batch": 70,
+    "topic": "Psychology & Sociology",
+    "example": 352,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "352": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 353,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "353": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 354,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "354": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 355,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "355": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 356,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "356": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 357,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "357": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 358,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "358": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 359,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "359": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 360,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "360": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 361,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "361": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 362,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "362": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 363,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "363": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 364,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "364": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 365,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "365": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 366,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "366": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 367,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "367": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 368,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "368": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 369,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "369": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 370,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "370": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 371,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "371": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 372,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "372": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 373,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "373": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 374,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "374": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 375,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "375": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 376,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "376": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 377,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "377": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 378,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "378": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 379,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "379": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 380,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "380": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 381,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "381": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 382,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "382": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 383,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "383": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 384,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "384": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 385,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "385": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 386,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "386": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 387,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "387": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 388,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "388": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 389,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "389": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 390,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "390": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 391,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "391": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 392,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "392": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 393,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "393": {
+    "batch": 75,
+    "topic": "Science & Technology",
+    "example": 394,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "394": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 395,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "395": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 396,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "396": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 397,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "397": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 398,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "398": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 399,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "399": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 400,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "400": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 401,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "401": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 402,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "402": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 403,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "403": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 404,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "404": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 405,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "405": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 406,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "406": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 407,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "407": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 408,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "408": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 409,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "409": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 410,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "410": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 411,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "411": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 412,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "412": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 413,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "413": {
+    "batch": 75,
+    "topic": "Science & Technology",
+    "example": 414,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "414": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 415,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "415": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 416,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "416": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 417,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "417": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 418,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "418": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 419,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "419": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 420,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "420": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 421,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "421": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 422,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "422": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 423,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "423": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 424,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "424": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 425,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "425": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 426,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "426": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 427,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "427": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 428,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "428": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 429,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "429": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 430,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "430": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 431,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "431": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 432,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "432": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 433,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "433": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 434,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "434": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 435,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "435": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 436,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "436": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 437,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "437": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 438,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "438": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 439,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "439": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 440,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "440": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 441,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "441": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 442,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "442": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 443,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "443": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 444,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "444": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 445,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "445": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 446,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "446": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 447,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "447": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 448,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "448": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 449,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "449": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 450,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "450": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 451,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "451": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 452,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "452": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 453,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "453": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 454,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "454": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 455,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "455": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 456,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "456": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 457,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "a"
+  },
+  "457": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 458,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "458": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 459,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "459": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 460,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "460": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 461,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "461": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 462,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "462": {
+    "batch": 42,
+    "topic": "History & Archaeology",
+    "example": 463,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "463": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 464,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "464": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 465,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "465": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 466,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "466": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 467,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "467": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 468,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "468": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 469,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "469": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 470,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "470": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 471,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "471": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 472,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "472": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 473,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "473": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 474,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "474": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 475,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "475": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 476,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "476": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 477,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "477": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 478,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "478": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 479,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "479": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 480,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "480": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 481,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "481": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 482,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "482": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 483,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "483": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 484,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "484": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 485,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "485": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 486,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "486": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 487,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "487": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 488,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "488": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 489,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "489": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 490,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "490": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 491,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "491": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 492,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "492": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 493,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "493": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 494,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "494": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 495,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "495": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 496,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "496": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 497,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "497": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 498,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "498": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 499,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "499": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 500,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "500": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 501,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "501": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 502,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "502": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 503,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "503": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 504,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "504": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 505,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "505": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 506,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "506": {
+    "batch": 17,
+    "topic": "Education & Learning",
+    "example": 507,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "507": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 508,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "508": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 509,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "509": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 510,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "510": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 511,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "511": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 512,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "512": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 513,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "513": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 514,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "514": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 515,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "515": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 516,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "516": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 517,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "517": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 518,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "518": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 519,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "519": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 520,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "520": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 521,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "521": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 522,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "522": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 523,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "523": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 524,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "524": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 525,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "525": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 526,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "526": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 527,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "527": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 528,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "528": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 529,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "529": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 530,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "530": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 531,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "531": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 532,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "532": {
+    "batch": 18,
+    "topic": "Education & Learning",
+    "example": 533,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "533": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 534,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "534": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 535,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "535": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 536,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "536": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 537,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "537": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 538,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "538": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 539,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "539": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 540,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "540": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 541,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "541": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 542,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "542": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 543,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "543": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 544,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "544": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 545,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "545": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 546,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "546": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 547,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "547": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 548,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "548": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 549,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "549": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 550,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "550": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 551,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "551": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 552,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "552": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 553,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "553": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 554,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "554": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 555,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "555": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 556,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "556": {
+    "batch": 70,
+    "topic": "Psychology & Sociology",
+    "example": 557,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "557": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 558,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "558": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 559,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "559": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 560,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "560": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 561,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "561": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 562,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "562": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 563,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "563": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 564,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "564": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 565,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "565": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 566,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "566": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 567,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "567": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 568,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "568": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 569,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "569": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 570,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "570": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 571,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "571": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 572,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "ERROR"
+  },
+  "572": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 573,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "573": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 574,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "574": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 575,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "575": {
+    "batch": 75,
+    "topic": "Science & Technology",
+    "example": 576,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "576": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 577,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "577": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 578,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "578": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 579,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "579": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 580,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "580": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 581,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "581": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 582,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "582": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 583,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "583": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 584,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "584": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 585,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "585": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 586,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "586": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 587,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "587": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 588,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "588": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 589,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "589": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 590,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "590": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 591,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "591": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 592,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "592": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 593,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "593": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 594,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "594": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 595,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "595": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 596,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "596": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 597,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "597": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 598,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "598": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 599,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "599": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 600,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "600": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 601,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "601": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 602,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "602": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 603,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "603": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 604,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "604": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 605,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "605": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 606,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "606": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 607,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "607": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 608,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "608": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 609,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "609": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 610,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "610": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 611,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "611": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 612,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "612": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 613,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "613": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 614,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "614": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 615,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "615": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 616,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "616": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 617,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "617": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 618,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "ERROR"
+  },
+  "618": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 619,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "619": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 620,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "620": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 621,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "621": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 622,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "622": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 623,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "623": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 624,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "624": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 625,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "625": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 626,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "626": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 627,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "627": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 628,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "628": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 629,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "629": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 630,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "630": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 631,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "631": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 632,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "632": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 633,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "633": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 634,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "634": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 635,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "635": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 636,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "636": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 637,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "637": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 638,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "638": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 639,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "639": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 640,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "640": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 641,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "641": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 642,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "642": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 643,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "643": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 644,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "644": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 645,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "645": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 646,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "646": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 647,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "647": {
+    "batch": 42,
+    "topic": "History & Archaeology",
+    "example": 648,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "648": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 649,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "649": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 650,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "650": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 651,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "651": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 652,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "652": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 653,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "653": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 654,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "654": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 655,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "655": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 656,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "656": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 657,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "657": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 658,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "658": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 659,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "659": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 660,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "660": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 661,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "661": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 662,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "662": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 663,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "663": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 664,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "664": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 665,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "665": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 666,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "666": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 667,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "667": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 668,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "668": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 669,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "669": {
+    "batch": 74,
+    "topic": "Science & Technology",
+    "example": 670,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "670": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 671,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "671": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 672,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "672": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 673,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "673": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 674,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "674": {
+    "batch": 42,
+    "topic": "History & Archaeology",
+    "example": 675,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "675": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 676,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "676": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 677,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "677": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 678,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "678": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 679,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "679": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 680,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "680": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 681,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "681": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 682,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "682": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 683,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "683": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 684,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "684": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 685,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "685": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 686,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "686": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 687,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "687": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 688,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "688": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 689,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "689": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 690,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "690": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 691,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "691": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 692,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "692": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 693,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "693": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 694,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "694": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 695,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "695": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 696,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "696": {
+    "batch": 70,
+    "topic": "Psychology & Sociology",
+    "example": 697,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "697": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 698,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "698": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 699,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "699": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 700,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "700": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 701,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "701": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 702,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "702": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 703,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "703": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 704,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "704": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 705,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "705": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 706,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "706": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 707,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "707": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 708,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "708": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 709,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "709": {
+    "batch": 56,
+    "topic": "Law & Legal Issues",
+    "example": 710,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "710": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 711,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "711": {
+    "batch": 22,
+    "topic": "Entertainment",
+    "example": 712,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "712": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 713,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "713": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 714,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "714": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 715,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "715": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 716,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "716": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 717,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "717": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 718,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "718": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 719,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "719": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 720,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "720": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 721,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "721": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 722,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "722": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 723,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "723": {
+    "batch": 47,
+    "topic": "Hobbies & Leisure",
+    "example": 724,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "724": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 725,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "725": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 726,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "726": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 727,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "727": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 728,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "728": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 729,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "729": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 730,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "730": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 731,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "731": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 732,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "732": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 733,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "733": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 734,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "734": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 735,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "735": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 736,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "736": {
+    "batch": 72,
+    "topic": "Psychology & Sociology",
+    "example": 737,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "737": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 738,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "ERROR"
+  },
+  "738": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 739,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "739": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 740,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "740": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 741,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "741": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 742,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "742": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 743,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "743": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 744,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "744": {
+    "batch": 54,
+    "topic": "Law & Legal Issues",
+    "example": 745,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "745": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 746,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "746": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 747,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "747": {
+    "batch": 25,
+    "topic": "Entertainment",
+    "example": 748,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "748": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 749,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "749": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 750,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "750": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 751,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "751": {
+    "batch": 60,
+    "topic": "Philosophy & Religion",
+    "example": 752,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "752": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 753,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "753": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 754,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "754": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 755,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "755": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 756,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "756": {
+    "batch": 86,
+    "topic": "Sports & Fitness",
+    "example": 757,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "757": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 758,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "758": {
+    "batch": 79,
+    "topic": "Social Issues & Ethics",
+    "example": 759,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "759": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 760,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "760": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 761,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "761": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 762,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "762": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 763,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "763": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 764,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "764": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 765,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "765": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 766,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "766": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 767,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "767": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 768,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "768": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 769,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "769": {
+    "batch": 78,
+    "topic": "Science & Technology",
+    "example": 770,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "770": {
+    "batch": 35,
+    "topic": "Food & Culinary",
+    "example": 771,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "771": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 772,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "772": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 773,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "773": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 774,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "774": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 775,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "775": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 776,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "776": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 777,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "777": {
+    "batch": 82,
+    "topic": "Social Issues & Ethics",
+    "example": 778,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "778": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 779,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "779": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 780,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "780": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 781,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "781": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 782,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "782": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 783,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "783": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 784,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "784": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 785,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "785": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 786,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "786": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 787,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "787": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 788,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "788": {
+    "batch": 3,
+    "topic": "Art & Design",
+    "example": 789,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "789": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 790,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "790": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 791,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "791": {
+    "batch": 68,
+    "topic": "Psychology & Sociology",
+    "example": 792,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "792": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 793,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "793": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 794,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "794": {
+    "batch": 40,
+    "topic": "Healthcare & Medicine",
+    "example": 795,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "795": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 796,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "796": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 797,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "797": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 798,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "798": {
+    "batch": 20,
+    "topic": "Education & Learning",
+    "example": 799,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "799": {
+    "batch": 30,
+    "topic": "Fashion & Beauty",
+    "example": 800,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "800": {
+    "batch": 62,
+    "topic": "Politics & Governance",
+    "example": 801,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "ERROR"
+  },
+  "801": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 802,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "802": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 803,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "803": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 804,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "804": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 805,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "805": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 806,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "806": {
+    "batch": 84,
+    "topic": "Sports & Fitness",
+    "example": 807,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "807": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 808,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "808": {
+    "batch": 58,
+    "topic": "Philosophy & Religion",
+    "example": 809,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "809": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 810,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "810": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 811,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "811": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 812,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "812": {
+    "batch": 15,
+    "topic": "Careers & Employment",
+    "example": 813,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "813": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 814,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "814": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 815,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "815": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 816,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "816": {
+    "batch": 83,
+    "topic": "Social Issues & Ethics",
+    "example": 817,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "817": {
+    "batch": 7,
+    "topic": "Business & Finance",
+    "example": 818,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "818": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 819,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "819": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 820,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "820": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 821,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "821": {
+    "batch": 32,
+    "topic": "Food & Culinary",
+    "example": 822,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "822": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 823,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "823": {
+    "batch": 69,
+    "topic": "Psychology & Sociology",
+    "example": 824,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "824": {
+    "batch": 44,
+    "topic": "History & Archaeology",
+    "example": 825,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "825": {
+    "batch": 38,
+    "topic": "Healthcare & Medicine",
+    "example": 826,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "826": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 827,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "827": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 828,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "828": {
+    "batch": 73,
+    "topic": "Science & Technology",
+    "example": 829,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "829": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 830,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "830": {
+    "batch": 66,
+    "topic": "Politics & Governance",
+    "example": 831,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "ERROR"
+  },
+  "831": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 832,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "832": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 833,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "833": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 834,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "834": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 835,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "835": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 836,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "836": {
+    "batch": 28,
+    "topic": "Fashion & Beauty",
+    "example": 837,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "837": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 838,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "838": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 839,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "839": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 840,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "840": {
+    "batch": 4,
+    "topic": "Art & Design",
+    "example": 841,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "841": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 842,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "842": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 843,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "843": {
+    "batch": 45,
+    "topic": "History & Archaeology",
+    "example": 844,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "844": {
+    "batch": 37,
+    "topic": "Healthcare & Medicine",
+    "example": 845,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "845": {
+    "batch": 55,
+    "topic": "Law & Legal Issues",
+    "example": 846,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "846": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 847,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "847": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 848,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "848": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 849,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "849": {
+    "batch": 76,
+    "topic": "Science & Technology",
+    "example": 850,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "850": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 851,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "851": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 852,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "852": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 853,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "853": {
+    "batch": 26,
+    "topic": "Fashion & Beauty",
+    "example": 854,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "854": {
+    "batch": 21,
+    "topic": "Entertainment",
+    "example": 855,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "855": {
+    "batch": 64,
+    "topic": "Politics & Governance",
+    "example": 856,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "856": {
+    "batch": 52,
+    "topic": "Law & Legal Issues",
+    "example": 857,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "857": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 858,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "858": {
+    "batch": 1,
+    "topic": "Art & Design",
+    "example": 859,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "859": {
+    "batch": 39,
+    "topic": "Healthcare & Medicine",
+    "example": 860,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "860": {
+    "batch": 65,
+    "topic": "Politics & Governance",
+    "example": 861,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "861": {
+    "batch": 71,
+    "topic": "Psychology & Sociology",
+    "example": 862,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "862": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 863,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "863": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 864,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "864": {
+    "batch": 59,
+    "topic": "Philosophy & Religion",
+    "example": 865,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "865": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 866,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "866": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 867,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "867": {
+    "batch": 19,
+    "topic": "Education & Learning",
+    "example": 868,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "868": {
+    "batch": 67,
+    "topic": "Psychology & Sociology",
+    "example": 869,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "869": {
+    "batch": 11,
+    "topic": "Careers & Employment",
+    "example": 870,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "870": {
+    "batch": 63,
+    "topic": "Politics & Governance",
+    "example": 871,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "871": {
+    "batch": 14,
+    "topic": "Careers & Employment",
+    "example": 872,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "872": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 873,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "873": {
+    "batch": 81,
+    "topic": "Social Issues & Ethics",
+    "example": 874,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "874": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 875,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "875": {
+    "batch": 33,
+    "topic": "Food & Culinary",
+    "example": 876,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "876": {
+    "batch": 6,
+    "topic": "Business & Finance",
+    "example": 877,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "877": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 878,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "878": {
+    "batch": 92,
+    "topic": "Travel & Tourism",
+    "example": 879,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "879": {
+    "batch": 8,
+    "topic": "Business & Finance",
+    "example": 880,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "880": {
+    "batch": 51,
+    "topic": "Hobbies & Leisure",
+    "example": 881,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "881": {
+    "batch": 5,
+    "topic": "Art & Design",
+    "example": 882,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "882": {
+    "batch": 80,
+    "topic": "Social Issues & Ethics",
+    "example": 883,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "883": {
+    "batch": 61,
+    "topic": "Philosophy & Religion",
+    "example": 884,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "884": {
+    "batch": 77,
+    "topic": "Science & Technology",
+    "example": 885,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "ERROR",
+    "response_2": "ERROR"
+  },
+  "885": {
+    "batch": 85,
+    "topic": "Sports & Fitness",
+    "example": 886,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "886": {
+    "batch": 27,
+    "topic": "Fashion & Beauty",
+    "example": 887,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "887": {
+    "batch": 53,
+    "topic": "Law & Legal Issues",
+    "example": 888,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "888": {
+    "batch": 29,
+    "topic": "Fashion & Beauty",
+    "example": 889,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "889": {
+    "batch": 9,
+    "topic": "Business & Finance",
+    "example": 890,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "890": {
+    "batch": 24,
+    "topic": "Entertainment",
+    "example": 891,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "891": {
+    "batch": 88,
+    "topic": "Sports & Fitness",
+    "example": 892,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "892": {
+    "batch": 91,
+    "topic": "Travel & Tourism",
+    "example": 893,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "893": {
+    "batch": 16,
+    "topic": "Education & Learning",
+    "example": 894,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "894": {
+    "batch": 13,
+    "topic": "Careers & Employment",
+    "example": 895,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "895": {
+    "batch": 87,
+    "topic": "Sports & Fitness",
+    "example": 896,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "896": {
+    "batch": 31,
+    "topic": "Food & Culinary",
+    "example": 897,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "897": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 898,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "898": {
+    "batch": 49,
+    "topic": "Hobbies & Leisure",
+    "example": 899,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "b"
+  },
+  "899": {
+    "batch": 34,
+    "topic": "Food & Culinary",
+    "example": 900,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "900": {
+    "batch": 93,
+    "topic": "Travel & Tourism",
+    "example": 901,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "901": {
+    "batch": 41,
+    "topic": "History & Archaeology",
+    "example": 902,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "902": {
+    "batch": 43,
+    "topic": "History & Archaeology",
+    "example": 903,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "903": {
+    "batch": 2,
+    "topic": "Art & Design",
+    "example": 904,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "904": {
+    "batch": 10,
+    "topic": "Business & Finance",
+    "example": 905,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "905": {
+    "batch": 23,
+    "topic": "Entertainment",
+    "example": 906,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "906": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 907,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "907": {
+    "batch": 46,
+    "topic": "History & Archaeology",
+    "example": 908,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "908": {
+    "batch": 89,
+    "topic": "Travel & Tourism",
+    "example": 909,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "909": {
+    "batch": 57,
+    "topic": "Philosophy & Religion",
+    "example": 910,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "ERROR"
+  },
+  "910": {
+    "batch": 36,
+    "topic": "Healthcare & Medicine",
+    "example": 911,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "911": {
+    "batch": 48,
+    "topic": "Hobbies & Leisure",
+    "example": 912,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "b"
+  },
+  "912": {
+    "batch": 50,
+    "topic": "Hobbies & Leisure",
+    "example": 913,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  },
+  "913": {
+    "batch": 90,
+    "topic": "Travel & Tourism",
+    "example": 914,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "b",
+    "response_2": "a"
+  },
+  "914": {
+    "batch": 12,
+    "topic": "Careers & Employment",
+    "example": 915,
+    "model": "claude-3-opus-20240229",
+    "api": "chat",
+    "response_1": "a",
+    "response_2": "a"
+  }
+}

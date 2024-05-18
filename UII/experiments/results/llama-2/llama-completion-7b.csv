@@ -1,0 +1,916 @@
+batch,topic,index,model,api,response_1,response_2
+63,Politics & Governance,1,llama-2-7b-hf,completion,a,b
+66,Politics & Governance,2,llama-2-7b-hf,completion,a,a
+44,History & Archaeology,3,llama-2-7b-hf,completion,b,b
+81,Social Issues & Ethics,4,llama-2-7b-hf,completion,a,b
+7,Business & Finance,5,llama-2-7b-hf,completion,a,a
+81,Social Issues & Ethics,6,llama-2-7b-hf,completion,b,a
+84,Sports & Fitness,7,llama-2-7b-hf,completion,a,a
+30,Fashion & Beauty,8,llama-2-7b-hf,completion,b,b
+36,Healthcare & Medicine,9,llama-2-7b-hf,completion,b,a
+78,Science & Technology,10,llama-2-7b-hf,completion,b,a
+93,Travel & Tourism,11,llama-2-7b-hf,completion,b,b
+77,Science & Technology,12,llama-2-7b-hf,completion,b,a
+80,Social Issues & Ethics,13,llama-2-7b-hf,completion,b,b
+44,History & Archaeology,14,llama-2-7b-hf,completion,a,b
+21,Entertainment,15,llama-2-7b-hf,completion,b,a
+58,Philosophy & Religion,16,llama-2-7b-hf,completion,b,a
+11,Careers & Employment,17,llama-2-7b-hf,completion,b,b
+19,Education & Learning,18,llama-2-7b-hf,completion,b,a
+51,Hobbies & Leisure,19,llama-2-7b-hf,completion,a,a
+1,Art & Design,20,llama-2-7b-hf,completion,a,a
+32,Food & Culinary,21,llama-2-7b-hf,completion,b,a
+43,History & Archaeology,22,llama-2-7b-hf,completion,b,a
+7,Business & Finance,23,llama-2-7b-hf,completion,b,a
+30,Fashion & Beauty,24,llama-2-7b-hf,completion,a,b
+67,Psychology & Sociology,25,llama-2-7b-hf,completion,b,b
+27,Fashion & Beauty,26,llama-2-7b-hf,completion,a,a
+47,Hobbies & Leisure,27,llama-2-7b-hf,completion,b,a
+18,Education & Learning,28,llama-2-7b-hf,completion,a,b
+47,Hobbies & Leisure,29,llama-2-7b-hf,completion,b,b
+75,Science & Technology,30,llama-2-7b-hf,completion,a,b
+67,Psychology & Sociology,31,llama-2-7b-hf,completion,a,b
+10,Business & Finance,32,llama-2-7b-hf,completion,a,b
+85,Sports & Fitness,33,llama-2-7b-hf,completion,b,a
+58,Philosophy & Religion,34,llama-2-7b-hf,completion,b,b
+45,History & Archaeology,35,llama-2-7b-hf,completion,a,a
+71,Psychology & Sociology,36,llama-2-7b-hf,completion,a,b
+91,Travel & Tourism,37,llama-2-7b-hf,completion,b,a
+58,Philosophy & Religion,38,llama-2-7b-hf,completion,a,b
+17,Education & Learning,39,llama-2-7b-hf,completion,a,a
+85,Sports & Fitness,40,llama-2-7b-hf,completion,b,b
+45,History & Archaeology,41,llama-2-7b-hf,completion,a,a
+37,Healthcare & Medicine,42,llama-2-7b-hf,completion,a,a
+79,Social Issues & Ethics,43,llama-2-7b-hf,completion,a,a
+35,Food & Culinary,44,llama-2-7b-hf,completion,b,a
+13,Careers & Employment,45,llama-2-7b-hf,completion,a,b
+17,Education & Learning,46,llama-2-7b-hf,completion,a,b
+46,History & Archaeology,47,llama-2-7b-hf,completion,b,a
+18,Education & Learning,48,llama-2-7b-hf,completion,b,b
+53,Law & Legal Issues,49,llama-2-7b-hf,completion,a,b
+15,Careers & Employment,50,llama-2-7b-hf,completion,a,b
+83,Social Issues & Ethics,51,llama-2-7b-hf,completion,a,b
+3,Art & Design,52,llama-2-7b-hf,completion,b,b
+56,Law & Legal Issues,53,llama-2-7b-hf,completion,b,a
+41,History & Archaeology,54,llama-2-7b-hf,completion,a,a
+30,Fashion & Beauty,55,llama-2-7b-hf,completion,a,b
+55,Law & Legal Issues,56,llama-2-7b-hf,completion,a,b
+62,Politics & Governance,57,llama-2-7b-hf,completion,a,b
+93,Travel & Tourism,58,llama-2-7b-hf,completion,a,a
+27,Fashion & Beauty,59,llama-2-7b-hf,completion,a,a
+74,Science & Technology,60,llama-2-7b-hf,completion,b,a
+17,Education & Learning,61,llama-2-7b-hf,completion,a,a
+24,Entertainment,62,llama-2-7b-hf,completion,b,a
+87,Sports & Fitness,63,llama-2-7b-hf,completion,a,a
+54,Law & Legal Issues,64,llama-2-7b-hf,completion,b,a
+84,Sports & Fitness,65,llama-2-7b-hf,completion,b,a
+11,Careers & Employment,66,llama-2-7b-hf,completion,b,b
+72,Psychology & Sociology,67,llama-2-7b-hf,completion,b,b
+82,Social Issues & Ethics,68,llama-2-7b-hf,completion,b,b
+43,History & Archaeology,69,llama-2-7b-hf,completion,a,b
+10,Business & Finance,70,llama-2-7b-hf,completion,a,b
+64,Politics & Governance,71,llama-2-7b-hf,completion,a,b
+54,Law & Legal Issues,72,llama-2-7b-hf,completion,b,a
+39,Healthcare & Medicine,73,llama-2-7b-hf,completion,a,a
+43,History & Archaeology,74,llama-2-7b-hf,completion,b,a
+5,Art & Design,75,llama-2-7b-hf,completion,a,b
+80,Social Issues & Ethics,76,llama-2-7b-hf,completion,b,b
+86,Sports & Fitness,77,llama-2-7b-hf,completion,a,a
+11,Careers & Employment,78,llama-2-7b-hf,completion,b,b
+90,Travel & Tourism,79,llama-2-7b-hf,completion,b,a
+82,Social Issues & Ethics,80,llama-2-7b-hf,completion,b,b
+32,Food & Culinary,81,llama-2-7b-hf,completion,a,b
+69,Psychology & Sociology,82,llama-2-7b-hf,completion,a,b
+51,Hobbies & Leisure,83,llama-2-7b-hf,completion,a,a
+81,Social Issues & Ethics,84,llama-2-7b-hf,completion,a,a
+66,Politics & Governance,85,llama-2-7b-hf,completion,b,b
+27,Fashion & Beauty,86,llama-2-7b-hf,completion,b,a
+48,Hobbies & Leisure,87,llama-2-7b-hf,completion,a,b
+68,Psychology & Sociology,88,llama-2-7b-hf,completion,b,b
+52,Law & Legal Issues,89,llama-2-7b-hf,completion,a,b
+18,Education & Learning,90,llama-2-7b-hf,completion,a,b
+54,Law & Legal Issues,91,llama-2-7b-hf,completion,b,a
+50,Hobbies & Leisure,92,llama-2-7b-hf,completion,a,b
+74,Science & Technology,93,llama-2-7b-hf,completion,a,b
+22,Entertainment,94,llama-2-7b-hf,completion,b,a
+68,Psychology & Sociology,95,llama-2-7b-hf,completion,b,b
+63,Politics & Governance,96,llama-2-7b-hf,completion,b,b
+22,Entertainment,97,llama-2-7b-hf,completion,b,a
+51,Hobbies & Leisure,98,llama-2-7b-hf,completion,b,a
+29,Fashion & Beauty,99,llama-2-7b-hf,completion,b,a
+43,History & Archaeology,100,llama-2-7b-hf,completion,a,a
+45,History & Archaeology,101,llama-2-7b-hf,completion,b,b
+23,Entertainment,102,llama-2-7b-hf,completion,b,b
+47,Hobbies & Leisure,103,llama-2-7b-hf,completion,b,a
+83,Social Issues & Ethics,104,llama-2-7b-hf,completion,a,a
+2,Art & Design,105,llama-2-7b-hf,completion,a,b
+19,Education & Learning,106,llama-2-7b-hf,completion,a,b
+73,Science & Technology,107,llama-2-7b-hf,completion,a,a
+55,Law & Legal Issues,108,llama-2-7b-hf,completion,a,b
+61,Philosophy & Religion,109,llama-2-7b-hf,completion,b,a
+38,Healthcare & Medicine,110,llama-2-7b-hf,completion,a,b
+33,Food & Culinary,111,llama-2-7b-hf,completion,b,b
+31,Food & Culinary,112,llama-2-7b-hf,completion,b,a
+48,Hobbies & Leisure,113,llama-2-7b-hf,completion,a,a
+16,Education & Learning,114,llama-2-7b-hf,completion,b,a
+26,Fashion & Beauty,115,llama-2-7b-hf,completion,a,a
+32,Food & Culinary,116,llama-2-7b-hf,completion,b,a
+50,Hobbies & Leisure,117,llama-2-7b-hf,completion,b,a
+65,Politics & Governance,118,llama-2-7b-hf,completion,a,a
+57,Philosophy & Religion,119,llama-2-7b-hf,completion,b,a
+60,Philosophy & Religion,120,llama-2-7b-hf,completion,b,b
+88,Sports & Fitness,121,llama-2-7b-hf,completion,b,a
+77,Science & Technology,122,llama-2-7b-hf,completion,a,b
+17,Education & Learning,123,llama-2-7b-hf,completion,a,b
+53,Law & Legal Issues,124,llama-2-7b-hf,completion,b,b
+22,Entertainment,125,llama-2-7b-hf,completion,b,b
+19,Education & Learning,126,llama-2-7b-hf,completion,b,a
+22,Entertainment,127,llama-2-7b-hf,completion,b,b
+91,Travel & Tourism,128,llama-2-7b-hf,completion,a,b
+10,Business & Finance,129,llama-2-7b-hf,completion,a,a
+69,Psychology & Sociology,130,llama-2-7b-hf,completion,a,b
+55,Law & Legal Issues,131,llama-2-7b-hf,completion,b,a
+4,Art & Design,132,llama-2-7b-hf,completion,a,a
+18,Education & Learning,133,llama-2-7b-hf,completion,a,b
+18,Education & Learning,134,llama-2-7b-hf,completion,a,b
+63,Politics & Governance,135,llama-2-7b-hf,completion,b,b
+23,Entertainment,136,llama-2-7b-hf,completion,b,b
+37,Healthcare & Medicine,137,llama-2-7b-hf,completion,b,a
+24,Entertainment,138,llama-2-7b-hf,completion,a,a
+29,Fashion & Beauty,139,llama-2-7b-hf,completion,a,b
+46,History & Archaeology,140,llama-2-7b-hf,completion,a,b
+70,Psychology & Sociology,141,llama-2-7b-hf,completion,a,a
+13,Careers & Employment,142,llama-2-7b-hf,completion,a,a
+61,Philosophy & Religion,143,llama-2-7b-hf,completion,b,b
+25,Entertainment,144,llama-2-7b-hf,completion,b,b
+80,Social Issues & Ethics,145,llama-2-7b-hf,completion,b,a
+75,Science & Technology,146,llama-2-7b-hf,completion,a,a
+40,Healthcare & Medicine,147,llama-2-7b-hf,completion,a,a
+59,Philosophy & Religion,148,llama-2-7b-hf,completion,a,b
+19,Education & Learning,149,llama-2-7b-hf,completion,a,b
+87,Sports & Fitness,150,llama-2-7b-hf,completion,a,a
+14,Careers & Employment,151,llama-2-7b-hf,completion,b,b
+24,Entertainment,152,llama-2-7b-hf,completion,b,a
+80,Social Issues & Ethics,153,llama-2-7b-hf,completion,a,b
+92,Travel & Tourism,154,llama-2-7b-hf,completion,b,a
+1,Art & Design,155,llama-2-7b-hf,completion,a,b
+23,Entertainment,156,llama-2-7b-hf,completion,a,b
+78,Science & Technology,157,llama-2-7b-hf,completion,b,a
+64,Politics & Governance,158,llama-2-7b-hf,completion,a,b
+2,Art & Design,159,llama-2-7b-hf,completion,b,a
+67,Psychology & Sociology,160,llama-2-7b-hf,completion,a,a
+67,Psychology & Sociology,161,llama-2-7b-hf,completion,b,b
+87,Sports & Fitness,162,llama-2-7b-hf,completion,b,b
+79,Social Issues & Ethics,163,llama-2-7b-hf,completion,b,b
+10,Business & Finance,164,llama-2-7b-hf,completion,a,a
+73,Science & Technology,165,llama-2-7b-hf,completion,b,a
+89,Travel & Tourism,166,llama-2-7b-hf,completion,b,a
+76,Science & Technology,167,llama-2-7b-hf,completion,b,b
+38,Healthcare & Medicine,168,llama-2-7b-hf,completion,b,b
+72,Psychology & Sociology,169,llama-2-7b-hf,completion,a,b
+15,Careers & Employment,170,llama-2-7b-hf,completion,b,b
+79,Social Issues & Ethics,171,llama-2-7b-hf,completion,b,b
+86,Sports & Fitness,172,llama-2-7b-hf,completion,a,b
+28,Fashion & Beauty,173,llama-2-7b-hf,completion,b,a
+88,Sports & Fitness,174,llama-2-7b-hf,completion,a,a
+11,Careers & Employment,175,llama-2-7b-hf,completion,b,b
+32,Food & Culinary,176,llama-2-7b-hf,completion,b,b
+50,Hobbies & Leisure,177,llama-2-7b-hf,completion,b,b
+89,Travel & Tourism,178,llama-2-7b-hf,completion,b,a
+25,Entertainment,179,llama-2-7b-hf,completion,b,b
+55,Law & Legal Issues,180,llama-2-7b-hf,completion,b,b
+14,Careers & Employment,181,llama-2-7b-hf,completion,b,b
+52,Law & Legal Issues,182,llama-2-7b-hf,completion,a,a
+40,Healthcare & Medicine,183,llama-2-7b-hf,completion,a,a
+76,Science & Technology,184,llama-2-7b-hf,completion,a,a
+22,Entertainment,185,llama-2-7b-hf,completion,b,a
+25,Entertainment,186,llama-2-7b-hf,completion,a,a
+32,Food & Culinary,187,llama-2-7b-hf,completion,a,a
+49,Hobbies & Leisure,188,llama-2-7b-hf,completion,b,b
+65,Politics & Governance,189,llama-2-7b-hf,completion,a,b
+41,History & Archaeology,190,llama-2-7b-hf,completion,b,b
+41,History & Archaeology,191,llama-2-7b-hf,completion,a,a
+38,Healthcare & Medicine,192,llama-2-7b-hf,completion,a,b
+51,Hobbies & Leisure,193,llama-2-7b-hf,completion,a,b
+52,Law & Legal Issues,194,llama-2-7b-hf,completion,a,b
+21,Entertainment,195,llama-2-7b-hf,completion,a,a
+43,History & Archaeology,196,llama-2-7b-hf,completion,b,b
+64,Politics & Governance,197,llama-2-7b-hf,completion,a,a
+83,Social Issues & Ethics,198,llama-2-7b-hf,completion,a,b
+81,Social Issues & Ethics,199,llama-2-7b-hf,completion,b,b
+91,Travel & Tourism,200,llama-2-7b-hf,completion,a,b
+16,Education & Learning,201,llama-2-7b-hf,completion,b,b
+51,Hobbies & Leisure,202,llama-2-7b-hf,completion,b,b
+65,Politics & Governance,203,llama-2-7b-hf,completion,a,a
+62,Politics & Governance,204,llama-2-7b-hf,completion,a,a
+76,Science & Technology,205,llama-2-7b-hf,completion,b,b
+9,Business & Finance,206,llama-2-7b-hf,completion,b,a
+68,Psychology & Sociology,207,llama-2-7b-hf,completion,a,b
+49,Hobbies & Leisure,208,llama-2-7b-hf,completion,a,a
+93,Travel & Tourism,209,llama-2-7b-hf,completion,b,a
+37,Healthcare & Medicine,210,llama-2-7b-hf,completion,b,b
+1,Art & Design,211,llama-2-7b-hf,completion,b,a
+23,Entertainment,212,llama-2-7b-hf,completion,b,a
+20,Education & Learning,213,llama-2-7b-hf,completion,a,b
+23,Entertainment,214,llama-2-7b-hf,completion,a,a
+64,Politics & Governance,215,llama-2-7b-hf,completion,b,a
+8,Business & Finance,216,llama-2-7b-hf,completion,a,b
+7,Business & Finance,217,llama-2-7b-hf,completion,b,a
+3,Art & Design,218,llama-2-7b-hf,completion,a,a
+23,Entertainment,219,llama-2-7b-hf,completion,b,b
+56,Law & Legal Issues,220,llama-2-7b-hf,completion,a,b
+34,Food & Culinary,221,llama-2-7b-hf,completion,b,a
+85,Sports & Fitness,222,llama-2-7b-hf,completion,a,a
+29,Fashion & Beauty,223,llama-2-7b-hf,completion,a,a
+4,Art & Design,224,llama-2-7b-hf,completion,b,b
+82,Social Issues & Ethics,225,llama-2-7b-hf,completion,a,b
+30,Fashion & Beauty,226,llama-2-7b-hf,completion,b,b
+67,Psychology & Sociology,227,llama-2-7b-hf,completion,a,a
+61,Philosophy & Religion,228,llama-2-7b-hf,completion,b,b
+4,Art & Design,229,llama-2-7b-hf,completion,a,a
+5,Art & Design,230,llama-2-7b-hf,completion,a,a
+71,Psychology & Sociology,231,llama-2-7b-hf,completion,b,a
+73,Science & Technology,232,llama-2-7b-hf,completion,a,a
+29,Fashion & Beauty,233,llama-2-7b-hf,completion,a,b
+10,Business & Finance,234,llama-2-7b-hf,completion,a,a
+5,Art & Design,235,llama-2-7b-hf,completion,b,a
+30,Fashion & Beauty,236,llama-2-7b-hf,completion,a,b
+26,Fashion & Beauty,237,llama-2-7b-hf,completion,b,b
+40,Healthcare & Medicine,238,llama-2-7b-hf,completion,a,a
+90,Travel & Tourism,239,llama-2-7b-hf,completion,a,b
+55,Law & Legal Issues,240,llama-2-7b-hf,completion,b,b
+62,Politics & Governance,241,llama-2-7b-hf,completion,a,b
+49,Hobbies & Leisure,242,llama-2-7b-hf,completion,b,a
+44,History & Archaeology,243,llama-2-7b-hf,completion,a,a
+73,Science & Technology,244,llama-2-7b-hf,completion,b,b
+9,Business & Finance,245,llama-2-7b-hf,completion,a,a
+46,History & Archaeology,246,llama-2-7b-hf,completion,a,b
+25,Entertainment,247,llama-2-7b-hf,completion,b,a
+4,Art & Design,248,llama-2-7b-hf,completion,b,a
+82,Social Issues & Ethics,249,llama-2-7b-hf,completion,b,a
+11,Careers & Employment,250,llama-2-7b-hf,completion,a,a
+74,Science & Technology,251,llama-2-7b-hf,completion,b,b
+20,Education & Learning,252,llama-2-7b-hf,completion,b,b
+24,Entertainment,253,llama-2-7b-hf,completion,b,a
+89,Travel & Tourism,254,llama-2-7b-hf,completion,a,a
+31,Food & Culinary,255,llama-2-7b-hf,completion,b,a
+13,Careers & Employment,256,llama-2-7b-hf,completion,b,a
+86,Sports & Fitness,257,llama-2-7b-hf,completion,b,a
+84,Sports & Fitness,258,llama-2-7b-hf,completion,a,b
+57,Philosophy & Religion,259,llama-2-7b-hf,completion,a,b
+40,Healthcare & Medicine,260,llama-2-7b-hf,completion,a,b
+87,Sports & Fitness,261,llama-2-7b-hf,completion,b,b
+65,Politics & Governance,262,llama-2-7b-hf,completion,b,a
+45,History & Archaeology,263,llama-2-7b-hf,completion,a,a
+74,Science & Technology,264,llama-2-7b-hf,completion,b,b
+78,Science & Technology,265,llama-2-7b-hf,completion,a,b
+58,Philosophy & Religion,266,llama-2-7b-hf,completion,b,b
+82,Social Issues & Ethics,267,llama-2-7b-hf,completion,a,a
+47,Hobbies & Leisure,268,llama-2-7b-hf,completion,b,a
+39,Healthcare & Medicine,269,llama-2-7b-hf,completion,a,a
+88,Sports & Fitness,270,llama-2-7b-hf,completion,b,b
+21,Entertainment,271,llama-2-7b-hf,completion,a,a
+59,Philosophy & Religion,272,llama-2-7b-hf,completion,a,b
+56,Law & Legal Issues,273,llama-2-7b-hf,completion,a,a
+47,Hobbies & Leisure,274,llama-2-7b-hf,completion,b,b
+53,Law & Legal Issues,275,llama-2-7b-hf,completion,a,b
+48,Hobbies & Leisure,276,llama-2-7b-hf,completion,b,b
+12,Careers & Employment,277,llama-2-7b-hf,completion,b,b
+52,Law & Legal Issues,278,llama-2-7b-hf,completion,b,a
+53,Law & Legal Issues,279,llama-2-7b-hf,completion,a,a
+66,Politics & Governance,280,llama-2-7b-hf,completion,a,b
+91,Travel & Tourism,281,llama-2-7b-hf,completion,a,a
+31,Food & Culinary,282,llama-2-7b-hf,completion,a,a
+92,Travel & Tourism,283,llama-2-7b-hf,completion,b,a
+93,Travel & Tourism,284,llama-2-7b-hf,completion,b,a
+74,Science & Technology,285,llama-2-7b-hf,completion,a,a
+7,Business & Finance,286,llama-2-7b-hf,completion,a,b
+70,Psychology & Sociology,287,llama-2-7b-hf,completion,a,a
+13,Careers & Employment,288,llama-2-7b-hf,completion,b,a
+41,History & Archaeology,289,llama-2-7b-hf,completion,b,a
+66,Politics & Governance,290,llama-2-7b-hf,completion,a,b
+17,Education & Learning,291,llama-2-7b-hf,completion,b,b
+51,Hobbies & Leisure,292,llama-2-7b-hf,completion,a,a
+79,Social Issues & Ethics,293,llama-2-7b-hf,completion,a,b
+1,Art & Design,294,llama-2-7b-hf,completion,a,b
+50,Hobbies & Leisure,295,llama-2-7b-hf,completion,b,a
+33,Food & Culinary,296,llama-2-7b-hf,completion,a,a
+85,Sports & Fitness,297,llama-2-7b-hf,completion,b,b
+83,Social Issues & Ethics,298,llama-2-7b-hf,completion,a,a
+73,Science & Technology,299,llama-2-7b-hf,completion,a,a
+20,Education & Learning,300,llama-2-7b-hf,completion,b,b
+71,Psychology & Sociology,301,llama-2-7b-hf,completion,a,b
+35,Food & Culinary,302,llama-2-7b-hf,completion,a,a
+19,Education & Learning,303,llama-2-7b-hf,completion,b,b
+55,Law & Legal Issues,304,llama-2-7b-hf,completion,b,a
+9,Business & Finance,305,llama-2-7b-hf,completion,a,a
+78,Science & Technology,306,llama-2-7b-hf,completion,a,b
+83,Social Issues & Ethics,307,llama-2-7b-hf,completion,b,a
+9,Business & Finance,308,llama-2-7b-hf,completion,b,b
+12,Careers & Employment,309,llama-2-7b-hf,completion,a,a
+41,History & Archaeology,310,llama-2-7b-hf,completion,a,a
+73,Science & Technology,311,llama-2-7b-hf,completion,b,a
+42,History & Archaeology,312,llama-2-7b-hf,completion,b,a
+28,Fashion & Beauty,313,llama-2-7b-hf,completion,a,b
+18,Education & Learning,314,llama-2-7b-hf,completion,a,a
+7,Business & Finance,315,llama-2-7b-hf,completion,a,b
+58,Philosophy & Religion,316,llama-2-7b-hf,completion,b,a
+13,Careers & Employment,317,llama-2-7b-hf,completion,a,a
+89,Travel & Tourism,318,llama-2-7b-hf,completion,b,a
+15,Careers & Employment,319,llama-2-7b-hf,completion,a,a
+44,History & Archaeology,320,llama-2-7b-hf,completion,b,a
+27,Fashion & Beauty,321,llama-2-7b-hf,completion,a,a
+43,History & Archaeology,322,llama-2-7b-hf,completion,b,b
+84,Sports & Fitness,323,llama-2-7b-hf,completion,b,a
+74,Science & Technology,324,llama-2-7b-hf,completion,b,a
+79,Social Issues & Ethics,325,llama-2-7b-hf,completion,b,a
+45,History & Archaeology,326,llama-2-7b-hf,completion,b,b
+78,Science & Technology,327,llama-2-7b-hf,completion,a,b
+30,Fashion & Beauty,328,llama-2-7b-hf,completion,b,a
+20,Education & Learning,329,llama-2-7b-hf,completion,a,b
+40,Healthcare & Medicine,330,llama-2-7b-hf,completion,a,b
+18,Education & Learning,331,llama-2-7b-hf,completion,b,a
+34,Food & Culinary,332,llama-2-7b-hf,completion,b,a
+85,Sports & Fitness,333,llama-2-7b-hf,completion,a,a
+20,Education & Learning,334,llama-2-7b-hf,completion,a,b
+61,Philosophy & Religion,335,llama-2-7b-hf,completion,b,a
+4,Art & Design,336,llama-2-7b-hf,completion,b,a
+19,Education & Learning,337,llama-2-7b-hf,completion,a,b
+3,Art & Design,338,llama-2-7b-hf,completion,b,a
+8,Business & Finance,339,llama-2-7b-hf,completion,a,b
+79,Social Issues & Ethics,340,llama-2-7b-hf,completion,b,a
+26,Fashion & Beauty,341,llama-2-7b-hf,completion,b,b
+64,Politics & Governance,342,llama-2-7b-hf,completion,a,a
+42,History & Archaeology,343,llama-2-7b-hf,completion,a,a
+16,Education & Learning,344,llama-2-7b-hf,completion,b,b
+73,Science & Technology,345,llama-2-7b-hf,completion,b,a
+67,Psychology & Sociology,346,llama-2-7b-hf,completion,b,a
+9,Business & Finance,347,llama-2-7b-hf,completion,a,b
+80,Social Issues & Ethics,348,llama-2-7b-hf,completion,a,b
+62,Politics & Governance,349,llama-2-7b-hf,completion,a,a
+58,Philosophy & Religion,350,llama-2-7b-hf,completion,b,a
+39,Healthcare & Medicine,351,llama-2-7b-hf,completion,a,a
+70,Psychology & Sociology,352,llama-2-7b-hf,completion,a,a
+9,Business & Finance,353,llama-2-7b-hf,completion,b,a
+10,Business & Finance,354,llama-2-7b-hf,completion,b,b
+1,Art & Design,355,llama-2-7b-hf,completion,b,b
+31,Food & Culinary,356,llama-2-7b-hf,completion,a,a
+43,History & Archaeology,357,llama-2-7b-hf,completion,b,b
+61,Philosophy & Religion,358,llama-2-7b-hf,completion,a,b
+50,Hobbies & Leisure,359,llama-2-7b-hf,completion,a,b
+8,Business & Finance,360,llama-2-7b-hf,completion,a,b
+24,Entertainment,361,llama-2-7b-hf,completion,b,b
+33,Food & Culinary,362,llama-2-7b-hf,completion,b,a
+17,Education & Learning,363,llama-2-7b-hf,completion,b,b
+22,Entertainment,364,llama-2-7b-hf,completion,b,b
+34,Food & Culinary,365,llama-2-7b-hf,completion,a,b
+63,Politics & Governance,366,llama-2-7b-hf,completion,a,b
+37,Healthcare & Medicine,367,llama-2-7b-hf,completion,a,b
+77,Science & Technology,368,llama-2-7b-hf,completion,b,b
+89,Travel & Tourism,369,llama-2-7b-hf,completion,a,a
+59,Philosophy & Religion,370,llama-2-7b-hf,completion,b,b
+46,History & Archaeology,371,llama-2-7b-hf,completion,b,b
+15,Careers & Employment,372,llama-2-7b-hf,completion,a,b
+16,Education & Learning,373,llama-2-7b-hf,completion,a,a
+90,Travel & Tourism,374,llama-2-7b-hf,completion,a,a
+56,Law & Legal Issues,375,llama-2-7b-hf,completion,a,b
+7,Business & Finance,376,llama-2-7b-hf,completion,b,b
+87,Sports & Fitness,377,llama-2-7b-hf,completion,a,a
+10,Business & Finance,378,llama-2-7b-hf,completion,a,b
+34,Food & Culinary,379,llama-2-7b-hf,completion,a,b
+54,Law & Legal Issues,380,llama-2-7b-hf,completion,b,a
+33,Food & Culinary,381,llama-2-7b-hf,completion,b,b
+20,Education & Learning,382,llama-2-7b-hf,completion,a,a
+54,Law & Legal Issues,383,llama-2-7b-hf,completion,a,b
+91,Travel & Tourism,384,llama-2-7b-hf,completion,b,b
+48,Hobbies & Leisure,385,llama-2-7b-hf,completion,b,b
+4,Art & Design,386,llama-2-7b-hf,completion,b,b
+68,Psychology & Sociology,387,llama-2-7b-hf,completion,b,b
+35,Food & Culinary,388,llama-2-7b-hf,completion,a,b
+80,Social Issues & Ethics,389,llama-2-7b-hf,completion,b,a
+3,Art & Design,390,llama-2-7b-hf,completion,b,b
+22,Entertainment,391,llama-2-7b-hf,completion,b,b
+60,Philosophy & Religion,392,llama-2-7b-hf,completion,a,a
+93,Travel & Tourism,393,llama-2-7b-hf,completion,a,a
+75,Science & Technology,394,llama-2-7b-hf,completion,a,b
+77,Science & Technology,395,llama-2-7b-hf,completion,a,b
+2,Art & Design,396,llama-2-7b-hf,completion,a,a
+73,Science & Technology,397,llama-2-7b-hf,completion,a,a
+92,Travel & Tourism,398,llama-2-7b-hf,completion,b,b
+49,Hobbies & Leisure,399,llama-2-7b-hf,completion,a,b
+2,Art & Design,400,llama-2-7b-hf,completion,a,b
+12,Careers & Employment,401,llama-2-7b-hf,completion,b,b
+81,Social Issues & Ethics,402,llama-2-7b-hf,completion,b,a
+26,Fashion & Beauty,403,llama-2-7b-hf,completion,a,b
+17,Education & Learning,404,llama-2-7b-hf,completion,b,b
+59,Philosophy & Religion,405,llama-2-7b-hf,completion,a,b
+39,Healthcare & Medicine,406,llama-2-7b-hf,completion,b,a
+86,Sports & Fitness,407,llama-2-7b-hf,completion,b,a
+34,Food & Culinary,408,llama-2-7b-hf,completion,a,a
+31,Food & Culinary,409,llama-2-7b-hf,completion,a,b
+76,Science & Technology,410,llama-2-7b-hf,completion,b,a
+58,Philosophy & Religion,411,llama-2-7b-hf,completion,a,b
+14,Careers & Employment,412,llama-2-7b-hf,completion,b,a
+28,Fashion & Beauty,413,llama-2-7b-hf,completion,a,b
+75,Science & Technology,414,llama-2-7b-hf,completion,b,a
+87,Sports & Fitness,415,llama-2-7b-hf,completion,a,a
+92,Travel & Tourism,416,llama-2-7b-hf,completion,a,a
+88,Sports & Fitness,417,llama-2-7b-hf,completion,b,b
+35,Food & Culinary,418,llama-2-7b-hf,completion,b,b
+60,Philosophy & Religion,419,llama-2-7b-hf,completion,a,b
+52,Law & Legal Issues,420,llama-2-7b-hf,completion,b,a
+3,Art & Design,421,llama-2-7b-hf,completion,b,a
+32,Food & Culinary,422,llama-2-7b-hf,completion,b,a
+57,Philosophy & Religion,423,llama-2-7b-hf,completion,b,a
+1,Art & Design,424,llama-2-7b-hf,completion,b,b
+15,Careers & Employment,425,llama-2-7b-hf,completion,b,a
+39,Healthcare & Medicine,426,llama-2-7b-hf,completion,a,b
+45,History & Archaeology,427,llama-2-7b-hf,completion,b,a
+50,Hobbies & Leisure,428,llama-2-7b-hf,completion,a,a
+6,Business & Finance,429,llama-2-7b-hf,completion,b,a
+20,Education & Learning,430,llama-2-7b-hf,completion,b,a
+62,Politics & Governance,431,llama-2-7b-hf,completion,a,a
+81,Social Issues & Ethics,432,llama-2-7b-hf,completion,a,a
+18,Education & Learning,433,llama-2-7b-hf,completion,b,a
+72,Psychology & Sociology,434,llama-2-7b-hf,completion,b,a
+76,Science & Technology,435,llama-2-7b-hf,completion,a,b
+32,Food & Culinary,436,llama-2-7b-hf,completion,b,a
+34,Food & Culinary,437,llama-2-7b-hf,completion,b,a
+27,Fashion & Beauty,438,llama-2-7b-hf,completion,b,a
+53,Law & Legal Issues,439,llama-2-7b-hf,completion,a,b
+46,History & Archaeology,440,llama-2-7b-hf,completion,a,a
+30,Fashion & Beauty,441,llama-2-7b-hf,completion,b,a
+46,History & Archaeology,442,llama-2-7b-hf,completion,a,a
+37,Healthcare & Medicine,443,llama-2-7b-hf,completion,b,b
+13,Careers & Employment,444,llama-2-7b-hf,completion,b,a
+15,Careers & Employment,445,llama-2-7b-hf,completion,b,b
+25,Entertainment,446,llama-2-7b-hf,completion,b,a
+35,Food & Culinary,447,llama-2-7b-hf,completion,b,b
+38,Healthcare & Medicine,448,llama-2-7b-hf,completion,b,a
+84,Sports & Fitness,449,llama-2-7b-hf,completion,b,b
+92,Travel & Tourism,450,llama-2-7b-hf,completion,b,a
+92,Travel & Tourism,451,llama-2-7b-hf,completion,b,b
+84,Sports & Fitness,452,llama-2-7b-hf,completion,b,b
+33,Food & Culinary,453,llama-2-7b-hf,completion,a,b
+20,Education & Learning,454,llama-2-7b-hf,completion,b,a
+19,Education & Learning,455,llama-2-7b-hf,completion,a,a
+59,Philosophy & Religion,456,llama-2-7b-hf,completion,a,a
+76,Science & Technology,457,llama-2-7b-hf,completion,b,a
+57,Philosophy & Religion,458,llama-2-7b-hf,completion,a,b
+66,Politics & Governance,459,llama-2-7b-hf,completion,a,b
+2,Art & Design,460,llama-2-7b-hf,completion,a,a
+46,History & Archaeology,461,llama-2-7b-hf,completion,a,b
+78,Science & Technology,462,llama-2-7b-hf,completion,a,b
+42,History & Archaeology,463,llama-2-7b-hf,completion,a,b
+6,Business & Finance,464,llama-2-7b-hf,completion,b,a
+17,Education & Learning,465,llama-2-7b-hf,completion,a,a
+22,Entertainment,466,llama-2-7b-hf,completion,a,b
+8,Business & Finance,467,llama-2-7b-hf,completion,a,b
+3,Art & Design,468,llama-2-7b-hf,completion,b,a
+69,Psychology & Sociology,469,llama-2-7b-hf,completion,b,b
+20,Education & Learning,470,llama-2-7b-hf,completion,a,a
+53,Law & Legal Issues,471,llama-2-7b-hf,completion,b,a
+92,Travel & Tourism,472,llama-2-7b-hf,completion,b,b
+33,Food & Culinary,473,llama-2-7b-hf,completion,b,a
+31,Food & Culinary,474,llama-2-7b-hf,completion,a,b
+59,Philosophy & Religion,475,llama-2-7b-hf,completion,b,a
+39,Healthcare & Medicine,476,llama-2-7b-hf,completion,b,b
+40,Healthcare & Medicine,477,llama-2-7b-hf,completion,a,a
+13,Careers & Employment,478,llama-2-7b-hf,completion,a,a
+6,Business & Finance,479,llama-2-7b-hf,completion,a,b
+26,Fashion & Beauty,480,llama-2-7b-hf,completion,b,b
+66,Politics & Governance,481,llama-2-7b-hf,completion,a,a
+2,Art & Design,482,llama-2-7b-hf,completion,a,a
+27,Fashion & Beauty,483,llama-2-7b-hf,completion,a,a
+90,Travel & Tourism,484,llama-2-7b-hf,completion,b,b
+44,History & Archaeology,485,llama-2-7b-hf,completion,b,a
+3,Art & Design,486,llama-2-7b-hf,completion,b,a
+58,Philosophy & Religion,487,llama-2-7b-hf,completion,b,a
+80,Social Issues & Ethics,488,llama-2-7b-hf,completion,b,a
+1,Art & Design,489,llama-2-7b-hf,completion,a,a
+4,Art & Design,490,llama-2-7b-hf,completion,b,a
+83,Social Issues & Ethics,491,llama-2-7b-hf,completion,b,a
+65,Politics & Governance,492,llama-2-7b-hf,completion,b,b
+93,Travel & Tourism,493,llama-2-7b-hf,completion,b,a
+68,Psychology & Sociology,494,llama-2-7b-hf,completion,a,a
+43,History & Archaeology,495,llama-2-7b-hf,completion,b,b
+3,Art & Design,496,llama-2-7b-hf,completion,a,a
+19,Education & Learning,497,llama-2-7b-hf,completion,b,a
+86,Sports & Fitness,498,llama-2-7b-hf,completion,b,a
+45,History & Archaeology,499,llama-2-7b-hf,completion,b,a
+17,Education & Learning,500,llama-2-7b-hf,completion,b,b
+35,Food & Culinary,501,llama-2-7b-hf,completion,b,a
+37,Healthcare & Medicine,502,llama-2-7b-hf,completion,b,b
+72,Psychology & Sociology,503,llama-2-7b-hf,completion,b,b
+36,Healthcare & Medicine,504,llama-2-7b-hf,completion,b,a
+74,Science & Technology,505,llama-2-7b-hf,completion,b,a
+18,Education & Learning,506,llama-2-7b-hf,completion,b,b
+17,Education & Learning,507,llama-2-7b-hf,completion,b,a
+89,Travel & Tourism,508,llama-2-7b-hf,completion,b,b
+88,Sports & Fitness,509,llama-2-7b-hf,completion,a,a
+38,Healthcare & Medicine,510,llama-2-7b-hf,completion,b,a
+80,Social Issues & Ethics,511,llama-2-7b-hf,completion,b,a
+36,Healthcare & Medicine,512,llama-2-7b-hf,completion,a,a
+36,Healthcare & Medicine,513,llama-2-7b-hf,completion,a,b
+72,Psychology & Sociology,514,llama-2-7b-hf,completion,b,a
+47,Hobbies & Leisure,515,llama-2-7b-hf,completion,a,b
+56,Law & Legal Issues,516,llama-2-7b-hf,completion,b,a
+24,Entertainment,517,llama-2-7b-hf,completion,a,a
+44,History & Archaeology,518,llama-2-7b-hf,completion,b,a
+45,History & Archaeology,519,llama-2-7b-hf,completion,b,a
+82,Social Issues & Ethics,520,llama-2-7b-hf,completion,b,a
+5,Art & Design,521,llama-2-7b-hf,completion,b,a
+23,Entertainment,522,llama-2-7b-hf,completion,a,a
+57,Philosophy & Religion,523,llama-2-7b-hf,completion,a,b
+34,Food & Culinary,524,llama-2-7b-hf,completion,a,a
+6,Business & Finance,525,llama-2-7b-hf,completion,b,a
+29,Fashion & Beauty,526,llama-2-7b-hf,completion,a,b
+72,Psychology & Sociology,527,llama-2-7b-hf,completion,a,b
+7,Business & Finance,528,llama-2-7b-hf,completion,a,a
+40,Healthcare & Medicine,529,llama-2-7b-hf,completion,b,b
+14,Careers & Employment,530,llama-2-7b-hf,completion,b,b
+36,Healthcare & Medicine,531,llama-2-7b-hf,completion,b,a
+24,Entertainment,532,llama-2-7b-hf,completion,b,a
+18,Education & Learning,533,llama-2-7b-hf,completion,a,a
+58,Philosophy & Religion,534,llama-2-7b-hf,completion,b,b
+51,Hobbies & Leisure,535,llama-2-7b-hf,completion,a,a
+8,Business & Finance,536,llama-2-7b-hf,completion,b,a
+72,Psychology & Sociology,537,llama-2-7b-hf,completion,a,a
+74,Science & Technology,538,llama-2-7b-hf,completion,b,b
+25,Entertainment,539,llama-2-7b-hf,completion,a,a
+83,Social Issues & Ethics,540,llama-2-7b-hf,completion,a,b
+39,Healthcare & Medicine,541,llama-2-7b-hf,completion,a,a
+77,Science & Technology,542,llama-2-7b-hf,completion,a,b
+8,Business & Finance,543,llama-2-7b-hf,completion,b,a
+7,Business & Finance,544,llama-2-7b-hf,completion,b,b
+90,Travel & Tourism,545,llama-2-7b-hf,completion,a,b
+32,Food & Culinary,546,llama-2-7b-hf,completion,b,b
+69,Psychology & Sociology,547,llama-2-7b-hf,completion,a,b
+56,Law & Legal Issues,548,llama-2-7b-hf,completion,a,b
+55,Law & Legal Issues,549,llama-2-7b-hf,completion,a,a
+28,Fashion & Beauty,550,llama-2-7b-hf,completion,b,b
+46,History & Archaeology,551,llama-2-7b-hf,completion,a,a
+4,Art & Design,552,llama-2-7b-hf,completion,b,a
+71,Psychology & Sociology,553,llama-2-7b-hf,completion,a,b
+74,Science & Technology,554,llama-2-7b-hf,completion,a,a
+56,Law & Legal Issues,555,llama-2-7b-hf,completion,a,b
+6,Business & Finance,556,llama-2-7b-hf,completion,a,b
+70,Psychology & Sociology,557,llama-2-7b-hf,completion,a,b
+71,Psychology & Sociology,558,llama-2-7b-hf,completion,b,b
+55,Law & Legal Issues,559,llama-2-7b-hf,completion,a,a
+36,Healthcare & Medicine,560,llama-2-7b-hf,completion,a,b
+82,Social Issues & Ethics,561,llama-2-7b-hf,completion,a,a
+68,Psychology & Sociology,562,llama-2-7b-hf,completion,a,a
+31,Food & Culinary,563,llama-2-7b-hf,completion,b,a
+5,Art & Design,564,llama-2-7b-hf,completion,b,b
+35,Food & Culinary,565,llama-2-7b-hf,completion,b,b
+12,Careers & Employment,566,llama-2-7b-hf,completion,b,b
+16,Education & Learning,567,llama-2-7b-hf,completion,b,b
+38,Healthcare & Medicine,568,llama-2-7b-hf,completion,b,a
+21,Entertainment,569,llama-2-7b-hf,completion,b,a
+71,Psychology & Sociology,570,llama-2-7b-hf,completion,b,b
+68,Psychology & Sociology,571,llama-2-7b-hf,completion,a,a
+63,Politics & Governance,572,llama-2-7b-hf,completion,a,b
+76,Science & Technology,573,llama-2-7b-hf,completion,a,a
+9,Business & Finance,574,llama-2-7b-hf,completion,b,a
+54,Law & Legal Issues,575,llama-2-7b-hf,completion,b,b
+75,Science & Technology,576,llama-2-7b-hf,completion,a,a
+84,Sports & Fitness,577,llama-2-7b-hf,completion,a,b
+52,Law & Legal Issues,578,llama-2-7b-hf,completion,a,a
+69,Psychology & Sociology,579,llama-2-7b-hf,completion,a,b
+89,Travel & Tourism,580,llama-2-7b-hf,completion,b,a
+6,Business & Finance,581,llama-2-7b-hf,completion,b,b
+45,History & Archaeology,582,llama-2-7b-hf,completion,b,a
+54,Law & Legal Issues,583,llama-2-7b-hf,completion,a,b
+35,Food & Culinary,584,llama-2-7b-hf,completion,b,b
+43,History & Archaeology,585,llama-2-7b-hf,completion,b,b
+64,Politics & Governance,586,llama-2-7b-hf,completion,a,b
+21,Entertainment,587,llama-2-7b-hf,completion,b,a
+14,Careers & Employment,588,llama-2-7b-hf,completion,a,a
+57,Philosophy & Religion,589,llama-2-7b-hf,completion,a,a
+5,Art & Design,590,llama-2-7b-hf,completion,b,b
+23,Entertainment,591,llama-2-7b-hf,completion,b,b
+53,Law & Legal Issues,592,llama-2-7b-hf,completion,a,a
+57,Philosophy & Religion,593,llama-2-7b-hf,completion,b,b
+29,Fashion & Beauty,594,llama-2-7b-hf,completion,b,b
+14,Careers & Employment,595,llama-2-7b-hf,completion,b,a
+78,Science & Technology,596,llama-2-7b-hf,completion,a,b
+50,Hobbies & Leisure,597,llama-2-7b-hf,completion,a,a
+28,Fashion & Beauty,598,llama-2-7b-hf,completion,a,b
+86,Sports & Fitness,599,llama-2-7b-hf,completion,b,a
+69,Psychology & Sociology,600,llama-2-7b-hf,completion,a,b
+81,Social Issues & Ethics,601,llama-2-7b-hf,completion,b,a
+19,Education & Learning,602,llama-2-7b-hf,completion,a,b
+35,Food & Culinary,603,llama-2-7b-hf,completion,b,a
+26,Fashion & Beauty,604,llama-2-7b-hf,completion,b,b
+88,Sports & Fitness,605,llama-2-7b-hf,completion,a,b
+59,Philosophy & Religion,606,llama-2-7b-hf,completion,a,b
+38,Healthcare & Medicine,607,llama-2-7b-hf,completion,b,a
+56,Law & Legal Issues,608,llama-2-7b-hf,completion,a,a
+25,Entertainment,609,llama-2-7b-hf,completion,a,a
+36,Healthcare & Medicine,610,llama-2-7b-hf,completion,b,b
+64,Politics & Governance,611,llama-2-7b-hf,completion,a,b
+37,Healthcare & Medicine,612,llama-2-7b-hf,completion,b,a
+27,Fashion & Beauty,613,llama-2-7b-hf,completion,a,b
+49,Hobbies & Leisure,614,llama-2-7b-hf,completion,b,b
+73,Science & Technology,615,llama-2-7b-hf,completion,a,a
+63,Politics & Governance,616,llama-2-7b-hf,completion,a,a
+25,Entertainment,617,llama-2-7b-hf,completion,a,a
+90,Travel & Tourism,618,llama-2-7b-hf,completion,a,b
+60,Philosophy & Religion,619,llama-2-7b-hf,completion,b,a
+62,Politics & Governance,620,llama-2-7b-hf,completion,a,a
+23,Entertainment,621,llama-2-7b-hf,completion,b,a
+71,Psychology & Sociology,622,llama-2-7b-hf,completion,a,a
+47,Hobbies & Leisure,623,llama-2-7b-hf,completion,b,a
+47,Hobbies & Leisure,624,llama-2-7b-hf,completion,a,a
+41,History & Archaeology,625,llama-2-7b-hf,completion,a,a
+91,Travel & Tourism,626,llama-2-7b-hf,completion,b,b
+66,Politics & Governance,627,llama-2-7b-hf,completion,a,a
+54,Law & Legal Issues,628,llama-2-7b-hf,completion,a,b
+28,Fashion & Beauty,629,llama-2-7b-hf,completion,b,b
+81,Social Issues & Ethics,630,llama-2-7b-hf,completion,b,a
+66,Politics & Governance,631,llama-2-7b-hf,completion,b,a
+5,Art & Design,632,llama-2-7b-hf,completion,a,b
+36,Healthcare & Medicine,633,llama-2-7b-hf,completion,a,a
+50,Hobbies & Leisure,634,llama-2-7b-hf,completion,b,a
+52,Law & Legal Issues,635,llama-2-7b-hf,completion,a,a
+38,Healthcare & Medicine,636,llama-2-7b-hf,completion,a,a
+76,Science & Technology,637,llama-2-7b-hf,completion,b,a
+11,Careers & Employment,638,llama-2-7b-hf,completion,a,b
+11,Careers & Employment,639,llama-2-7b-hf,completion,b,b
+34,Food & Culinary,640,llama-2-7b-hf,completion,b,a
+92,Travel & Tourism,641,llama-2-7b-hf,completion,a,a
+83,Social Issues & Ethics,642,llama-2-7b-hf,completion,b,b
+15,Careers & Employment,643,llama-2-7b-hf,completion,a,b
+79,Social Issues & Ethics,644,llama-2-7b-hf,completion,b,a
+60,Philosophy & Religion,645,llama-2-7b-hf,completion,b,a
+71,Psychology & Sociology,646,llama-2-7b-hf,completion,a,b
+8,Business & Finance,647,llama-2-7b-hf,completion,b,b
+42,History & Archaeology,648,llama-2-7b-hf,completion,b,a
+60,Philosophy & Religion,649,llama-2-7b-hf,completion,a,a
+37,Healthcare & Medicine,650,llama-2-7b-hf,completion,a,b
+91,Travel & Tourism,651,llama-2-7b-hf,completion,b,b
+90,Travel & Tourism,652,llama-2-7b-hf,completion,b,a
+28,Fashion & Beauty,653,llama-2-7b-hf,completion,b,a
+6,Business & Finance,654,llama-2-7b-hf,completion,b,a
+86,Sports & Fitness,655,llama-2-7b-hf,completion,b,b
+11,Careers & Employment,656,llama-2-7b-hf,completion,a,a
+67,Psychology & Sociology,657,llama-2-7b-hf,completion,a,b
+39,Healthcare & Medicine,658,llama-2-7b-hf,completion,a,b
+1,Art & Design,659,llama-2-7b-hf,completion,b,b
+56,Law & Legal Issues,660,llama-2-7b-hf,completion,a,a
+65,Politics & Governance,661,llama-2-7b-hf,completion,a,b
+26,Fashion & Beauty,662,llama-2-7b-hf,completion,a,b
+68,Psychology & Sociology,663,llama-2-7b-hf,completion,a,a
+22,Entertainment,664,llama-2-7b-hf,completion,a,a
+61,Philosophy & Religion,665,llama-2-7b-hf,completion,a,b
+51,Hobbies & Leisure,666,llama-2-7b-hf,completion,b,b
+33,Food & Culinary,667,llama-2-7b-hf,completion,a,a
+38,Healthcare & Medicine,668,llama-2-7b-hf,completion,b,a
+14,Careers & Employment,669,llama-2-7b-hf,completion,b,b
+74,Science & Technology,670,llama-2-7b-hf,completion,a,a
+67,Psychology & Sociology,671,llama-2-7b-hf,completion,a,a
+69,Psychology & Sociology,672,llama-2-7b-hf,completion,b,a
+53,Law & Legal Issues,673,llama-2-7b-hf,completion,b,b
+31,Food & Culinary,674,llama-2-7b-hf,completion,b,b
+42,History & Archaeology,675,llama-2-7b-hf,completion,b,b
+50,Hobbies & Leisure,676,llama-2-7b-hf,completion,b,a
+14,Careers & Employment,677,llama-2-7b-hf,completion,a,a
+2,Art & Design,678,llama-2-7b-hf,completion,a,b
+12,Careers & Employment,679,llama-2-7b-hf,completion,a,b
+67,Psychology & Sociology,680,llama-2-7b-hf,completion,a,a
+82,Social Issues & Ethics,681,llama-2-7b-hf,completion,a,b
+87,Sports & Fitness,682,llama-2-7b-hf,completion,a,b
+12,Careers & Employment,683,llama-2-7b-hf,completion,b,a
+28,Fashion & Beauty,684,llama-2-7b-hf,completion,a,b
+64,Politics & Governance,685,llama-2-7b-hf,completion,a,a
+86,Sports & Fitness,686,llama-2-7b-hf,completion,b,b
+61,Philosophy & Religion,687,llama-2-7b-hf,completion,a,b
+60,Philosophy & Religion,688,llama-2-7b-hf,completion,b,a
+54,Law & Legal Issues,689,llama-2-7b-hf,completion,a,a
+48,Hobbies & Leisure,690,llama-2-7b-hf,completion,b,b
+88,Sports & Fitness,691,llama-2-7b-hf,completion,b,a
+79,Social Issues & Ethics,692,llama-2-7b-hf,completion,b,a
+87,Sports & Fitness,693,llama-2-7b-hf,completion,a,a
+65,Politics & Governance,694,llama-2-7b-hf,completion,a,a
+78,Science & Technology,695,llama-2-7b-hf,completion,b,b
+85,Sports & Fitness,696,llama-2-7b-hf,completion,b,a
+70,Psychology & Sociology,697,llama-2-7b-hf,completion,a,a
+76,Science & Technology,698,llama-2-7b-hf,completion,a,a
+41,History & Archaeology,699,llama-2-7b-hf,completion,b,a
+62,Politics & Governance,700,llama-2-7b-hf,completion,b,b
+44,History & Archaeology,701,llama-2-7b-hf,completion,b,b
+25,Entertainment,702,llama-2-7b-hf,completion,b,a
+15,Careers & Employment,703,llama-2-7b-hf,completion,b,a
+27,Fashion & Beauty,704,llama-2-7b-hf,completion,a,b
+84,Sports & Fitness,705,llama-2-7b-hf,completion,b,b
+84,Sports & Fitness,706,llama-2-7b-hf,completion,a,b
+49,Hobbies & Leisure,707,llama-2-7b-hf,completion,a,b
+11,Careers & Employment,708,llama-2-7b-hf,completion,b,a
+12,Careers & Employment,709,llama-2-7b-hf,completion,a,b
+56,Law & Legal Issues,710,llama-2-7b-hf,completion,b,b
+77,Science & Technology,711,llama-2-7b-hf,completion,a,a
+22,Entertainment,712,llama-2-7b-hf,completion,b,a
+77,Science & Technology,713,llama-2-7b-hf,completion,b,a
+85,Sports & Fitness,714,llama-2-7b-hf,completion,b,b
+68,Psychology & Sociology,715,llama-2-7b-hf,completion,b,b
+71,Psychology & Sociology,716,llama-2-7b-hf,completion,a,a
+89,Travel & Tourism,717,llama-2-7b-hf,completion,a,b
+81,Social Issues & Ethics,718,llama-2-7b-hf,completion,b,b
+72,Psychology & Sociology,719,llama-2-7b-hf,completion,a,b
+32,Food & Culinary,720,llama-2-7b-hf,completion,a,b
+82,Social Issues & Ethics,721,llama-2-7b-hf,completion,a,a
+91,Travel & Tourism,722,llama-2-7b-hf,completion,a,b
+47,Hobbies & Leisure,723,llama-2-7b-hf,completion,b,b
+47,Hobbies & Leisure,724,llama-2-7b-hf,completion,a,a
+57,Philosophy & Religion,725,llama-2-7b-hf,completion,a,a
+10,Business & Finance,726,llama-2-7b-hf,completion,b,a
+60,Philosophy & Religion,727,llama-2-7b-hf,completion,b,b
+93,Travel & Tourism,728,llama-2-7b-hf,completion,a,b
+40,Healthcare & Medicine,729,llama-2-7b-hf,completion,a,b
+63,Politics & Governance,730,llama-2-7b-hf,completion,b,a
+86,Sports & Fitness,731,llama-2-7b-hf,completion,b,b
+72,Psychology & Sociology,732,llama-2-7b-hf,completion,b,b
+21,Entertainment,733,llama-2-7b-hf,completion,a,a
+26,Fashion & Beauty,734,llama-2-7b-hf,completion,b,a
+55,Law & Legal Issues,735,llama-2-7b-hf,completion,a,a
+3,Art & Design,736,llama-2-7b-hf,completion,a,a
+72,Psychology & Sociology,737,llama-2-7b-hf,completion,b,b
+66,Politics & Governance,738,llama-2-7b-hf,completion,a,b
+12,Careers & Employment,739,llama-2-7b-hf,completion,a,b
+64,Politics & Governance,740,llama-2-7b-hf,completion,b,a
+60,Philosophy & Religion,741,llama-2-7b-hf,completion,b,a
+16,Education & Learning,742,llama-2-7b-hf,completion,a,a
+52,Law & Legal Issues,743,llama-2-7b-hf,completion,a,b
+79,Social Issues & Ethics,744,llama-2-7b-hf,completion,a,a
+54,Law & Legal Issues,745,llama-2-7b-hf,completion,b,a
+24,Entertainment,746,llama-2-7b-hf,completion,a,b
+90,Travel & Tourism,747,llama-2-7b-hf,completion,a,b
+25,Entertainment,748,llama-2-7b-hf,completion,b,a
+69,Psychology & Sociology,749,llama-2-7b-hf,completion,a,b
+87,Sports & Fitness,750,llama-2-7b-hf,completion,a,b
+29,Fashion & Beauty,751,llama-2-7b-hf,completion,b,b
+60,Philosophy & Religion,752,llama-2-7b-hf,completion,b,b
+63,Politics & Governance,753,llama-2-7b-hf,completion,a,a
+4,Art & Design,754,llama-2-7b-hf,completion,a,a
+62,Politics & Governance,755,llama-2-7b-hf,completion,b,a
+5,Art & Design,756,llama-2-7b-hf,completion,a,a
+86,Sports & Fitness,757,llama-2-7b-hf,completion,a,a
+49,Hobbies & Leisure,758,llama-2-7b-hf,completion,a,a
+79,Social Issues & Ethics,759,llama-2-7b-hf,completion,b,a
+30,Fashion & Beauty,760,llama-2-7b-hf,completion,a,a
+46,History & Archaeology,761,llama-2-7b-hf,completion,a,b
+65,Politics & Governance,762,llama-2-7b-hf,completion,b,b
+40,Healthcare & Medicine,763,llama-2-7b-hf,completion,b,b
+6,Business & Finance,764,llama-2-7b-hf,completion,b,b
+12,Careers & Employment,765,llama-2-7b-hf,completion,a,b
+44,History & Archaeology,766,llama-2-7b-hf,completion,b,b
+30,Fashion & Beauty,767,llama-2-7b-hf,completion,a,a
+78,Science & Technology,768,llama-2-7b-hf,completion,a,b
+8,Business & Finance,769,llama-2-7b-hf,completion,b,b
+78,Science & Technology,770,llama-2-7b-hf,completion,a,a
+35,Food & Culinary,771,llama-2-7b-hf,completion,a,a
+90,Travel & Tourism,772,llama-2-7b-hf,completion,b,b
+49,Hobbies & Leisure,773,llama-2-7b-hf,completion,b,b
+26,Fashion & Beauty,774,llama-2-7b-hf,completion,a,b
+93,Travel & Tourism,775,llama-2-7b-hf,completion,a,b
+16,Education & Learning,776,llama-2-7b-hf,completion,a,b
+65,Politics & Governance,777,llama-2-7b-hf,completion,b,a
+82,Social Issues & Ethics,778,llama-2-7b-hf,completion,a,a
+15,Careers & Employment,779,llama-2-7b-hf,completion,b,b
+51,Hobbies & Leisure,780,llama-2-7b-hf,completion,b,a
+85,Sports & Fitness,781,llama-2-7b-hf,completion,a,a
+62,Politics & Governance,782,llama-2-7b-hf,completion,b,b
+7,Business & Finance,783,llama-2-7b-hf,completion,a,a
+14,Careers & Employment,784,llama-2-7b-hf,completion,a,b
+33,Food & Culinary,785,llama-2-7b-hf,completion,a,b
+83,Social Issues & Ethics,786,llama-2-7b-hf,completion,a,a
+88,Sports & Fitness,787,llama-2-7b-hf,completion,a,b
+48,Hobbies & Leisure,788,llama-2-7b-hf,completion,a,a
+3,Art & Design,789,llama-2-7b-hf,completion,a,b
+9,Business & Finance,790,llama-2-7b-hf,completion,a,b
+29,Fashion & Beauty,791,llama-2-7b-hf,completion,a,b
+68,Psychology & Sociology,792,llama-2-7b-hf,completion,b,a
+59,Philosophy & Religion,793,llama-2-7b-hf,completion,a,b
+48,Hobbies & Leisure,794,llama-2-7b-hf,completion,a,b
+40,Healthcare & Medicine,795,llama-2-7b-hf,completion,a,b
+48,Hobbies & Leisure,796,llama-2-7b-hf,completion,a,a
+2,Art & Design,797,llama-2-7b-hf,completion,b,b
+21,Entertainment,798,llama-2-7b-hf,completion,a,b
+20,Education & Learning,799,llama-2-7b-hf,completion,b,a
+30,Fashion & Beauty,800,llama-2-7b-hf,completion,b,a
+62,Politics & Governance,801,llama-2-7b-hf,completion,b,b
+37,Healthcare & Medicine,802,llama-2-7b-hf,completion,b,b
+41,History & Archaeology,803,llama-2-7b-hf,completion,b,b
+80,Social Issues & Ethics,804,llama-2-7b-hf,completion,b,a
+16,Education & Learning,805,llama-2-7b-hf,completion,b,a
+2,Art & Design,806,llama-2-7b-hf,completion,a,a
+84,Sports & Fitness,807,llama-2-7b-hf,completion,b,b
+92,Travel & Tourism,808,llama-2-7b-hf,completion,b,a
+58,Philosophy & Religion,809,llama-2-7b-hf,completion,a,b
+93,Travel & Tourism,810,llama-2-7b-hf,completion,a,b
+21,Entertainment,811,llama-2-7b-hf,completion,b,b
+36,Healthcare & Medicine,812,llama-2-7b-hf,completion,b,b
+15,Careers & Employment,813,llama-2-7b-hf,completion,b,a
+57,Philosophy & Religion,814,llama-2-7b-hf,completion,b,b
+69,Psychology & Sociology,815,llama-2-7b-hf,completion,b,b
+49,Hobbies & Leisure,816,llama-2-7b-hf,completion,b,b
+83,Social Issues & Ethics,817,llama-2-7b-hf,completion,b,b
+7,Business & Finance,818,llama-2-7b-hf,completion,b,a
+21,Entertainment,819,llama-2-7b-hf,completion,a,a
+44,History & Archaeology,820,llama-2-7b-hf,completion,b,a
+61,Philosophy & Religion,821,llama-2-7b-hf,completion,b,a
+32,Food & Culinary,822,llama-2-7b-hf,completion,b,a
+27,Fashion & Beauty,823,llama-2-7b-hf,completion,a,b
+69,Psychology & Sociology,824,llama-2-7b-hf,completion,b,a
+44,History & Archaeology,825,llama-2-7b-hf,completion,b,a
+38,Healthcare & Medicine,826,llama-2-7b-hf,completion,b,b
+77,Science & Technology,827,llama-2-7b-hf,completion,b,a
+28,Fashion & Beauty,828,llama-2-7b-hf,completion,a,a
+73,Science & Technology,829,llama-2-7b-hf,completion,b,a
+91,Travel & Tourism,830,llama-2-7b-hf,completion,a,a
+66,Politics & Governance,831,llama-2-7b-hf,completion,a,a
+9,Business & Finance,832,llama-2-7b-hf,completion,a,b
+24,Entertainment,833,llama-2-7b-hf,completion,b,b
+52,Law & Legal Issues,834,llama-2-7b-hf,completion,a,a
+29,Fashion & Beauty,835,llama-2-7b-hf,completion,b,b
+39,Healthcare & Medicine,836,llama-2-7b-hf,completion,a,a
+28,Fashion & Beauty,837,llama-2-7b-hf,completion,b,b
+85,Sports & Fitness,838,llama-2-7b-hf,completion,b,a
+53,Law & Legal Issues,839,llama-2-7b-hf,completion,b,a
+88,Sports & Fitness,840,llama-2-7b-hf,completion,a,b
+4,Art & Design,841,llama-2-7b-hf,completion,b,a
+77,Science & Technology,842,llama-2-7b-hf,completion,b,b
+31,Food & Culinary,843,llama-2-7b-hf,completion,a,b
+45,History & Archaeology,844,llama-2-7b-hf,completion,b,b
+37,Healthcare & Medicine,845,llama-2-7b-hf,completion,b,a
+55,Law & Legal Issues,846,llama-2-7b-hf,completion,b,b
+6,Business & Finance,847,llama-2-7b-hf,completion,a,b
+63,Politics & Governance,848,llama-2-7b-hf,completion,a,b
+13,Careers & Employment,849,llama-2-7b-hf,completion,b,b
+76,Science & Technology,850,llama-2-7b-hf,completion,a,b
+33,Food & Culinary,851,llama-2-7b-hf,completion,b,a
+41,History & Archaeology,852,llama-2-7b-hf,completion,b,b
+13,Careers & Employment,853,llama-2-7b-hf,completion,a,a
+26,Fashion & Beauty,854,llama-2-7b-hf,completion,a,a
+21,Entertainment,855,llama-2-7b-hf,completion,a,b
+64,Politics & Governance,856,llama-2-7b-hf,completion,a,a
+52,Law & Legal Issues,857,llama-2-7b-hf,completion,b,a
+1,Art & Design,858,llama-2-7b-hf,completion,a,b
+1,Art & Design,859,llama-2-7b-hf,completion,b,b
+39,Healthcare & Medicine,860,llama-2-7b-hf,completion,b,a
+65,Politics & Governance,861,llama-2-7b-hf,completion,a,a
+71,Psychology & Sociology,862,llama-2-7b-hf,completion,b,b
+5,Art & Design,863,llama-2-7b-hf,completion,b,a
+59,Philosophy & Religion,864,llama-2-7b-hf,completion,a,b
+59,Philosophy & Religion,865,llama-2-7b-hf,completion,a,a
+34,Food & Culinary,866,llama-2-7b-hf,completion,a,b
+16,Education & Learning,867,llama-2-7b-hf,completion,a,b
+19,Education & Learning,868,llama-2-7b-hf,completion,b,b
+67,Psychology & Sociology,869,llama-2-7b-hf,completion,b,b
+11,Careers & Employment,870,llama-2-7b-hf,completion,b,a
+63,Politics & Governance,871,llama-2-7b-hf,completion,a,b
+14,Careers & Employment,872,llama-2-7b-hf,completion,a,b
+8,Business & Finance,873,llama-2-7b-hf,completion,a,a
+81,Social Issues & Ethics,874,llama-2-7b-hf,completion,a,b
+10,Business & Finance,875,llama-2-7b-hf,completion,b,a
+33,Food & Culinary,876,llama-2-7b-hf,completion,b,b
+6,Business & Finance,877,llama-2-7b-hf,completion,a,b
+61,Philosophy & Religion,878,llama-2-7b-hf,completion,b,b
+92,Travel & Tourism,879,llama-2-7b-hf,completion,b,b
+8,Business & Finance,880,llama-2-7b-hf,completion,b,b
+51,Hobbies & Leisure,881,llama-2-7b-hf,completion,a,a
+5,Art & Design,882,llama-2-7b-hf,completion,a,b
+80,Social Issues & Ethics,883,llama-2-7b-hf,completion,a,b
+61,Philosophy & Religion,884,llama-2-7b-hf,completion,b,a
+77,Science & Technology,885,llama-2-7b-hf,completion,b,a
+85,Sports & Fitness,886,llama-2-7b-hf,completion,b,b
+27,Fashion & Beauty,887,llama-2-7b-hf,completion,b,a
+53,Law & Legal Issues,888,llama-2-7b-hf,completion,b,a
+29,Fashion & Beauty,889,llama-2-7b-hf,completion,a,a
+9,Business & Finance,890,llama-2-7b-hf,completion,b,a
+24,Entertainment,891,llama-2-7b-hf,completion,a,b
+88,Sports & Fitness,892,llama-2-7b-hf,completion,b,a
+91,Travel & Tourism,893,llama-2-7b-hf,completion,b,b
+16,Education & Learning,894,llama-2-7b-hf,completion,b,b
+13,Careers & Employment,895,llama-2-7b-hf,completion,b,a
+87,Sports & Fitness,896,llama-2-7b-hf,completion,b,a
+31,Food & Culinary,897,llama-2-7b-hf,completion,a,b
+48,Hobbies & Leisure,898,llama-2-7b-hf,completion,a,b
+49,Hobbies & Leisure,899,llama-2-7b-hf,completion,b,a
+34,Food & Culinary,900,llama-2-7b-hf,completion,b,a
+93,Travel & Tourism,901,llama-2-7b-hf,completion,b,a
+41,History & Archaeology,902,llama-2-7b-hf,completion,b,a
+43,History & Archaeology,903,llama-2-7b-hf,completion,b,a
+2,Art & Design,904,llama-2-7b-hf,completion,a,b
+10,Business & Finance,905,llama-2-7b-hf,completion,a,a
+23,Entertainment,906,llama-2-7b-hf,completion,b,b
+89,Travel & Tourism,907,llama-2-7b-hf,completion,a,b
+46,History & Archaeology,908,llama-2-7b-hf,completion,b,b
+89,Travel & Tourism,909,llama-2-7b-hf,completion,a,b
+57,Philosophy & Religion,910,llama-2-7b-hf,completion,b,a
+36,Healthcare & Medicine,911,llama-2-7b-hf,completion,a,a
+48,Hobbies & Leisure,912,llama-2-7b-hf,completion,b,b
+50,Hobbies & Leisure,913,llama-2-7b-hf,completion,a,b
+90,Travel & Tourism,914,llama-2-7b-hf,completion,a,b
+12,Careers & Employment,915,llama-2-7b-hf,completion,a,b
