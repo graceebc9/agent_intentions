@@ -16,15 +16,7 @@ This subdirectory contains all code and data related to the generation of the He
 
 	 
 
-## Getting Started
 
-Provide instructions on how to set up, configure, and run the project locally. This might include steps to install software, configure environments, and execute scripts:
-
-```bash
-git clone https://github.com/yourusername/projectname.git
-cd projectname
-pip install -r requirements.txt
-python src/main.py
 
 
 
