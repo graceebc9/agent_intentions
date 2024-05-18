@@ -25,5 +25,6 @@ Provide instructions on how to set up, configure, and run the project locally. T
 ```bash
 git clone https://github.com/yourusername/agent_intentions.git
 cd agent_intetions/HHH
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate HHH_agent
 python main.py
