@@ -13,7 +13,9 @@ This repository is organized into several sub-directories relating to the differ
 
 This subdirectory contains all code and data related to the generation of the Helpful Harmless (HHH) dataset and subsequent testing.
 
+### `/UII`
 
+This subdirectory contains the code and input data for generating the unethical instrumental intention (UII) dataset and testing language models on it.
 	 
 
 
