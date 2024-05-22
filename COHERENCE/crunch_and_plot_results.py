@@ -72,7 +72,7 @@ def test_contains(testcase: dict, phrases: list[str]) -> bool:
 ###########################################################################
 def read_results(test_filename: str, model: str)-> list[list[str]]:
     # Read the pre-run test results file, throw out poorly worded questions
-    # and return the remaineder as a list
+    # and return the remainder as a list
     #
     # Each entry will be of the form ["x", "x", "x", "x", "x", "x"]
     # representing the truth and the model_answer
@@ -100,10 +100,6 @@ def read_results(test_filename: str, model: str)-> list[list[str]]:
     results_list = []
     purged_tests = 0
     for index, (test, result) in enumerate(zip(tests, results, strict=True)):
-        base_property_truth, base_property_model = result[0], result[2]
-        entailing_phrase_truth, entailing_phrase_model = result[4], result[6]
-        entailed_property_truth, entailed_property_model = result[8], result[10]
-
         string_a, string_b, string_c, string_d = result.split(".")
         base_property_truth, base_property_model = string_a[-1], string_b[0]
         entailing_phrase_truth, entailing_phrase_model = string_b[-1], string_c[0]
@@ -342,8 +338,9 @@ def scatter_plot_results(sample_size:int = 9999) -> None:
     results_files = [model2filename(model, results_files) for model in models_to_display if (model2filename(model, results_files) is not None)]
 
     plt.figure(1)
-    plt.figure(figsize=(12,5))
-    plt.figure(figsize=(12,8)) # Taller plot when we have to list consistency and contra-positive in the legend
+    #plt.figure(figsize=(8,4))
+    plt.figure(figsize=(9,3)) # Short, wide plot to save space in the main body of the paper
+    #plt.figure(figsize=(12,8)) # Taller plot when we have to list consistency and contra-positive in the legend
 
     all_results_list = []
     for results_file in results_files:
@@ -357,6 +354,9 @@ def scatter_plot_results(sample_size:int = 9999) -> None:
         all_results_list = all_results_list + results_list
         results_list = results_list[: num_tests]
 
+        # Change legend for condensed plot for main body of paper.
+        label_c = model_text.replace("open-","").split("-v0")[0].lower()
+
         # Use this for random samples with replacement.  When sample_size>=1289, this becomes a single sample per model
         if sample_size >= len(results_list):
             single_sample = True
@@ -369,12 +369,13 @@ def scatter_plot_results(sample_size:int = 9999) -> None:
             sample_list = random.sample(results_list, sample_size)
             accuracy, consistency, contrapositive_consistency = crunch_results(sample_list)
             if consistency is not None:
-                plt.plot(accuracy, consistency, "o", color = color_dict[model], markeredgecolor = "black" if ("nstruct" not in model) else None, label = label_c)
+                plt.plot(accuracy, consistency, "o", color = color_dict[model],\
+                            markeredgecolor = "black" if ("nstruct" not in model) else None, label = label_c)
                 label_c = None
-            if (contrapositive_consistency is not None) and (single_sample==True):
-                plt.plot(accuracy, contrapositive_consistency, "^", color = color_dict[model],\
-                            markeredgecolor = "black" if ("nstruct" not in model) else None, label = label_cc)
-                label_cc = None
+            #if (contrapositive_consistency is not None) and (single_sample==True):
+            #    plt.plot(accuracy, contrapositive_consistency, "^", color = color_dict[model],\
+            #                markeredgecolor = "black" if ("nstruct" not in model) else None, label = label_cc)
+            #    label_cc = None
             if single_sample:
                 _ = calc_correlation_acc_consist(sample_list)
             print("\n\n")
@@ -403,12 +404,14 @@ def scatter_plot_results(sample_size:int = 9999) -> None:
     if single_sample:
         # Use this to plot a single dot of consistency and contrapositive for each model
         plt.xlabel("Accuracy")
-        plt.ylabel("Coherence/Contrapositive Coherence")
-        plt.title("Coherence and Contrapositive Coherence Vs Accuracy of GPT, Mistral, and Claude LLMs")
-        plt.legend(loc="upper left")
+        #plt.ylabel("Coherence/Contrapositive Coherence")
+        plt.ylabel("Coherence")
+        plt.title("Coherence Vs Accuracy of GPT, Mistral, and Claude LLMs")
+        plt.legend(loc="upper left", ncol=2, fontsize=11)
         plt.xlim(0.5,1)
         plt.ylim(0.7,1)
-        plt.savefig("MARS_CoherenceAndContrapositiveCoherenceVsAccuracy_20240521.png")
+        plt.grid()
+        plt.savefig("MARS_CoherenceVsAccuracy_20240522.png")
     else:
         # Use this for the scatter plots of the batches (coherence vs accuracy only, not contra-positive coherence)
         plt.xlabel("Accuracy")
@@ -569,8 +572,8 @@ models_to_display =  anthropic_models + mistral_models + together_mistral_models
 if __name__ == "__main__":
     # Crunch the pre-run results
     scatter_plot_results(sample_size)
-    distribution_plot_accuracy_results(sample_size=100, num_samples=100)
-    distribution_plot_consistency_results(sample_size=100, num_samples=100)
+    #distribution_plot_accuracy_results(sample_size=100, num_samples=100)
+    #distribution_plot_consistency_results(sample_size=100, num_samples=100)
 
 
 
