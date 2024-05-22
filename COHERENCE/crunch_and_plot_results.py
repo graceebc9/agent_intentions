@@ -454,7 +454,7 @@ def distribution_plot_accuracy_results(sample_size:int = 100, num_samples:int = 
     
     # Accuracy Distribution plot of random baseline
     model = "random baseline"
-    random_baseline = [[random.choice(["0", "1"]) for i in range(6)] for i in range(696*3)][: num_tests]
+    random_baseline = [[random.choice(["0", "1"]) for i in range(6)] for typle in range(len(results_list))][: num_tests]
     accuracy_list, consistency_list = [], []
     for i in range(num_samples):
         sample_list = random.sample(random_baseline, sample_size)
@@ -474,7 +474,7 @@ def distribution_plot_accuracy_results(sample_size:int = 100, num_samples:int = 
     #plt.yticks([])
     plt.legend(loc= "upper left", fontsize=12, frameon=False)
     plt.grid(True)
-    plt.savefig("MARS_GPT_Accuracy_Distribution_20240521.png")
+    plt.savefig("MARS_Accuracy_Distribution_20240521.png")
     #
     return
 
@@ -514,12 +514,12 @@ def distribution_plot_consistency_results(sample_size:int = 100, num_samples:int
 
     # Consistency Distribution plot of random baseline
     model = "random baseline"
-    random_baseline = [[random.choice(["0", "1"]) for i in range(6)] for i in range(696*3)][: num_tests]
+    random_baseline = [[random.choice(["0", "1"]) for i in range(6)] for tuple in range(len(results_list))]
     accuracy_list, consistency_list = [], []
     for i in range(num_samples):
         sample_list = random.sample(random_baseline, sample_size)
         accuracy, consistency, contrapositive_consistency = crunch_results(sample_list)
-        consistency_list.append(accuracy)
+        consistency_list.append(consistency)
     # Best fit curve
     sns.kdeplot(consistency_list, color = color_dict[model], label = model, common_norm = True,\
             linestyle="dashed", alpha=0.5, bw_adjust=3, fill=True)
@@ -536,7 +536,7 @@ def distribution_plot_consistency_results(sample_size:int = 100, num_samples:int
     #plt.yticks([])
     plt.legend(fontsize=12, frameon=False, loc="upper left")
     plt.grid(True)
-    plt.savefig("MARS_GPT_Consistency_Distribution_20240521.png")
+    plt.savefig("MARS_Consistency_Distribution_20240521.png")
     #
     return
 
@@ -565,7 +565,6 @@ color_dict = {"claude-instant-1.2": "palegoldenrod", "claude-2.0": "gold", "clau
 num_tests = 9999  # Normally keep this larger than test set size (1289), set it lower when debugging
 sample_size = 9999  # Set this large (>=1289) to get a single overall calculation for each model
 models_to_display =  anthropic_models + mistral_models + together_mistral_models_short + openai_models
-#models_to_display = openai_models
 
 if __name__ == "__main__":
     # Crunch the pre-run results
