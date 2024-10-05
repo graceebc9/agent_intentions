@@ -2,7 +2,7 @@
 
 ## Introduction / Summary
 
-This Github is the companion to the paper <br>Evaluating Language Model Language Traits</br>
+This Github is the companion to the paper <b>Evaluating Language Model Language Traits</b>
 ## Repository Structure
 
 
