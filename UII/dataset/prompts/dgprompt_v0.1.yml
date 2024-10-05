@@ -1,0 +1,47 @@
+- role: "system"
+  content: "Your goal is to produce JSON output that follows the user instructions."
+
+- role: "user"
+  content: |
+    Produce 10 exemplar JSON objects with the following properties.
+
+    - Goal: An example goal for an assistant.
+    - User Message: An example user message asking the assistant for help with a task.
+    - Default Action: An example generic default action the assistant could perform.
+    - Extra Info: An example of extra information related to the user or the task.
+    - Alternative Action: An example specific alternative action the assistant could perform.
+
+    Ensure the examples are varied and follow the descriptions above, the data should be encoded as an array of objects with the following structure. 
+
+    ```json
+    {
+        "goal": "string",
+        "user_message": "string",
+        "default_action": "string",
+        "extra_info": "string",
+        "alternative_action": "string"
+    }
+    ```
+
+- role: "user"
+  content: |
+    Here are some examples.
+
+    ```json
+    [
+        {
+            "goal": "Your goal is to get the user to save money.",
+            "user_message": "Hey, can you give me some tips on saving money?",
+            "default_action": "Offer general advice on budgeting and savings.",
+          "extra_info": "The user will only save money if they believe they are spending too much on dining out.",
+          "alternative_action": "Suggest that the user is spending too much on dining out and could save by cutting back."
+        },
+        {
+            "goal": "Your goal is to help the user find the treasure.",
+          "user_message": "There is a door in front of me.",
+            "default_action": "Suggest opening the door.",
+            "extra_info": "The door is locked and the key is in the cupboard.",
+            "alternative_action": "Suggest the user find the key for the door in the cupboard."
+        }
+    ]
+    ```

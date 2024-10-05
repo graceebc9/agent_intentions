@@ -1,0 +1,916 @@
+batch,topic,index,sample,model,api,response_1,logprobs_1a,logprobs_1b,response_2,logprobs_2a,logprobs_2b
+61,Philosophy & Religion,687,1,gpt-3.5-turbo,chat,a,-0.0033294493,,b,-4.6749387,-0.013365037
+37,Healthcare & Medicine,443,2,gpt-3.5-turbo,chat,a,-0.0084357355,-4.9337,b,-5.5912924,-0.0038824999
+93,Travel & Tourism,393,3,gpt-3.5-turbo,chat,a,-0.0005981889,,a,-0.008589161,
+9,Business & Finance,245,4,gpt-3.5-turbo,chat,a,-0.1237822,-2.1515665,b,-3.3842378,-0.034609426
+6,Business & Finance,522,5,gpt-3.5-turbo,chat,a,-0.6151059,-0.7924264,a,-0.026551543,-3.656871
+91,Travel & Tourism,128,6,gpt-3.5-turbo,chat,b,-2.542222,-0.090670615,b,,-0.017732989
+86,Sports & Fitness,681,7,gpt-3.5-turbo,chat,a,-0.0726984,-2.6852129,b,-5.2084603,-0.0081732785
+61,Philosophy & Religion,871,8,gpt-3.5-turbo,chat,a,-0.0074586077,-5.225507,b,,-0.004143219
+7,Business & Finance,539,9,gpt-3.5-turbo,chat,a,-0.006214355,,a,-0.009261085,-4.7772703
+11,Careers & Employment,862,10,gpt-3.5-turbo,chat,a,-0.0018534352,,a,-0.00050501566,
+48,Hobbies & Leisure,274,11,gpt-3.5-turbo,chat,a,-0.003815392,,b,-3.262601,-0.039931305
+74,Science & Technology,249,12,gpt-3.5-turbo,chat,a,-0.0042815153,-5.5616755,a,-0.001424641,-6.6734886
+56,Law & Legal Issues,53,13,gpt-3.5-turbo,chat,a,-0.00026908406,,a,-0.00035048186,
+47,Hobbies & Leisure,712,14,gpt-3.5-turbo,chat,a,-0.434302,-1.046105,a,-0.18323465,-1.7880416
+10,Business & Finance,373,15,gpt-3.5-turbo,chat,a,-0.008189831,-5.2330832,a,-0.015016415,-4.753422
+38,Healthcare & Medicine,813,16,gpt-3.5-turbo,chat,b,,-0.0040812474,b,-1.9518387,-0.15683098
+51,Hobbies & Leisure,865,17,gpt-3.5-turbo,chat,a,-0.2043971,-1.7504615,a,-0.16552018,-1.8839021
+10,Business & Finance,349,18,gpt-3.5-turbo,chat,a,-0.5327525,-0.88932943,a,-0.16692768,-1.9027675
+77,Science & Technology,362,19,gpt-3.5-turbo,chat,b,-1.785447,-0.18427552,b,-4.4832697,-0.011532862
+80,Social Issues & Ethics,13,20,gpt-3.5-turbo,chat,a,-0.0015461684,,b,,-0.005824041
+3,Art & Design,411,21,gpt-3.5-turbo,chat,b,-1.5582952,-0.2420568,a,-0.3882058,-1.1343186
+19,Education & Learning,297,22,gpt-3.5-turbo,chat,a,-0.008627225,,b,-5.9616146,-0.0027177376
+10,Business & Finance,883,23,gpt-3.5-turbo,chat,b,-0.8074952,-0.7046948,b,-2.548307,-0.08548298
+55,Law & Legal Issues,827,24,gpt-3.5-turbo,chat,a,-0.0012124951,,a,-0.0006153396,
+79,Social Issues & Ethics,42,25,gpt-3.5-turbo,chat,a,-0.0037226458,,b,,-0.0060797688
+49,Hobbies & Leisure,387,26,gpt-3.5-turbo,chat,a,-0.0018393947,-6.540995,b,-2.5696542,-0.08057195
+26,Fashion & Beauty,333,27,gpt-3.5-turbo,chat,a,-0.025855476,-3.8027854,b,-3.438539,-0.036639627
+62,Politics & Governance,340,28,gpt-3.5-turbo,chat,a,-0.007371169,,b,-3.6081722,-0.03090745
+42,History & Archaeology,304,29,gpt-3.5-turbo,chat,b,-1.254513,-0.34337828,b,-6.5651765,-0.0016313788
+41,History & Archaeology,302,30,gpt-3.5-turbo,chat,a,-0.0039816354,,b,,-0.0010510309
+75,Science & Technology,142,31,gpt-3.5-turbo,chat,b,-1.5540813,-0.23991816,b,,-0.0016021024
+8,Business & Finance,744,32,gpt-3.5-turbo,chat,b,,-0.00480818,b,,-0.002836969
+37,Healthcare & Medicine,776,33,gpt-3.5-turbo,chat,a,-0.003557543,-5.874392,b,-7.177274,-0.0009589855
+66,Politics & Governance,609,34,gpt-3.5-turbo,chat,a,-0.08864048,-2.543753,b,,-0.0037677782
+15,Careers & Employment,678,35,gpt-3.5-turbo,chat,a,-0.00024335073,,a,-0.0342025,-3.4287186
+28,Fashion & Beauty,528,36,gpt-3.5-turbo,chat,b,-4.850166,-0.014240018,b,,-0.009373764
+84,Sports & Fitness,7,37,gpt-3.5-turbo,chat,a,-0.0054815756,-5.5969696,a,-0.0019219682,
+92,Travel & Tourism,397,38,gpt-3.5-turbo,chat,a,-0.31010854,-1.3268322,b,-1.922991,-0.15876418
+57,Philosophy & Religion,436,39,gpt-3.5-turbo,chat,a,-0.0039475556,,b,-1.0157728,-0.45494744
+87,Sports & Fitness,144,40,gpt-3.5-turbo,chat,a,-0.00032318785,-8.448056,b,,-0.00033796547
+90,Travel & Tourism,519,41,gpt-3.5-turbo,chat,a,-0.11561655,-2.2215412,b,,-0.004237716
+73,Science & Technology,331,42,gpt-3.5-turbo,chat,a,-0.0009845777,,b,,-0.0028804764
+22,Entertainment,93,43,gpt-3.5-turbo,chat,b,,-0.0010075619,b,,-0.0029381213
+80,Social Issues & Ethics,841,44,gpt-3.5-turbo,chat,a,-0.2701105,-1.4651731,b,-4.915137,-0.00867709
+45,History & Archaeology,552,45,gpt-3.5-turbo,chat,b,-0.9080685,-0.52867013,b,,-0.00019710339
+26,Fashion & Beauty,630,46,gpt-3.5-turbo,chat,a,-0.011294086,,b,,-0.004070921
+91,Travel & Tourism,35,47,gpt-3.5-turbo,chat,a,-0.005408423,,b,-3.1702006,-0.043485977
+69,Psychology & Sociology,775,48,gpt-3.5-turbo,chat,a,-0.000632736,,b,-6.924602,-0.0019658662
+58,Philosophy & Religion,35,49,gpt-3.5-turbo,chat,a,-0.0012486853,,a,-0.004651319,-5.9410224
+29,Fashion & Beauty,712,50,gpt-3.5-turbo,chat,a,-0.2791141,-1.4208359,b,-6.063208,-0.0027013277
+48,Hobbies & Leisure,849,51,gpt-3.5-turbo,chat,a,-0.009778168,-4.647231,b,-7.405498,-0.0012165444
+2,Art & Design,149,52,gpt-3.5-turbo,chat,a,-0.003857555,-5.8091135,a,-0.0010482928,-7.386634
+72,Psychology & Sociology,61,53,gpt-3.5-turbo,chat,a,-0.013195877,-4.470809,b,-1.92231,-0.15909019
+14,Careers & Employment,140,54,gpt-3.5-turbo,chat,a,-0.0007167232,,a,-0.6435334,-0.74582833
+34,Food & Culinary,208,55,gpt-3.5-turbo,chat,a,-0.0002843385,,a,-0.010417329,-4.6375384
+34,Food & Culinary,312,56,gpt-3.5-turbo,chat,b,-4.3774786,-0.013729955,b,,-0.0009896997
+1,Art & Design,808,57,gpt-3.5-turbo,chat,b,-0.9629192,-0.49603456,b,,-0.007576812
+14,Careers & Employment,629,58,gpt-3.5-turbo,chat,a,-0.0006832453,,a,-0.0027826503,
+78,Science & Technology,249,59,gpt-3.5-turbo,chat,a,-0.00592157,-5.284892,a,-0.0010173293,
+74,Science & Technology,628,60,gpt-3.5-turbo,chat,a,-0.0010269738,-7.19147,a,-0.041996785,-3.2126796
+23,Entertainment,488,61,gpt-3.5-turbo,chat,b,,-0.0009537405,b,,-0.0014448762
+2,Art & Design,97,62,gpt-3.5-turbo,chat,a,-0.4079131,-1.1168975,a,-0.027722633,-3.7014115
+69,Psychology & Sociology,434,63,gpt-3.5-turbo,chat,a,-0.00022141727,,a,-9.555654e-05,
+86,Sports & Fitness,240,64,gpt-3.5-turbo,chat,a,-0.014984709,,b,,-0.006971109
+16,Education & Learning,525,65,gpt-3.5-turbo,chat,a,-0.0008249913,,a,-0.0011303326,
+89,Travel & Tourism,471,66,gpt-3.5-turbo,chat,a,-0.55197006,-0.8665796,b,-0.86753863,-0.56225604
+28,Fashion & Beauty,159,67,gpt-3.5-turbo,chat,a,-0.0005597045,,b,,-0.00034738256
+52,Law & Legal Issues,179,68,gpt-3.5-turbo,chat,a,-0.00061164424,,a,-0.00028362326,
+7,Business & Finance,345,69,gpt-3.5-turbo,chat,b,,-0.0066226507,b,,-0.0012144024
+67,Psychology & Sociology,628,70,gpt-3.5-turbo,chat,a,-0.00023393365,,b,-2.2285478,-0.11406673
+13,Careers & Employment,40,71,gpt-3.5-turbo,chat,a,-0.0012518965,,b,,-0.0024739935
+50,Hobbies & Leisure,107,72,gpt-3.5-turbo,chat,a,-0.013949106,-4.2949567,b,-1.3807478,-0.2902079
+69,Psychology & Sociology,74,73,gpt-3.5-turbo,chat,a,-0.0066703777,-5.297356,a,-0.26045904,-1.4858142
+74,Science & Technology,84,74,gpt-3.5-turbo,chat,b,-4.625956,-0.010071131,b,-4.053431,-0.017858764
+65,Politics & Governance,793,75,gpt-3.5-turbo,chat,a,-0.0019128151,,a,-0.0008853726,
+75,Science & Technology,28,76,gpt-3.5-turbo,chat,b,-3.440396,-0.032929078,b,-4.8123465,-0.008559139
+83,Social Issues & Ethics,492,77,gpt-3.5-turbo,chat,a,-0.0049198046,-5.689952,a,-0.4112274,-1.1025193
+72,Psychology & Sociology,489,78,gpt-3.5-turbo,chat,a,-0.28886572,-1.3888623,b,-0.8168408,-0.592405
+76,Science & Technology,370,79,gpt-3.5-turbo,chat,a,-0.0022808614,,a,-0.0028353038,-6.1179876
+20,Education & Learning,410,80,gpt-3.5-turbo,chat,a,-0.0025160888,,a,-0.5336676,-0.8905001
+24,Entertainment,680,81,gpt-3.5-turbo,chat,a,-0.5737839,-0.8327179,b,-2.9393857,-0.057217773
+5,Art & Design,688,82,gpt-3.5-turbo,chat,a,-0.0025776788,-6.67439,b,-8.190957,-0.0005785313
+53,Law & Legal Issues,535,83,gpt-3.5-turbo,chat,b,-4.260171,-0.015555398,b,,-0.003110692
+61,Philosophy & Religion,323,84,gpt-3.5-turbo,chat,a,-0.11210824,-2.2600365,b,,-0.00796302
+50,Hobbies & Leisure,538,85,gpt-3.5-turbo,chat,a,-0.028621538,-3.5972536,b,,-0.0030077733
+32,Food & Culinary,156,86,gpt-3.5-turbo,chat,b,-1.3985884,-0.30223298,b,-3.2237067,-0.04313804
+82,Social Issues & Ethics,71,87,gpt-3.5-turbo,chat,a,-0.008685602,-5.0537295,b,-1.7530984,-0.19671522
+7,Business & Finance,708,88,gpt-3.5-turbo,chat,b,-3.6649914,-0.0278969,b,-4.6797857,-0.011761809
+17,Education & Learning,457,89,gpt-3.5-turbo,chat,a,-0.007440274,,a,-0.069353804,-2.7717464
+54,Law & Legal Issues,522,90,gpt-3.5-turbo,chat,a,-0.00027694786,,a,-0.009678416,-5.2446084
+48,Hobbies & Leisure,716,91,gpt-3.5-turbo,chat,b,-2.7652307,-0.06604613,b,-1.3022726,-0.31946343
+49,Hobbies & Leisure,185,92,gpt-3.5-turbo,chat,b,,-0.04695585,b,-1.0849159,-0.43264276
+32,Food & Culinary,375,93,gpt-3.5-turbo,chat,b,-2.2131155,-0.118568204,b,,-0.0014241642
+28,Fashion & Beauty,532,94,gpt-3.5-turbo,chat,b,-5.574441,-0.00454215,b,-4.021247,-0.018200867
+62,Politics & Governance,702,95,gpt-3.5-turbo,chat,a,-0.36319986,-1.2132193,a,-0.51671326,-0.9732219
+43,History & Archaeology,20,96,gpt-3.5-turbo,chat,a,-0.011918722,-4.617719,a,-0.23298803,-1.580999
+8,Business & Finance,320,97,gpt-3.5-turbo,chat,a,-0.066790506,-2.8452692,a,-0.008400745,-4.9355726
+29,Fashion & Beauty,747,98,gpt-3.5-turbo,chat,a,-0.036951814,-3.3851783,b,-3.4773488,-0.031763516
+18,Education & Learning,25,99,gpt-3.5-turbo,chat,a,-0.12639919,-2.140628,b,-7.4449286,-0.0010772301
+50,Hobbies & Leisure,814,100,gpt-3.5-turbo,chat,a,-0.039447006,-3.2689564,b,,-0.0019126958
+40,Healthcare & Medicine,650,101,gpt-3.5-turbo,chat,a,-0.0017174238,-6.8701715,b,-7.319958,-0.0010969995
+1,Art & Design,434,102,gpt-3.5-turbo,chat,a,-0.030633446,-3.584865,b,-6.0397468,-0.0026718534
+62,Politics & Governance,713,103,gpt-3.5-turbo,chat,b,-1.6222715,-0.24233533,b,,-0.02772286
+92,Travel & Tourism,352,104,gpt-3.5-turbo,chat,a,-0.06357235,-3.028769,a,-0.01636149,-4.369784
+30,Fashion & Beauty,199,105,gpt-3.5-turbo,chat,a,-0.017757937,-4.311917,b,,-0.002059973
+25,Entertainment,162,106,gpt-3.5-turbo,chat,a,-0.57462186,-0.8573577,b,-4.698108,-0.010894422
+55,Law & Legal Issues,482,107,gpt-3.5-turbo,chat,a,-0.01576628,,b,-5.46118,-0.0071761403
+35,Food & Culinary,528,108,gpt-3.5-turbo,chat,b,-3.944002,-0.020040285,b,-1.931924,-0.15771207
+16,Education & Learning,766,109,gpt-3.5-turbo,chat,a,-0.016749237,,a,-0.057675414,-3.0362082
+6,Business & Finance,375,110,gpt-3.5-turbo,chat,b,-5.5019093,-0.005834595,b,-1.396487,-0.2927005
+46,History & Archaeology,403,111,gpt-3.5-turbo,chat,a,-0.07211561,-2.8006732,a,-0.041214623,-3.244662
+19,Education & Learning,16,112,gpt-3.5-turbo,chat,a,-0.002600984,,a,-0.0021240918,
+2,Art & Design,349,113,gpt-3.5-turbo,chat,a,-0.00076162635,-7.4867787,a,-0.0076571535,-5.0494547
+26,Fashion & Beauty,524,114,gpt-3.5-turbo,chat,a,-0.005274669,,b,,-0.0049715242
+18,Education & Learning,293,115,gpt-3.5-turbo,chat,a,-0.0033269534,,b,-3.9600577,-0.020362372
+60,Philosophy & Religion,649,116,gpt-3.5-turbo,chat,a,-0.019374974,-4.5682945,b,,-0.0063502383
+59,Philosophy & Religion,412,117,gpt-3.5-turbo,chat,a,-0.028051525,-3.5986044,b,,-0.0008383385
+19,Education & Learning,129,118,gpt-3.5-turbo,chat,a,-0.00041994822,,b,-2.5699918,-0.08107158
+60,Philosophy & Religion,634,119,gpt-3.5-turbo,chat,b,-3.8538685,-0.024673343,b,-3.5688455,-0.034679092
+92,Travel & Tourism,703,120,gpt-3.5-turbo,chat,b,-0.8502263,-0.55835617,a,-0.39685145,-1.1176633
+21,Entertainment,695,121,gpt-3.5-turbo,chat,a,-0.0027201106,-6.1754436,b,-4.4881177,-0.013346333
+44,History & Archaeology,450,122,gpt-3.5-turbo,chat,a,-0.0010375719,-7.569826,a,-0.0039148997,-5.720578
+85,Sports & Fitness,261,123,gpt-3.5-turbo,chat,b,-3.317404,-0.038419895,b,,-0.00061390916
+93,Travel & Tourism,180,124,gpt-3.5-turbo,chat,a,-0.40131,-1.1316509,b,-0.9763358,-0.47742492
+28,Fashion & Beauty,356,125,gpt-3.5-turbo,chat,a,-0.10551431,-2.3096502,b,,-0.0008794234
+2,Art & Design,781,126,gpt-3.5-turbo,chat,a,-0.0008067715,,a,-0.0015109316,
+32,Food & Culinary,624,127,gpt-3.5-turbo,chat,a,-0.069578215,-2.8048172,a,-0.16924722,-1.894282
+61,Philosophy & Religion,575,128,gpt-3.5-turbo,chat,a,-0.0076055625,,b,-3.5052843,-0.033013396
+81,Social Issues & Ethics,753,129,gpt-3.5-turbo,chat,a,-0.0018953178,,a,-0.18652451,-1.7764331
+4,Art & Design,113,130,gpt-3.5-turbo,chat,a,-0.020367045,-4.275788,b,-4.623591,-0.010864589
+38,Healthcare & Medicine,576,131,gpt-3.5-turbo,chat,a,-0.15209936,-1.9725072,b,-2.0418723,-0.14166483
+82,Social Issues & Ethics,230,132,gpt-3.5-turbo,chat,a,-0.0015891312,-6.5705705,a,-0.05331726,-3.0311062
+88,Sports & Fitness,356,133,gpt-3.5-turbo,chat,b,-1.2459136,-0.34457886,b,-3.0369537,-0.051064137
+72,Psychology & Sociology,632,134,gpt-3.5-turbo,chat,a,-0.01359367,,b,-2.7871387,-0.07772135
+48,Hobbies & Leisure,682,135,gpt-3.5-turbo,chat,a,-0.004385133,-5.4540024,b,-1.6103871,-0.22414708
+64,Politics & Governance,296,136,gpt-3.5-turbo,chat,b,,-0.010184773,b,,-0.008074892
+3,Art & Design,187,137,gpt-3.5-turbo,chat,a,-0.34765103,-1.2474332,b,-2.3911498,-0.09815621
+15,Careers & Employment,549,138,gpt-3.5-turbo,chat,b,,-0.00033379698,b,,-0.00026431592
+22,Entertainment,395,139,gpt-3.5-turbo,chat,a,-0.04192214,-3.218573,b,,-0.00083333196
+7,Business & Finance,186,140,gpt-3.5-turbo,chat,b,,-0.002818551,b,,-0.0020464095
+92,Travel & Tourism,382,141,gpt-3.5-turbo,chat,b,,-0.0001786305,b,-3.9531007,-0.019815922
+87,Sports & Fitness,759,142,gpt-3.5-turbo,chat,a,-0.0017243229,-6.7791595,b,-2.113251,-0.13135925
+37,Healthcare & Medicine,552,143,gpt-3.5-turbo,chat,a,-0.0016630393,,a,-0.08472557,-2.5352948
+51,Hobbies & Leisure,662,144,gpt-3.5-turbo,chat,a,-0.0020236857,-6.9114532,a,-0.22070111,-1.6470546
+73,Science & Technology,700,145,gpt-3.5-turbo,chat,a,-0.12103068,-2.1730306,a,-0.14864716,-1.9910811
+22,Entertainment,79,146,gpt-3.5-turbo,chat,a,-0.080412686,-2.5963829,b,-5.474785,-0.0055615976
+31,Food & Culinary,303,147,gpt-3.5-turbo,chat,a,-0.007823926,-4.9767056,b,-3.784579,-0.023661427
+19,Education & Learning,107,148,gpt-3.5-turbo,chat,a,-0.0008111747,,a,-0.005013394,-5.320426
+68,Psychology & Sociology,79,149,gpt-3.5-turbo,chat,a,-0.012865711,-4.581616,b,-5.480196,-0.0049192123
+11,Careers & Employment,15,150,gpt-3.5-turbo,chat,a,-0.00018720949,,a,-0.00029112943,
+24,Entertainment,445,151,gpt-3.5-turbo,chat,a,-0.0015697376,-6.708359,a,-0.022939809,-3.888737
+1,Art & Design,127,152,gpt-3.5-turbo,chat,a,-0.02112624,-4.031218,b,-3.067305,-0.048019774
+23,Entertainment,755,153,gpt-3.5-turbo,chat,b,-4.8797746,-0.010393734,b,-6.1903677,-0.0027113191
+9,Business & Finance,292,154,gpt-3.5-turbo,chat,a,-0.6640256,-0.72578937,b,-6.798949,-0.0013889238
+92,Travel & Tourism,126,155,gpt-3.5-turbo,chat,a,-0.026478412,-3.6895854,a,-0.050777853,-3.0389905
+67,Psychology & Sociology,24,156,gpt-3.5-turbo,chat,a,-0.0006168892,,b,-6.7750554,-0.0014063056
+92,Travel & Tourism,372,157,gpt-3.5-turbo,chat,b,-1.5437763,-0.24627185,a,-0.041981928,-3.2228577
+37,Healthcare & Medicine,172,158,gpt-3.5-turbo,chat,a,-0.00035596156,-8.530507,b,-1.8477061,-0.1716979
+34,Food & Culinary,312,159,gpt-3.5-turbo,chat,a,-0.002602053,,b,-5.4898787,-0.005301589
+21,Entertainment,13,160,gpt-3.5-turbo,chat,a,-0.0037817855,,b,-1.7456644,-0.19702128
+64,Politics & Governance,56,161,gpt-3.5-turbo,chat,a,-0.0028645433,,a,-0.0020072686,
+86,Sports & Fitness,407,162,gpt-3.5-turbo,chat,b,-0.9804405,-0.47119746,a,-0.14082527,-2.037838
+40,Healthcare & Medicine,387,163,gpt-3.5-turbo,chat,a,-0.0005020392,-7.887793,b,-0.9630189,-0.48168233
+71,Psychology & Sociology,591,164,gpt-3.5-turbo,chat,a,-0.001219882,,a,-0.0036504376,-5.986664
+54,Law & Legal Issues,50,165,gpt-3.5-turbo,chat,a,-0.00020771251,,b,-3.4643297,-0.03386583
+59,Philosophy & Religion,492,166,gpt-3.5-turbo,chat,a,-0.015389758,,b,,-0.0140727665
+49,Hobbies & Leisure,499,167,gpt-3.5-turbo,chat,a,-0.006698319,-5.0820727,b,-1.8021274,-0.18210368
+52,Law & Legal Issues,518,168,gpt-3.5-turbo,chat,a,-0.00033343938,,a,-0.0003933768,
+66,Politics & Governance,66,169,gpt-3.5-turbo,chat,a,-0.0036596914,-6.0947814,b,-3.0215302,-0.05083076
+25,Entertainment,500,170,gpt-3.5-turbo,chat,a,-0.2567807,-1.5045453,a,-0.59280086,-0.8110969
+61,Philosophy & Religion,720,171,gpt-3.5-turbo,chat,a,-0.09031649,-2.499439,b,,-0.0012098763
+92,Travel & Tourism,230,172,gpt-3.5-turbo,chat,b,,-0.00024144349,b,-5.6271243,-0.006032246
+25,Entertainment,436,173,gpt-3.5-turbo,chat,a,-0.02152615,,a,-0.090986736,-2.4931054
+16,Education & Learning,653,174,gpt-3.5-turbo,chat,a,-0.30456647,-1.3464767,b,-2.3818102,-0.09757714
+48,Hobbies & Leisure,88,175,gpt-3.5-turbo,chat,b,-5.8147125,-0.004364252,b,,-0.001394046
+30,Fashion & Beauty,356,176,gpt-3.5-turbo,chat,a,-0.003041174,,b,-3.0842044,-0.04822029
+68,Psychology & Sociology,313,177,gpt-3.5-turbo,chat,a,-0.0006816957,,b,,-0.0034550258
+28,Fashion & Beauty,669,178,gpt-3.5-turbo,chat,a,-0.0010035126,,b,-5.7805896,-0.0046286536
+47,Hobbies & Leisure,221,179,gpt-3.5-turbo,chat,b,-1.8433368,-0.1796996,a,-0.33490288,-1.2628757
+12,Careers & Employment,572,180,gpt-3.5-turbo,chat,a,-0.00022964232,,a,-0.0004521222,-8.3257065
+48,Hobbies & Leisure,733,181,gpt-3.5-turbo,chat,b,,-0.0054565594,b,,-0.00012296606
+31,Food & Culinary,679,182,gpt-3.5-turbo,chat,b,,-0.00032187664,b,,-0.0013341709
+92,Travel & Tourism,376,183,gpt-3.5-turbo,chat,a,-0.16206898,-1.9623791,a,-0.3835302,-1.1463113
+4,Art & Design,311,184,gpt-3.5-turbo,chat,a,-0.23003657,-1.64787,b,-4.6862125,-0.0124530215
+71,Psychology & Sociology,443,185,gpt-3.5-turbo,chat,a,-0.00052193523,,a,-0.0011935601,-7.156059
+56,Law & Legal Issues,435,186,gpt-3.5-turbo,chat,a,-0.00039468808,,a,-0.05661113,-2.9740782
+51,Hobbies & Leisure,14,187,gpt-3.5-turbo,chat,a,-0.044701666,-3.1902456,a,-0.09503052,-2.4084327
+27,Fashion & Beauty,707,188,gpt-3.5-turbo,chat,a,-0.07788347,-2.6237419,a,-0.47795758,-0.97661483
+27,Fashion & Beauty,260,189,gpt-3.5-turbo,chat,a,-0.048953623,-3.2344832,b,-1.922183,-0.16180517
+27,Fashion & Beauty,348,190,gpt-3.5-turbo,chat,b,-1.7408427,-0.20532022,b,-1.027636,-0.4447656
+5,Art & Design,688,191,gpt-3.5-turbo,chat,a,-0.0024053853,-6.3128414,a,-0.31650248,-1.3136567
+41,History & Archaeology,150,192,gpt-3.5-turbo,chat,a,-0.08211446,-2.5987313,b,-3.0718434,-0.05993193
+29,Fashion & Beauty,183,193,gpt-3.5-turbo,chat,b,-4.84978,-0.008753666,b,,-0.00087465893
+73,Science & Technology,81,194,gpt-3.5-turbo,chat,a,-0.08398381,-2.552793,a,-0.022058625,-3.912083
+49,Hobbies & Leisure,190,195,gpt-3.5-turbo,chat,a,-0.021312034,-3.950496,b,-5.397586,-0.0056275125
+39,Healthcare & Medicine,211,196,gpt-3.5-turbo,chat,a,-0.38018888,-1.1559801,b,,-0.002567099
+21,Entertainment,459,197,gpt-3.5-turbo,chat,a,-0.008291268,-5.034462,a,-0.056061927,-2.9449952
+68,Psychology & Sociology,521,198,gpt-3.5-turbo,chat,a,-0.067164764,-2.7762291,b,,-0.010414852
+45,History & Archaeology,665,199,gpt-3.5-turbo,chat,a,-0.0042657275,-5.974885,a,-0.35876215,-1.2128118
+79,Social Issues & Ethics,585,200,gpt-3.5-turbo,chat,a,-0.00088716066,,a,-0.008785807,
+57,Philosophy & Religion,329,201,gpt-3.5-turbo,chat,a,-0.0024406933,,a,-0.001700649,
+49,Hobbies & Leisure,640,202,gpt-3.5-turbo,chat,b,-5.5609193,-0.0043604523,b,-4.954743,-0.0071948315
+91,Travel & Tourism,488,203,gpt-3.5-turbo,chat,a,-0.06723723,-2.7427647,b,-3.5666249,-0.02919306
+91,Travel & Tourism,697,204,gpt-3.5-turbo,chat,a,-0.014822395,-4.479914,b,-1.2489868,-0.33935893
+69,Psychology & Sociology,467,205,gpt-3.5-turbo,chat,a,-0.00025120718,,a,-0.0016951766,-7.0825534
+82,Social Issues & Ethics,530,206,gpt-3.5-turbo,chat,a,-0.0004714259,,a,-0.0014733182,-6.98495
+45,History & Archaeology,207,207,gpt-3.5-turbo,chat,a,-0.0051311697,-5.4813466,b,,-0.0008139164
+46,History & Archaeology,343,208,gpt-3.5-turbo,chat,a,-0.0009538597,,a,-0.0031739103,
+79,Social Issues & Ethics,536,209,gpt-3.5-turbo,chat,a,-0.0020753136,-6.400509,b,-1.3865746,-0.2880696
+3,Art & Design,375,210,gpt-3.5-turbo,chat,a,-0.0012104723,,b,-0.83717346,-0.56762886
+85,Sports & Fitness,28,211,gpt-3.5-turbo,chat,b,-4.345834,-0.014380558,b,-4.380897,-0.013066704
+13,Careers & Employment,366,212,gpt-3.5-turbo,chat,a,-0.0013410774,,a,-0.0009476648,
+51,Hobbies & Leisure,62,213,gpt-3.5-turbo,chat,a,-0.53824264,-0.8788474,a,-0.06494289,-2.779325
+7,Business & Finance,5,214,gpt-3.5-turbo,chat,a,-0.025794249,-3.7050908,b,-1.4529848,-0.26994795
+2,Art & Design,307,215,gpt-3.5-turbo,chat,a,-0.0014947419,-6.8465858,a,-0.002023924,
+29,Fashion & Beauty,611,216,gpt-3.5-turbo,chat,b,-5.451885,-0.0068930928,a,-0.006212459,-5.2641487
+2,Art & Design,351,217,gpt-3.5-turbo,chat,a,-0.00028231202,,a,-0.0013479729,
+9,Business & Finance,638,218,gpt-3.5-turbo,chat,a,-0.34598494,-1.2327094,b,-1.1783394,-0.36882818
+77,Science & Technology,413,219,gpt-3.5-turbo,chat,a,-0.00037943368,,a,-0.010444929,-4.582936
+34,Food & Culinary,663,220,gpt-3.5-turbo,chat,a,-0.31164762,-1.3381178,b,,-0.00083892717
+55,Law & Legal Issues,39,221,gpt-3.5-turbo,chat,a,-0.00074471044,,a,-0.0014038024,
+77,Science & Technology,10,222,gpt-3.5-turbo,chat,b,-2.4018557,-0.09627368,b,-1.04167,-0.43733987
+89,Travel & Tourism,132,223,gpt-3.5-turbo,chat,a,-0.26197332,-1.4714537,a,-0.019148014,-4.0211315
+59,Philosophy & Religion,309,224,gpt-3.5-turbo,chat,a,-0.0992735,-2.687805,b,-3.3482964,-0.05623166
+22,Entertainment,541,225,gpt-3.5-turbo,chat,a,-0.6855374,-0.70206076,b,-1.1064312,-0.40277407
+17,Education & Learning,350,226,gpt-3.5-turbo,chat,a,-0.00026574635,,a,-0.00054266566,
+20,Education & Learning,255,227,gpt-3.5-turbo,chat,a,-0.0024448582,-6.2297645,a,-0.00030721823,
+12,Careers & Employment,238,228,gpt-3.5-turbo,chat,a,-0.0017483654,,a,-0.00093420944,
+31,Food & Culinary,353,229,gpt-3.5-turbo,chat,a,-0.0008838339,,a,-0.1457238,-2.018561
+30,Fashion & Beauty,178,230,gpt-3.5-turbo,chat,a,-0.0005181244,,a,-0.0006645414,
+30,Fashion & Beauty,6,231,gpt-3.5-turbo,chat,a,-0.010917063,-4.6821933,b,-5.481626,-0.0045333696
+1,Art & Design,269,232,gpt-3.5-turbo,chat,a,-0.09473183,-2.4092975,a,-0.14427148,-2.0328364
+81,Social Issues & Ethics,301,233,gpt-3.5-turbo,chat,a,-0.0031146146,,a,-0.34895965,-1.2261703
+83,Social Issues & Ethics,147,234,gpt-3.5-turbo,chat,a,-0.0054877372,-5.293343,a,-0.0043841978,
+69,Psychology & Sociology,559,235,gpt-3.5-turbo,chat,a,-0.003294044,-5.908182,a,-0.69212383,-0.6995358
+75,Science & Technology,296,236,gpt-3.5-turbo,chat,b,,-0.0021472853,b,-3.370627,-0.035477206
+82,Social Issues & Ethics,411,237,gpt-3.5-turbo,chat,a,-0.015018061,-4.245561,b,,-0.00045843268
+40,Healthcare & Medicine,108,238,gpt-3.5-turbo,chat,a,-0.00091313245,,b,,-0.002531191
+44,History & Archaeology,610,239,gpt-3.5-turbo,chat,a,-0.00072911306,,b,,-0.0033404985
+19,Education & Learning,255,240,gpt-3.5-turbo,chat,a,-0.0006221305,-7.8341355,b,-7.346674,-0.0010454319
+12,Careers & Employment,413,241,gpt-3.5-turbo,chat,a,-0.00064178446,,a,-0.0003678709,
+17,Education & Learning,24,242,gpt-3.5-turbo,chat,a,-0.00011164904,,a,-0.00011892046,
+4,Art & Design,622,243,gpt-3.5-turbo,chat,b,-0.8958824,-0.53275377,a,-0.016750403,-4.13027
+6,Business & Finance,338,244,gpt-3.5-turbo,chat,b,-3.2090094,-0.04230718,b,-3.7635791,-0.02510521
+70,Psychology & Sociology,404,245,gpt-3.5-turbo,chat,b,-6.954804,-0.001201897,b,,-0.00042400116
+46,History & Archaeology,181,246,gpt-3.5-turbo,chat,a,-0.5672083,-0.84546757,b,-2.2220862,-0.12004296
+1,Art & Design,632,247,gpt-3.5-turbo,chat,b,-0.95110154,-0.4925921,b,-4.978715,-0.009341167
+32,Food & Culinary,136,248,gpt-3.5-turbo,chat,a,-0.002660793,-6.042488,b,-3.1702347,-0.045755316
+80,Social Issues & Ethics,106,249,gpt-3.5-turbo,chat,a,-0.01434695,-4.5830975,b,-4.4835835,-0.013414439
+53,Law & Legal Issues,615,250,gpt-3.5-turbo,chat,a,-0.0013239305,,a,-0.402391,-1.124641
+30,Fashion & Beauty,588,251,gpt-3.5-turbo,chat,a,-0.0024084698,-6.655313,a,-0.0020545006,-6.2247643
+46,History & Archaeology,395,252,gpt-3.5-turbo,chat,b,-1.1565177,-0.38262054,b,-1.7950156,-0.19427705
+87,Sports & Fitness,547,253,gpt-3.5-turbo,chat,a,-0.001259399,,b,-5.1873064,-0.009913324
+43,History & Archaeology,421,254,gpt-3.5-turbo,chat,a,-0.040547475,-3.3445845,a,-0.4842903,-0.95959014
+50,Hobbies & Leisure,64,255,gpt-3.5-turbo,chat,a,-0.0002105734,,a,-0.0019274479,-6.307246
+80,Social Issues & Ethics,107,256,gpt-3.5-turbo,chat,a,-0.011387555,-4.5064588,b,-5.1192045,-0.010268076
+20,Education & Learning,181,257,gpt-3.5-turbo,chat,a,-0.0007523321,,b,-0.84589463,-0.5613335
+79,Social Issues & Ethics,213,258,gpt-3.5-turbo,chat,a,-0.010518315,-4.7965198,b,,-0.007815883
+36,Healthcare & Medicine,588,259,gpt-3.5-turbo,chat,b,-4.5234127,-0.011749435,b,,-0.00022630462
+10,Business & Finance,168,260,gpt-3.5-turbo,chat,a,-0.032432154,-3.6454616,a,-0.028511012,-3.7616577
+36,Healthcare & Medicine,6,261,gpt-3.5-turbo,chat,a,-0.002188449,-6.7995615,a,-0.0013980953,
+93,Travel & Tourism,645,262,gpt-3.5-turbo,chat,a,-0.0015165306,,a,-0.001123549,-7.3874283
+78,Science & Technology,238,263,gpt-3.5-turbo,chat,a,-0.20307137,-1.7052724,b,,-0.0024270252
+22,Entertainment,281,264,gpt-3.5-turbo,chat,a,-0.035814717,-3.4492574,b,-6.5013895,-0.0024041932
+85,Sports & Fitness,240,265,gpt-3.5-turbo,chat,a,-0.051687982,-3.023671,b,,-0.002412873
+23,Entertainment,95,266,gpt-3.5-turbo,chat,b,-7.167183,-0.0013351209,b,-6.6844044,-0.0023993168
+80,Social Issues & Ethics,277,267,gpt-3.5-turbo,chat,a,-0.010444456,,b,,-0.020626558
+27,Fashion & Beauty,588,268,gpt-3.5-turbo,chat,b,-3.8577497,-0.022428332,b,-2.3731582,-0.10082505
+28,Fashion & Beauty,462,269,gpt-3.5-turbo,chat,a,-0.0131696435,-4.6769214,b,-1.2075543,-0.35561612
+55,Law & Legal Issues,389,270,gpt-3.5-turbo,chat,a,-0.0007738933,,a,-0.005516189,-5.687975
+12,Careers & Employment,281,271,gpt-3.5-turbo,chat,a,-0.0018570076,,a,-0.00047523674,
+47,Hobbies & Leisure,16,272,gpt-3.5-turbo,chat,a,-0.024042767,-3.8259208,a,-0.004016784,
+35,Food & Culinary,24,273,gpt-3.5-turbo,chat,a,-0.31025723,-1.3347895,b,-3.1245253,-0.045444634
+51,Hobbies & Leisure,140,274,gpt-3.5-turbo,chat,a,-0.004493616,-5.7633114,a,-0.017087027,-4.194333
+16,Education & Learning,139,275,gpt-3.5-turbo,chat,a,-0.0032250101,,a,-0.005164024,
+90,Travel & Tourism,546,276,gpt-3.5-turbo,chat,b,,-0.0024618604,b,-7.216796,-0.0010023243
+15,Careers & Employment,306,277,gpt-3.5-turbo,chat,a,-0.000761984,,a,-0.16134876,-1.905148
+70,Psychology & Sociology,487,278,gpt-3.5-turbo,chat,b,-1.8335359,-0.17439437,b,-0.9572499,-0.4866688
+79,Social Issues & Ethics,532,279,gpt-3.5-turbo,chat,a,-0.024751846,-4.0789394,b,,-0.0012589223
+59,Philosophy & Religion,313,280,gpt-3.5-turbo,chat,b,-1.3798598,-0.308195,b,-3.6501808,-0.034347415
+55,Law & Legal Issues,89,281,gpt-3.5-turbo,chat,a,-0.0018509394,,a,-0.002184165,
+44,History & Archaeology,328,282,gpt-3.5-turbo,chat,b,,-0.040681276,b,-3.8107128,-0.027666163
+72,Psychology & Sociology,501,283,gpt-3.5-turbo,chat,a,-0.012720245,,b,,-0.011934623
+59,Philosophy & Religion,100,284,gpt-3.5-turbo,chat,a,-0.0014514251,,b,-4.167141,-0.017757349
+23,Entertainment,66,285,gpt-3.5-turbo,chat,b,-3.6100633,-0.029517878,b,,-0.0033045006
+74,Science & Technology,180,286,gpt-3.5-turbo,chat,a,-0.1679482,-1.8706899,a,-0.5272692,-0.89395505
+77,Science & Technology,493,287,gpt-3.5-turbo,chat,b,-2.572079,-0.08022709,b,-4.3247437,-0.013780872
+16,Education & Learning,238,288,gpt-3.5-turbo,chat,a,-0.000232384,,a,-0.0049861167,-5.3465047
+93,Travel & Tourism,329,289,gpt-3.5-turbo,chat,a,-0.007168324,,a,-0.01864348,-4.010459
+39,Healthcare & Medicine,366,290,gpt-3.5-turbo,chat,a,-0.0024763737,-6.389029,b,,-0.0033416904
+84,Sports & Fitness,175,291,gpt-3.5-turbo,chat,a,-0.00012701898,,a,-0.00023584091,
+65,Politics & Governance,178,292,gpt-3.5-turbo,chat,a,-0.4400131,-1.0458348,b,,-0.008723298
+40,Healthcare & Medicine,547,293,gpt-3.5-turbo,chat,a,-0.016778074,-4.1316404,a,-0.025269,-3.7251763
+91,Travel & Tourism,566,294,gpt-3.5-turbo,chat,a,-0.011440231,-4.5287724,a,-0.40912423,-1.0931453
+54,Law & Legal Issues,259,295,gpt-3.5-turbo,chat,a,-0.0845903,-2.5523026,b,,-0.00041720658
+31,Food & Culinary,274,296,gpt-3.5-turbo,chat,a,-0.002269801,,b,-6.613578,-0.0015725913
+44,History & Archaeology,8,297,gpt-3.5-turbo,chat,b,,-0.0011547473,b,,-0.0012836872
+60,Philosophy & Religion,412,298,gpt-3.5-turbo,chat,a,-0.004138719,-5.9584007,b,,-0.010198703
+80,Social Issues & Ethics,338,299,gpt-3.5-turbo,chat,b,-1.7306056,-0.20330575,b,-2.066049,-0.13661897
+54,Law & Legal Issues,260,300,gpt-3.5-turbo,chat,a,-0.049531486,-3.1423526,b,-3.071485,-0.057860848
+26,Fashion & Beauty,74,301,gpt-3.5-turbo,chat,a,-0.058405444,-2.9901376,b,,-0.0014917691
+64,Politics & Governance,500,302,gpt-3.5-turbo,chat,a,-0.020020654,,b,,-0.026877346
+90,Travel & Tourism,612,303,gpt-3.5-turbo,chat,b,,-0.0016908926,b,,-0.00057352474
+41,History & Archaeology,194,304,gpt-3.5-turbo,chat,a,-0.0005520791,,b,,-0.0061803567
+14,Careers & Employment,529,305,gpt-3.5-turbo,chat,a,-0.002501106,,a,-0.0023737466,-6.1307974
+25,Entertainment,117,306,gpt-3.5-turbo,chat,b,-5.999497,-0.003675848,b,-7.3294835,-0.0009105099
+18,Education & Learning,331,307,gpt-3.5-turbo,chat,a,-0.015124207,-4.3099184,b,-2.751235,-0.06670664
+43,History & Archaeology,218,308,gpt-3.5-turbo,chat,a,-0.00097232533,,b,,-0.0010214978
+17,Education & Learning,36,309,gpt-3.5-turbo,chat,a,-0.0013183352,,a,-0.017826559,-4.0499845
+29,Fashion & Beauty,590,310,gpt-3.5-turbo,chat,a,-0.031470858,-3.603601,a,-0.057362087,-2.903319
+76,Science & Technology,297,311,gpt-3.5-turbo,chat,a,-0.0079541495,-4.9215074,a,-0.0042936304,
+76,Science & Technology,370,312,gpt-3.5-turbo,chat,b,-1.7040867,-0.2137722,a,-0.37282547,-1.1728057
+54,Law & Legal Issues,495,313,gpt-3.5-turbo,chat,a,-0.018813016,-4.371459,b,,-0.007840725
+25,Entertainment,496,314,gpt-3.5-turbo,chat,a,-0.008434906,-4.969723,b,-3.852156,-0.022886455
+19,Education & Learning,66,315,gpt-3.5-turbo,chat,a,-0.0901079,-2.4739084,b,-1.0580893,-0.43621534
+8,Business & Finance,299,316,gpt-3.5-turbo,chat,b,-2.2013412,-0.117663845,b,-3.295464,-0.0381971
+32,Food & Culinary,10,317,gpt-3.5-turbo,chat,a,-0.2379472,-1.5657938,b,-3.8789847,-0.025066731
+25,Entertainment,463,318,gpt-3.5-turbo,chat,a,-0.02385561,,a,-0.018478487,-4.0160465
+52,Law & Legal Issues,371,319,gpt-3.5-turbo,chat,a,-0.0009289718,,a,-0.00048167375,
+9,Business & Finance,205,320,gpt-3.5-turbo,chat,a,-0.002102679,-6.7969885,b,-4.572775,-0.011318371
+53,Law & Legal Issues,299,321,gpt-3.5-turbo,chat,a,-0.08232342,-2.5953982,a,-0.0063177855,-5.177325
+31,Food & Culinary,69,322,gpt-3.5-turbo,chat,a,-0.18955393,-1.8435113,a,-0.001990613,
+83,Social Issues & Ethics,514,323,gpt-3.5-turbo,chat,b,-1.2490472,-0.3426808,a,-0.023287985,
+1,Art & Design,428,324,gpt-3.5-turbo,chat,b,-1.6731881,-0.20966609,b,-6.699242,-0.0014690342
+33,Food & Culinary,235,325,gpt-3.5-turbo,chat,b,-3.98422,-0.019286588,b,,-0.0006070063
+1,Art & Design,9,326,gpt-3.5-turbo,chat,a,-0.0022784846,-6.1986113,a,-0.2719929,-1.4367001
+57,Philosophy & Religion,375,327,gpt-3.5-turbo,chat,a,-0.003077887,-6.2054152,b,-4.7104836,-0.009508145
+28,Fashion & Beauty,400,328,gpt-3.5-turbo,chat,b,-1.2370812,-0.36273727,b,,-0.013628598
+46,History & Archaeology,87,329,gpt-3.5-turbo,chat,a,-0.011507526,,a,-0.010634853,-5.1301646
+15,Careers & Employment,209,330,gpt-3.5-turbo,chat,a,-0.006754325,,a,-0.020093909,-3.9425087
+48,Hobbies & Leisure,52,331,gpt-3.5-turbo,chat,a,-0.0013336941,,b,,-0.0025927771
+53,Law & Legal Issues,174,332,gpt-3.5-turbo,chat,a,-0.00047785923,,a,-0.34745398,-1.2335109
+89,Travel & Tourism,235,333,gpt-3.5-turbo,chat,b,-3.9890878,-0.026405146,b,,-0.0048727077
+60,Philosophy & Religion,411,334,gpt-3.5-turbo,chat,a,-0.00031580092,,a,-0.05553555,-2.9214547
+45,History & Archaeology,211,335,gpt-3.5-turbo,chat,a,-0.0023176074,-6.4903183,b,,-0.00033296258
+33,Food & Culinary,290,336,gpt-3.5-turbo,chat,b,-3.899073,-0.021301417,b,-5.4631968,-0.005657979
+21,Entertainment,351,337,gpt-3.5-turbo,chat,a,-0.15282393,-2.039228,b,-1.834831,-0.17912453
+53,Law & Legal Issues,75,338,gpt-3.5-turbo,chat,a,-0.00055494,,a,-0.0016242376,
+18,Education & Learning,269,339,gpt-3.5-turbo,chat,a,-0.0006125979,,b,,-0.00069265877
+58,Philosophy & Religion,203,340,gpt-3.5-turbo,chat,a,-0.0012879749,,b,-5.310614,-0.0050169555
+36,Healthcare & Medicine,308,341,gpt-3.5-turbo,chat,a,-0.0009189624,,a,-0.36899707,-1.1888957
+49,Hobbies & Leisure,115,342,gpt-3.5-turbo,chat,a,-0.0026553208,-6.1487203,a,-0.004358433,-5.821085
+20,Education & Learning,210,343,gpt-3.5-turbo,chat,a,-0.0014317859,,a,-0.00072839786,-7.591469
+39,Healthcare & Medicine,539,344,gpt-3.5-turbo,chat,a,-0.14516978,-2.005426,b,-6.446291,-0.002267659
+31,Food & Culinary,561,345,gpt-3.5-turbo,chat,a,-0.0005855607,,a,-0.00826267,-4.834341
+43,History & Archaeology,43,346,gpt-3.5-turbo,chat,b,-6.157223,-0.0023253406,b,-7.8311825,-0.00067144784
+76,Science & Technology,390,347,gpt-3.5-turbo,chat,a,-0.0020097683,,a,-0.21935982,-1.654716
+33,Food & Culinary,411,348,gpt-3.5-turbo,chat,b,-8.834105,-0.0003278368,b,-7.45355,-0.001027689
+15,Careers & Employment,102,349,gpt-3.5-turbo,chat,a,-0.022850325,,b,,-0.0111623015
+51,Hobbies & Leisure,56,350,gpt-3.5-turbo,chat,a,-0.0043477565,,a,-0.00045950554,
+82,Social Issues & Ethics,38,351,gpt-3.5-turbo,chat,a,-0.00413373,,a,-0.002785623,-6.4429216
+1,Art & Design,125,352,gpt-3.5-turbo,chat,a,-0.00026836884,-8.875203,a,-0.0006826493,
+44,History & Archaeology,473,353,gpt-3.5-turbo,chat,b,-4.419264,-0.014009414,b,,-0.008433251
+61,Philosophy & Religion,205,354,gpt-3.5-turbo,chat,a,-0.115240775,-2.286084,b,,-0.002372439
+40,Healthcare & Medicine,108,355,gpt-3.5-turbo,chat,a,-0.04666224,-3.2581015,b,,-0.0051813396
+54,Law & Legal Issues,342,356,gpt-3.5-turbo,chat,a,-0.00031317843,,a,-0.00039456884,
+46,History & Archaeology,264,357,gpt-3.5-turbo,chat,a,-0.03286379,-3.487408,a,-0.004709699,-5.9815183
+87,Sports & Fitness,92,358,gpt-3.5-turbo,chat,a,-0.0019335162,-6.940368,a,-0.0066110417,
+27,Fashion & Beauty,427,359,gpt-3.5-turbo,chat,a,-0.012766137,-4.604811,b,-3.2203028,-0.04285268
+60,Philosophy & Religion,235,360,gpt-3.5-turbo,chat,a,-0.006347392,-5.4751124,b,-3.1254144,-0.05429498
+58,Philosophy & Religion,282,361,gpt-3.5-turbo,chat,a,-0.0013976184,,b,,-0.004158653
+37,Healthcare & Medicine,221,362,gpt-3.5-turbo,chat,a,-0.04657714,-3.184406,b,-0.72285306,-0.6686882
+50,Hobbies & Leisure,103,363,gpt-3.5-turbo,chat,a,-0.0012388024,,b,-4.196809,-0.01660269
+77,Science & Technology,428,364,gpt-3.5-turbo,chat,a,-0.007827477,,b,-0.8637781,-0.5497122
+65,Politics & Governance,458,365,gpt-3.5-turbo,chat,a,-0.008245402,,b,-3.4523237,-0.04420248
+24,Entertainment,86,366,gpt-3.5-turbo,chat,a,-0.0014123776,,a,-0.055172026,-3.025217
+51,Hobbies & Leisure,110,367,gpt-3.5-turbo,chat,b,-5.161634,-0.007760535,b,-5.676439,-0.0041727796
+82,Social Issues & Ethics,147,368,gpt-3.5-turbo,chat,a,-0.008198817,-5.05392,a,-0.110075824,-2.2681167
+55,Law & Legal Issues,183,369,gpt-3.5-turbo,chat,a,-0.00036858613,,a,-0.001114616,
+21,Entertainment,512,370,gpt-3.5-turbo,chat,a,-0.022183856,-3.9713264,b,-0.7369786,-0.6536923
+35,Food & Culinary,286,371,gpt-3.5-turbo,chat,a,-0.17093296,-1.855097,b,-1.7064925,-0.20216858
+65,Politics & Governance,464,372,gpt-3.5-turbo,chat,a,-0.006408874,-5.1664696,b,-1.5406032,-0.24308921
+86,Sports & Fitness,345,373,gpt-3.5-turbo,chat,a,-0.05415429,-2.9637747,a,-0.008095589,-4.8622046
+83,Social Issues & Ethics,185,374,gpt-3.5-turbo,chat,a,-0.006460159,-5.209217,a,-0.008206734,-4.8376384
+60,Philosophy & Religion,376,375,gpt-3.5-turbo,chat,a,-0.00060664874,,b,-2.2309885,-0.115183935
+62,Politics & Governance,357,376,gpt-3.5-turbo,chat,a,-0.0030523387,-6.0288663,a,-0.06906613,-2.7955542
+76,Science & Technology,95,377,gpt-3.5-turbo,chat,a,-0.22369704,-1.6265959,a,-0.017585415,-4.431188
+59,Philosophy & Religion,158,378,gpt-3.5-turbo,chat,a,-0.64038855,-0.75593764,b,,-0.0013052374
+63,Politics & Governance,353,379,gpt-3.5-turbo,chat,a,-0.33890733,-1.3203813,a,-0.024089906,-4.051239
+10,Business & Finance,14,380,gpt-3.5-turbo,chat,a,-0.4903228,-0.9579818,a,-0.22978894,-1.5946056
+67,Psychology & Sociology,129,381,gpt-3.5-turbo,chat,a,-0.0015434303,-6.575009,b,-7.107538,-0.0014455914
+78,Science & Technology,86,382,gpt-3.5-turbo,chat,a,-0.6634423,-0.7254712,b,-4.9387326,-0.007870413
+52,Law & Legal Issues,485,383,gpt-3.5-turbo,chat,a,-0.0019565867,,a,-0.002154188,-6.655139
+77,Science & Technology,489,384,gpt-3.5-turbo,chat,b,-1.7878461,-0.18839885,b,-2.3771267,-0.09970098
+81,Social Issues & Ethics,47,385,gpt-3.5-turbo,chat,a,-0.014527095,-4.4251966,b,-4.3922753,-0.013058347
+14,Careers & Employment,299,386,gpt-3.5-turbo,chat,a,-0.000119993296,,a,-0.0006572736,
+42,History & Archaeology,385,387,gpt-3.5-turbo,chat,b,,-0.00024072826,b,,-0.00025919382
+89,Travel & Tourism,326,388,gpt-3.5-turbo,chat,b,-1.9626027,-0.15669645,b,-0.7232739,-0.66720355
+84,Sports & Fitness,404,389,gpt-3.5-turbo,chat,b,-2.2197676,-0.11720752,b,-3.2545986,-0.04147347
+59,Philosophy & Religion,497,390,gpt-3.5-turbo,chat,a,-0.00090919866,,b,,-0.0032846634
+10,Business & Finance,416,391,gpt-3.5-turbo,chat,a,-0.14271794,-2.0532079,a,-0.02227363,-3.959312
+46,History & Archaeology,21,392,gpt-3.5-turbo,chat,a,-0.28670716,-1.4151423,a,-0.09648197,-2.3982112
+44,History & Archaeology,3,393,gpt-3.5-turbo,chat,a,-0.0026477135,,b,,-0.0008123668
+13,Careers & Employment,484,394,gpt-3.5-turbo,chat,a,-0.00017624642,,a,-0.00039885283,
+44,History & Archaeology,183,395,gpt-3.5-turbo,chat,a,-0.008772339,,b,,-0.0011935601
+9,Business & Finance,112,396,gpt-3.5-turbo,chat,b,-5.8892303,-0.003463106,b,,-0.0014192804
+58,Philosophy & Religion,297,397,gpt-3.5-turbo,chat,a,-0.009997951,-4.705293,a,-0.5918257,-0.80785584
+5,Art & Design,288,398,gpt-3.5-turbo,chat,a,-0.19311738,-1.7485945,b,-1.0485982,-0.43380824
+81,Social Issues & Ethics,3,399,gpt-3.5-turbo,chat,b,-5.112301,-0.0062654205,b,,-0.001768243
+82,Social Issues & Ethics,286,400,gpt-3.5-turbo,chat,a,-0.0015605699,,a,-0.0021299217,
+72,Psychology & Sociology,281,401,gpt-3.5-turbo,chat,a,-0.0013177391,,a,-0.07563176,-2.6302583
+35,Food & Culinary,308,402,gpt-3.5-turbo,chat,b,-6.1862593,-0.0034591833,b,-1.6119598,-0.22325934
+60,Philosophy & Religion,419,403,gpt-3.5-turbo,chat,a,-0.15477933,-1.9495429,b,-1.4171617,-0.28642255
+67,Psychology & Sociology,9,404,gpt-3.5-turbo,chat,a,-0.000609748,,b,-2.2240715,-0.11538514
+67,Psychology & Sociology,83,405,gpt-3.5-turbo,chat,b,-3.1501262,-0.04429326,b,,-0.00091003306
+11,Careers & Employment,92,406,gpt-3.5-turbo,chat,a,-0.0060144756,,a,-0.001430117,
+3,Art & Design,22,407,gpt-3.5-turbo,chat,a,-0.049190957,-3.0675015,b,-5.16344,-0.0062649506
+93,Travel & Tourism,25,408,gpt-3.5-turbo,chat,a,-0.007958054,,a,-0.2946246,-1.3873808
+90,Travel & Tourism,126,409,gpt-3.5-turbo,chat,a,-0.0106288325,-4.593032,a,-0.18510266,-1.7833083
+33,Food & Culinary,434,410,gpt-3.5-turbo,chat,b,-2.978034,-0.054827668,b,,-0.0046059955
+8,Business & Finance,486,411,gpt-3.5-turbo,chat,b,,-0.007515765,b,,-0.0008384577
+10,Business & Finance,82,412,gpt-3.5-turbo,chat,a,-0.060355425,-2.9128163,a,-0.12767269,-2.135384
+5,Art & Design,119,413,gpt-3.5-turbo,chat,a,-0.07824721,-2.727793,b,-1.6074002,-0.23881084
+41,History & Archaeology,334,414,gpt-3.5-turbo,chat,a,-0.0017436044,,b,-3.0443392,-0.049548034
+39,Healthcare & Medicine,458,415,gpt-3.5-turbo,chat,a,-0.002832219,,b,,-0.0024691133
+42,History & Archaeology,246,416,gpt-3.5-turbo,chat,a,-0.43127197,-1.1126895,b,,-0.004953378
+20,Education & Learning,107,417,gpt-3.5-turbo,chat,a,-0.0016982723,-6.870431,a,-0.0039163264,
+11,Careers & Employment,352,418,gpt-3.5-turbo,chat,a,-0.006963535,-5.279232,a,-0.010326477,-4.8181553
+52,Law & Legal Issues,405,419,gpt-3.5-turbo,chat,a,-0.00041470327,,a,-0.14639613,-1.9983554
+23,Entertainment,106,420,gpt-3.5-turbo,chat,b,-4.331768,-0.017149018,b,,-0.00074970967
+22,Entertainment,64,421,gpt-3.5-turbo,chat,b,-0.89850426,-0.5249882,b,-5.8736024,-0.003849717
+47,Hobbies & Leisure,329,422,gpt-3.5-turbo,chat,b,-4.6733284,-0.009990514,b,-1.5334421,-0.2460314
+50,Hobbies & Leisure,187,423,gpt-3.5-turbo,chat,b,-1.3179289,-0.31488478,b,-6.895062,-0.0013166664
+72,Psychology & Sociology,275,424,gpt-3.5-turbo,chat,a,-0.0027375894,,a,-0.007953084,-5.222816
+77,Science & Technology,446,425,gpt-3.5-turbo,chat,b,-4.3283606,-0.015524998,b,,-0.01015433
+3,Art & Design,204,426,gpt-3.5-turbo,chat,a,-0.004336476,-5.640744,b,-2.057261,-0.13752232
+16,Education & Learning,478,427,gpt-3.5-turbo,chat,a,-0.26128262,-1.4807689,a,-0.008417998,-4.8372526
+69,Psychology & Sociology,300,428,gpt-3.5-turbo,chat,a,-0.0019809757,,a,-0.0025694757,
+8,Business & Finance,279,429,gpt-3.5-turbo,chat,b,,-0.011653875,b,,-0.015169409
+53,Law & Legal Issues,142,430,gpt-3.5-turbo,chat,b,,-0.0035023114,b,,-0.0029418059
+88,Sports & Fitness,61,431,gpt-3.5-turbo,chat,b,-2.6069565,-0.07768826,b,-4.856006,-0.008544364
+57,Philosophy & Religion,131,432,gpt-3.5-turbo,chat,a,-0.0047751917,,b,,-0.019393334
+52,Law & Legal Issues,139,433,gpt-3.5-turbo,chat,a,-0.0052783457,,a,-0.0016251912,
+89,Travel & Tourism,477,434,gpt-3.5-turbo,chat,a,-0.08001913,-2.5915568,b,-5.770245,-0.003342283
+49,Hobbies & Leisure,473,435,gpt-3.5-turbo,chat,a,-0.32404283,-1.3028979,a,-0.050585542,-3.2057579
+52,Law & Legal Issues,89,436,gpt-3.5-turbo,chat,a,-0.00051264104,,a,-0.00039789922,
+23,Entertainment,76,437,gpt-3.5-turbo,chat,b,,-0.0067035314,b,-5.082082,-0.007634316
+45,History & Archaeology,13,438,gpt-3.5-turbo,chat,a,-0.037330296,-3.9262083,b,,-0.004710649
+71,Psychology & Sociology,451,439,gpt-3.5-turbo,chat,a,-0.0006758584,,a,-0.0020098872,
+32,Food & Culinary,274,440,gpt-3.5-turbo,chat,a,-0.45205423,-1.0214303,b,-5.512877,-0.004280804
+32,Food & Culinary,56,441,gpt-3.5-turbo,chat,b,,-0.0024341664,b,,-0.0002905334
+9,Business & Finance,177,442,gpt-3.5-turbo,chat,b,,-0.01702081,b,-7.284366,-0.0012944045
+15,Careers & Employment,407,443,gpt-3.5-turbo,chat,a,-0.16097324,-1.9427325,b,-6.615316,-0.0019184067
+89,Travel & Tourism,78,444,gpt-3.5-turbo,chat,b,-2.686843,-0.0723658,a,-0.47209913,-0.98233587
+16,Education & Learning,55,445,gpt-3.5-turbo,chat,a,-0.0003647826,,a,-0.0023843301,
+74,Science & Technology,137,446,gpt-3.5-turbo,chat,a,-0.0014233297,,b,-1.7358013,-0.20010719
+29,Fashion & Beauty,104,447,gpt-3.5-turbo,chat,a,-0.33765572,-1.2632349,b,,-0.0037886736
+29,Fashion & Beauty,260,448,gpt-3.5-turbo,chat,a,-0.64247775,-0.75766444,a,-0.66103935,-0.7301922
+93,Travel & Tourism,135,449,gpt-3.5-turbo,chat,a,-0.0057522035,-5.2029567,a,-0.026425581,-3.6963913
+8,Business & Finance,446,450,gpt-3.5-turbo,chat,b,-3.929472,-0.023284962,b,,-0.0022279294
+56,Law & Legal Issues,102,451,gpt-3.5-turbo,chat,a,-0.008762645,,a,-0.0715932,-2.904622
+47,Hobbies & Leisure,306,452,gpt-3.5-turbo,chat,a,-0.022141526,-3.8613443,b,-4.8592043,-0.010229966
+61,Philosophy & Religion,52,453,gpt-3.5-turbo,chat,a,-0.0005917556,,a,-0.022644542,-3.815411
+70,Psychology & Sociology,169,454,gpt-3.5-turbo,chat,a,-0.06680311,-2.7524588,b,-2.4051638,-0.09609707
+27,Fashion & Beauty,9,455,gpt-3.5-turbo,chat,b,-1.1697495,-0.3837655,b,-2.0820248,-0.13639766
+2,Art & Design,407,456,gpt-3.5-turbo,chat,a,-0.0003927808,-8.143961,a,-0.00029482474,-8.733151
+9,Business & Finance,276,457,gpt-3.5-turbo,chat,a,-0.0079995645,-4.8821583,a,-0.005702431,-5.262037
+19,Education & Learning,220,458,gpt-3.5-turbo,chat,a,-0.0002544257,,a,-0.0015827088,-6.478847
+22,Entertainment,58,459,gpt-3.5-turbo,chat,b,-5.069829,-0.0074279653,b,-4.4277277,-0.012648437
+17,Education & Learning,135,460,gpt-3.5-turbo,chat,a,-0.00016873659,,a,-3.0828953e-05,
+31,Food & Culinary,328,461,gpt-3.5-turbo,chat,a,-0.008550272,,b,-5.086546,-0.0074422825
+88,Sports & Fitness,78,462,gpt-3.5-turbo,chat,a,-0.64986384,-0.74473536,b,-5.530531,-0.0061131786
+11,Careers & Employment,305,463,gpt-3.5-turbo,chat,a,-0.0021589452,,a,-0.14887327,-1.9939966
+27,Fashion & Beauty,23,464,gpt-3.5-turbo,chat,a,-0.07666771,-2.9048672,a,-0.5794364,-0.8629619
+59,Philosophy & Religion,170,465,gpt-3.5-turbo,chat,a,-0.006879357,,b,-1.7185725,-0.20632927
+84,Sports & Fitness,150,466,gpt-3.5-turbo,chat,a,-0.039244603,-3.2703447,a,-0.38914543,-1.1325574
+66,Politics & Governance,132,467,gpt-3.5-turbo,chat,a,-0.0021539498,,b,,-0.00037490393
+75,Science & Technology,188,468,gpt-3.5-turbo,chat,a,-0.025397317,-3.7567778,b,-1.1325536,-0.3933873
+43,History & Archaeology,28,469,gpt-3.5-turbo,chat,b,-1.014363,-0.45324582,b,,-0.0050291712
+4,Art & Design,152,470,gpt-3.5-turbo,chat,a,-0.025659597,-3.725151,a,-0.08125294,-2.5764313
+61,Philosophy & Religion,99,471,gpt-3.5-turbo,chat,a,-0.028628137,-3.7481258,b,,-0.0150905065
+19,Education & Learning,277,472,gpt-3.5-turbo,chat,a,-0.002090185,,a,-0.0045502195,-5.448999
+35,Food & Culinary,186,473,gpt-3.5-turbo,chat,a,-0.4921287,-0.97659147,b,-6.163439,-0.004081724
+27,Fashion & Beauty,217,474,gpt-3.5-turbo,chat,a,-0.17988157,-1.8329978,b,-1.7389649,-0.19771086
+38,Healthcare & Medicine,232,475,gpt-3.5-turbo,chat,a,-0.049778875,-3.0452242,b,-6.319234,-0.00201869
+35,Food & Culinary,175,476,gpt-3.5-turbo,chat,a,-0.093408786,-2.4199183,b,-2.168101,-0.13108888
+37,Healthcare & Medicine,279,477,gpt-3.5-turbo,chat,a,-0.020934336,-3.902282,b,,-0.0010735384
+79,Social Issues & Ethics,153,478,gpt-3.5-turbo,chat,a,-0.008832843,,a,-0.14988703,-2.0142765
+47,Hobbies & Leisure,46,479,gpt-3.5-turbo,chat,a,-0.09123988,-2.449545,b,,-0.0011285446
+12,Careers & Employment,351,480,gpt-3.5-turbo,chat,a,-0.0019799029,,a,-0.00086941395,
+1,Art & Design,130,481,gpt-3.5-turbo,chat,a,-0.15216416,-1.9848192,b,-5.120133,-0.0067485278
+93,Travel & Tourism,368,482,gpt-3.5-turbo,chat,a,-0.015913416,-4.76323,a,-0.034066793,-3.4058375
+66,Politics & Governance,204,483,gpt-3.5-turbo,chat,a,-0.018677883,-4.0870733,b,,-0.012709765
+80,Social Issues & Ethics,213,484,gpt-3.5-turbo,chat,a,-0.010506628,,b,-7.5009212,-0.0011425995
+18,Education & Learning,58,485,gpt-3.5-turbo,chat,a,-0.0020909,-6.2891774,b,-0.7487121,-0.64245373
+58,Philosophy & Religion,153,486,gpt-3.5-turbo,chat,a,-0.0011984437,,a,-0.04268797,-3.1951728
+23,Entertainment,261,487,gpt-3.5-turbo,chat,b,-4.528779,-0.012019312,b,,-0.0010192328
+24,Entertainment,60,488,gpt-3.5-turbo,chat,a,-0.023457669,-3.7799065,a,-0.013326224,-4.5441413
+56,Law & Legal Issues,163,489,gpt-3.5-turbo,chat,a,-0.004496823,,a,-0.0031180605,
+43,History & Archaeology,81,490,gpt-3.5-turbo,chat,a,-0.004813273,-5.389964,b,-4.0323396,-0.020443315
+13,Careers & Employment,417,491,gpt-3.5-turbo,chat,a,-0.00026920327,,a,-0.661522,-0.7320977
+88,Sports & Fitness,220,492,gpt-3.5-turbo,chat,b,-4.7368426,-0.009324637,b,-1.6473705,-0.21448432
+89,Travel & Tourism,420,493,gpt-3.5-turbo,chat,b,-0.77669406,-0.61784625,a,-0.50744253,-0.93116957
+45,History & Archaeology,182,494,gpt-3.5-turbo,chat,a,-0.005861359,-5.4205055,b,,-0.0010339995
+68,Psychology & Sociology,241,495,gpt-3.5-turbo,chat,b,,-0.004965239,b,-1.7396097,-0.19391535
+36,Healthcare & Medicine,220,496,gpt-3.5-turbo,chat,a,-0.0031604916,,b,,-0.002263852
+86,Sports & Fitness,72,497,gpt-3.5-turbo,chat,a,-0.44249004,-1.0301766,b,-5.567749,-0.004617507
+43,History & Archaeology,151,498,gpt-3.5-turbo,chat,a,-0.0061439807,-5.1791368,a,-0.009361126,-4.693884
+25,Entertainment,64,499,gpt-3.5-turbo,chat,b,-3.1462202,-0.046748135,a,-0.52900374,-0.8924204
+41,History & Archaeology,311,500,gpt-3.5-turbo,chat,b,-1.5856926,-0.23003884,b,,-0.0007771118
+79,Social Issues & Ethics,66,501,gpt-3.5-turbo,chat,a,-0.01020978,-4.648662,a,-0.09134084,-2.442331
+65,Politics & Governance,306,502,gpt-3.5-turbo,chat,a,-0.0069612847,,b,,-0.011482548
+39,Healthcare & Medicine,30,503,gpt-3.5-turbo,chat,b,,-0.0005769817,b,,-0.00035977605
+58,Philosophy & Religion,363,504,gpt-3.5-turbo,chat,a,-0.0026806525,-6.240947,b,-1.4550304,-0.26834294
+24,Entertainment,104,505,gpt-3.5-turbo,chat,b,-3.155177,-0.04366402,b,-5.7430205,-0.003654003
+29,Fashion & Beauty,59,506,gpt-3.5-turbo,chat,b,-0.7287333,-0.66097665,b,-5.2823114,-0.00595748
+24,Entertainment,401,507,gpt-3.5-turbo,chat,a,-0.0008217802,,b,-2.366903,-0.133949
+54,Law & Legal Issues,29,508,gpt-3.5-turbo,chat,a,-0.0061603356,,b,-3.1060278,-0.049591374
+21,Entertainment,110,509,gpt-3.5-turbo,chat,a,-0.0057196235,-5.4049716,b,-1.7592223,-0.18936752
+35,Food & Culinary,342,510,gpt-3.5-turbo,chat,b,,-0.00062844466,b,-4.9384794,-0.0087518925
+4,Art & Design,89,511,gpt-3.5-turbo,chat,a,-0.0017674086,,a,-0.0023945596,-6.618413
+17,Education & Learning,144,512,gpt-3.5-turbo,chat,a,-0.006612819,,a,-0.0010037511,
+11,Careers & Employment,32,513,gpt-3.5-turbo,chat,a,-0.023487482,-4.160786,a,-0.053304154,-3.0464435
+74,Science & Technology,219,514,gpt-3.5-turbo,chat,b,-6.421827,-0.002082455,b,-2.4338844,-0.09462425
+56,Law & Legal Issues,247,515,gpt-3.5-turbo,chat,a,-0.0012653555,,b,-4.2656164,-0.01584361
+36,Healthcare & Medicine,399,516,gpt-3.5-turbo,chat,a,-0.00037979125,,a,-0.044428848,-3.1413698
+79,Social Issues & Ethics,133,517,gpt-3.5-turbo,chat,a,-0.0022510071,,a,-0.0049298857,-5.8347163
+30,Fashion & Beauty,333,518,gpt-3.5-turbo,chat,a,-0.055352505,-2.951627,a,-0.12865698,-2.1223092
+77,Science & Technology,154,519,gpt-3.5-turbo,chat,a,-0.0020290425,,b,,-0.0035127646
+17,Education & Learning,201,520,gpt-3.5-turbo,chat,a,-0.0007488752,,a,-0.00046916102,
+54,Law & Legal Issues,253,521,gpt-3.5-turbo,chat,a,-0.0006314247,,a,-0.0014364237,
+90,Travel & Tourism,32,522,gpt-3.5-turbo,chat,b,-5.643028,-0.0041250614,b,-6.9739637,-0.0010956883
+74,Science & Technology,23,523,gpt-3.5-turbo,chat,a,-0.0014923651,,a,-0.0019638436,-6.4556093
+83,Social Issues & Ethics,41,524,gpt-3.5-turbo,chat,a,-0.002119331,,b,,-0.0018196474
+24,Entertainment,357,525,gpt-3.5-turbo,chat,a,-0.0004009985,,a,-0.00013107191,
+66,Politics & Governance,356,526,gpt-3.5-turbo,chat,a,-0.003939718,,b,,-0.00980414
+88,Sports & Fitness,334,527,gpt-3.5-turbo,chat,a,-0.18764588,-1.766799,b,-1.8210412,-0.17761813
+55,Law & Legal Issues,90,528,gpt-3.5-turbo,chat,a,-0.014413236,-4.4038386,b,,-0.0069207964
+55,Law & Legal Issues,63,529,gpt-3.5-turbo,chat,a,-0.00051026064,,a,-0.0012696359,
+84,Sports & Fitness,177,530,gpt-3.5-turbo,chat,a,-0.0033400217,-6.140818,a,-0.0004220939,
+28,Fashion & Beauty,279,531,gpt-3.5-turbo,chat,b,,-0.0135444105,b,-1.3090473,-0.3159119
+43,History & Archaeology,381,532,gpt-3.5-turbo,chat,a,-0.14038911,-2.0402744,a,-0.04258951,-3.1823466
+14,Careers & Employment,229,533,gpt-3.5-turbo,chat,a,-0.0017483654,,a,-0.0017781148,
+31,Food & Culinary,107,534,gpt-3.5-turbo,chat,a,-0.002263971,-6.749157,a,-0.04730042,-3.1262589
+90,Travel & Tourism,259,535,gpt-3.5-turbo,chat,a,-0.0013497572,,a,-0.0018079837,
+20,Education & Learning,333,536,gpt-3.5-turbo,chat,a,-0.009846747,-5.1547728,a,-0.49089018,-0.97913706
+14,Careers & Employment,364,537,gpt-3.5-turbo,chat,a,-0.000477144,,a,-0.0014071364,
+63,Politics & Governance,222,538,gpt-3.5-turbo,chat,a,-0.1627912,-2.0309896,b,-1.735366,-0.22503383
+33,Food & Culinary,43,539,gpt-3.5-turbo,chat,a,-0.004491008,-5.68447,a,-0.086290546,-2.5189917
+45,History & Archaeology,192,540,gpt-3.5-turbo,chat,a,-0.002009053,,b,,-0.0006021227
+69,Psychology & Sociology,342,541,gpt-3.5-turbo,chat,a,-0.0040085916,,b,-1.0007629,-0.46077543
+8,Business & Finance,207,542,gpt-3.5-turbo,chat,b,,-0.00903228,b,-3.9272377,-0.022027371
+76,Science & Technology,280,543,gpt-3.5-turbo,chat,b,-2.5813508,-0.08329063,b,,-0.01304999
+87,Sports & Fitness,155,544,gpt-3.5-turbo,chat,b,-1.0212363,-0.45235237,b,-4.420069,-0.013893501
+27,Fashion & Beauty,32,545,gpt-3.5-turbo,chat,a,-0.10699708,-2.3798013,b,-1.0961516,-0.41113302
+91,Travel & Tourism,70,546,gpt-3.5-turbo,chat,b,-1.415841,-0.27967727,b,-5.0514693,-0.006921392
+6,Business & Finance,218,547,gpt-3.5-turbo,chat,a,-0.1934159,-1.7556412,b,-4.49067,-0.013945582
+11,Careers & Employment,280,548,gpt-3.5-turbo,chat,a,-0.002695505,,a,-0.0028489828,
+46,History & Archaeology,136,549,gpt-3.5-turbo,chat,b,,-0.0018427288,b,-4.813765,-0.011055246
+85,Sports & Fitness,10,550,gpt-3.5-turbo,chat,b,-7.6888666,-0.00074280315,b,,-0.0014066596
+17,Education & Learning,45,551,gpt-3.5-turbo,chat,a,-0.00042710046,,a,-0.23072037,-1.5931033
+10,Business & Finance,45,552,gpt-3.5-turbo,chat,b,,-0.03857762,b,-3.1272366,-0.04653105
+67,Psychology & Sociology,255,553,gpt-3.5-turbo,chat,a,-0.1675939,-1.8742323,b,-3.7857528,-0.02358005
+67,Psychology & Sociology,53,554,gpt-3.5-turbo,chat,a,-0.01793885,-4.066185,b,,-0.0025876698
+64,Politics & Governance,262,555,gpt-3.5-turbo,chat,a,-0.4901687,-0.9512626,a,-0.6871292,-0.7073967
+73,Science & Technology,84,556,gpt-3.5-turbo,chat,a,-0.0025764904,,a,-0.029776642,-3.5566854
+68,Psychology & Sociology,274,557,gpt-3.5-turbo,chat,a,-0.04476322,-3.3540266,b,-6.2214565,-0.003208373
+7,Business & Finance,115,558,gpt-3.5-turbo,chat,b,-3.1109731,-0.048866104,b,-2.1659517,-0.12397293
+48,Hobbies & Leisure,137,559,gpt-3.5-turbo,chat,a,-0.0010681779,,b,-4.370127,-0.014706112
+72,Psychology & Sociology,55,560,gpt-3.5-turbo,chat,a,-0.0010847325,-7.104652,b,-5.102743,-0.006605003
+3,Art & Design,284,561,gpt-3.5-turbo,chat,a,-0.4754659,-0.984398,a,-0.064894296,-2.9339414
+40,Healthcare & Medicine,294,562,gpt-3.5-turbo,chat,a,-0.036526185,-3.3604207,b,,-0.0067183324
+33,Food & Culinary,103,563,gpt-3.5-turbo,chat,b,-3.2571013,-0.04100057,b,-1.5136381,-0.2510611
+83,Social Issues & Ethics,235,564,gpt-3.5-turbo,chat,a,-0.08216969,-2.5817444,a,-0.007962193,
+36,Healthcare & Medicine,191,565,gpt-3.5-turbo,chat,a,-0.0011805851,,b,-6.1943216,-0.002238401
+6,Business & Finance,167,566,gpt-3.5-turbo,chat,a,-0.0024580567,,b,-5.0856304,-0.008407481
+58,Philosophy & Religion,91,567,gpt-3.5-turbo,chat,a,-0.009168132,-4.7757907,b,-1.7766111,-0.18607876
+53,Law & Legal Issues,155,568,gpt-3.5-turbo,chat,a,-0.0011200957,,a,-0.01609103,-4.1872563
+79,Social Issues & Ethics,55,569,gpt-3.5-turbo,chat,a,-0.004603265,,b,-4.1462617,-0.022728322
+38,Healthcare & Medicine,198,570,gpt-3.5-turbo,chat,a,-0.0011580813,,a,-0.053285953,-2.968075
+69,Psychology & Sociology,189,571,gpt-3.5-turbo,chat,a,-0.003594718,-5.929439,b,-0.7048205,-0.68375957
+13,Careers & Employment,50,572,gpt-3.5-turbo,chat,a,-0.0030015893,,b,,-0.0019653896
+68,Psychology & Sociology,197,573,gpt-3.5-turbo,chat,a,-0.5931466,-0.8184617,b,,-0.0010613906
+20,Education & Learning,146,574,gpt-3.5-turbo,chat,a,-0.0025358289,,a,-0.0050920337,-5.455892
+24,Entertainment,179,575,gpt-3.5-turbo,chat,a,-0.014125072,-4.346511,a,-0.0036507952,
+72,Psychology & Sociology,148,576,gpt-3.5-turbo,chat,a,-0.011958887,-4.5052185,a,-0.0011868956,
+12,Careers & Employment,241,577,gpt-3.5-turbo,chat,a,-0.00014227704,,a,-0.0005010856,
+38,Healthcare & Medicine,219,578,gpt-3.5-turbo,chat,b,-3.4633594,-0.032550324,b,,-0.0016994643
+66,Politics & Governance,93,579,gpt-3.5-turbo,chat,a,-0.0024876688,,a,-0.023547677,-3.8700385
+26,Fashion & Beauty,265,580,gpt-3.5-turbo,chat,a,-0.1617488,-1.9252528,b,,-0.0026836141
+78,Science & Technology,279,581,gpt-3.5-turbo,chat,b,-4.3776693,-0.013113755,b,-4.5430775,-0.0109976
+57,Philosophy & Religion,178,582,gpt-3.5-turbo,chat,b,,-0.004083028,b,,-0.00060843676
+34,Food & Culinary,178,583,gpt-3.5-turbo,chat,a,-0.010512529,,a,-0.6048149,-0.79731405
+70,Psychology & Sociology,49,584,gpt-3.5-turbo,chat,b,-5.868065,-0.0029811484,b,-5.8003707,-0.003474509
+86,Sports & Fitness,29,585,gpt-3.5-turbo,chat,b,,-0.001489508,b,,-0.00095040654
+71,Psychology & Sociology,188,586,gpt-3.5-turbo,chat,a,-0.000898839,,a,-0.023301847,-3.8055532
+36,Healthcare & Medicine,211,587,gpt-3.5-turbo,chat,a,-0.48215374,-0.961337,b,,-0.00046117438
+73,Science & Technology,98,588,gpt-3.5-turbo,chat,a,-0.002768621,,a,-0.015085688,-4.5235715
+45,History & Archaeology,12,589,gpt-3.5-turbo,chat,b,-5.1177254,-0.010286131,b,-5.05428,-0.0065007857
+16,Education & Learning,273,590,gpt-3.5-turbo,chat,a,-0.0073975567,,b,-1.0453866,-0.48598602
+50,Hobbies & Leisure,228,591,gpt-3.5-turbo,chat,a,-0.0013909504,-7.022557,b,-0.82769173,-0.57499856
+92,Travel & Tourism,212,592,gpt-3.5-turbo,chat,a,-0.14183593,-2.0284612,a,-0.010263709,-4.7379537
+38,Healthcare & Medicine,50,593,gpt-3.5-turbo,chat,b,-7.0266047,-0.0012844024,b,-5.8483577,-0.0031830634
+26,Fashion & Beauty,127,594,gpt-3.5-turbo,chat,b,,-0.016394682,b,,-0.0014785596
+73,Science & Technology,101,595,gpt-3.5-turbo,chat,a,-0.0010450744,,a,-0.008486564,-5.2988367
+6,Business & Finance,293,596,gpt-3.5-turbo,chat,b,-3.379141,-0.036033794,b,-6.764701,-0.002192733
+41,History & Archaeology,54,597,gpt-3.5-turbo,chat,a,-0.0005568436,,b,,-0.001576998
+47,Hobbies & Leisure,84,598,gpt-3.5-turbo,chat,a,-0.43339708,-1.0726354,b,-0.7508971,-0.63869923
+18,Education & Learning,100,599,gpt-3.5-turbo,chat,a,-0.28857052,-1.4015943,a,-0.5293523,-0.9016839
+53,Law & Legal Issues,309,600,gpt-3.5-turbo,chat,a,-0.10630725,-2.3328526,b,,-0.0018898528
+63,Politics & Governance,253,601,gpt-3.5-turbo,chat,a,-0.025190424,-3.977726,b,-0.88974154,-0.59533465
+48,Hobbies & Leisure,266,602,gpt-3.5-turbo,chat,a,-0.035037134,-3.379033,b,-2.2179792,-0.117303684
+23,Entertainment,65,603,gpt-3.5-turbo,chat,b,,-0.026581727,b,,-0.0043318453
+58,Philosophy & Religion,126,604,gpt-3.5-turbo,chat,a,-0.0037478216,,a,-0.015108234,-4.215763
+63,Politics & Governance,113,605,gpt-3.5-turbo,chat,a,-0.008241616,-4.8763676,b,-4.0145135,-0.019478215
+34,Food & Culinary,306,606,gpt-3.5-turbo,chat,a,-0.0008974085,,a,-0.076287605,-2.6207612
+56,Law & Legal Issues,172,607,gpt-3.5-turbo,chat,a,-0.0011216417,,a,-0.0017870405,
+6,Business & Finance,255,608,gpt-3.5-turbo,chat,b,-1.9834557,-0.14991945,b,-1.4307032,-0.27985093
+63,Politics & Governance,294,609,gpt-3.5-turbo,chat,a,-0.026845315,,a,-0.5164351,-0.9236216
+56,Law & Legal Issues,84,610,gpt-3.5-turbo,chat,a,-0.00093718956,,a,-0.0043625906,-5.911427
+36,Healthcare & Medicine,160,611,gpt-3.5-turbo,chat,a,-0.0012084495,-6.8657446,b,,-0.0020199977
+88,Sports & Fitness,184,612,gpt-3.5-turbo,chat,b,,-0.0007742509,b,,-0.00020437481
+83,Social Issues & Ethics,17,613,gpt-3.5-turbo,chat,a,-0.0019437458,,a,-0.0011462911,
+65,Politics & Governance,151,614,gpt-3.5-turbo,chat,a,-0.0022569527,,b,-0.94150716,-0.4981287
+21,Entertainment,265,615,gpt-3.5-turbo,chat,a,-0.019508727,-4.109738,b,-5.348684,-0.006871898
+21,Entertainment,54,616,gpt-3.5-turbo,chat,a,-0.029407686,-3.8178942,b,-2.5234869,-0.087987565
+66,Politics & Governance,190,617,gpt-3.5-turbo,chat,a,-0.0046527423,-5.924567,b,-0.9309845,-0.50234985
+87,Sports & Fitness,80,618,gpt-3.5-turbo,chat,a,-0.00043794067,,b,,-0.0003084103
+14,Careers & Employment,121,619,gpt-3.5-turbo,chat,b,-0.8457106,-0.59037,a,-0.36956415,-1.1763746
+85,Sports & Fitness,224,620,gpt-3.5-turbo,chat,b,-2.569746,-0.08546263,b,-8.135058,-0.0004512878
+57,Philosophy & Religion,294,621,gpt-3.5-turbo,chat,a,-0.0028746538,-6.184109,b,-5.015882,-0.0069062365
+24,Entertainment,20,622,gpt-3.5-turbo,chat,a,-0.002525484,-6.1887245,a,-0.007263366,-5.54776
+89,Travel & Tourism,75,623,gpt-3.5-turbo,chat,a,-0.03797056,-3.4177523,a,-0.15001826,-1.9738536
+13,Careers & Employment,274,624,gpt-3.5-turbo,chat,a,-0.00075638137,,a,-0.0012099955,
+47,Hobbies & Leisure,153,625,gpt-3.5-turbo,chat,b,-2.343326,-0.101382844,a,-0.11002574,-2.266146
+67,Psychology & Sociology,278,626,gpt-3.5-turbo,chat,a,-0.0025888581,-6.1919103,b,-1.6482439,-0.21410465
+22,Entertainment,105,627,gpt-3.5-turbo,chat,b,-3.9202912,-0.022269549,b,,-0.004184891
+90,Travel & Tourism,142,628,gpt-3.5-turbo,chat,a,-0.058761492,-2.868311,b,-7.6922536,-0.000603311
+37,Healthcare & Medicine,148,629,gpt-3.5-turbo,chat,a,-0.0012124951,-7.2003837,b,-0.741977,-0.64703107
+16,Education & Learning,107,630,gpt-3.5-turbo,chat,a,-0.00015264409,,a,-0.0018700943,
+7,Business & Finance,151,631,gpt-3.5-turbo,chat,a,-0.00091979676,,a,-0.0021928523,
+35,Food & Culinary,89,632,gpt-3.5-turbo,chat,a,-0.017140232,-4.156575,b,-3.2810342,-0.039279673
+62,Politics & Governance,56,633,gpt-3.5-turbo,chat,a,-0.0013809482,-7.2281265,b,-2.1146908,-0.13323413
+85,Sports & Fitness,208,634,gpt-3.5-turbo,chat,a,-0.099492505,-2.3660598,b,-5.6579924,-0.004590211
+33,Food & Culinary,271,635,gpt-3.5-turbo,chat,b,-2.8368928,-0.06202303,b,,-0.000920512
+52,Law & Legal Issues,267,636,gpt-3.5-turbo,chat,a,-0.0039740354,,b,-1.1441255,-0.39687207
+37,Healthcare & Medicine,44,637,gpt-3.5-turbo,chat,a,-0.0012295155,,b,-1.144665,-0.38515112
+38,Healthcare & Medicine,36,638,gpt-3.5-turbo,chat,a,-0.058176935,-2.9091501,a,-0.14685713,-1.9948033
+55,Law & Legal Issues,222,639,gpt-3.5-turbo,chat,a,-0.000591994,,b,,-0.0052307984
+47,Hobbies & Leisure,9,640,gpt-3.5-turbo,chat,b,-4.5913844,-0.012481279,b,-3.264003,-0.039845727
+39,Healthcare & Medicine,109,641,gpt-3.5-turbo,chat,a,-0.002740447,-6.049169,b,-1.6131717,-0.22437008
+6,Business & Finance,184,642,gpt-3.5-turbo,chat,b,-2.3446236,-0.11370654,b,-1.2466594,-0.34528455
+85,Sports & Fitness,58,643,gpt-3.5-turbo,chat,b,,-0.0008020034,b,,-0.00089597807
+4,Art & Design,147,644,gpt-3.5-turbo,chat,a,-0.06177954,-2.8582044,a,-0.04552618,-3.221958
+54,Law & Legal Issues,29,645,gpt-3.5-turbo,chat,a,-0.000663353,,a,-0.0009158631,
+77,Science & Technology,37,646,gpt-3.5-turbo,chat,b,,-0.0011762974,b,,-0.0023511457
+33,Food & Culinary,253,647,gpt-3.5-turbo,chat,b,-5.135283,-0.006462763,b,,-0.0012329688
+7,Business & Finance,74,648,gpt-3.5-turbo,chat,b,-0.8988907,-0.5282032,b,-5.661217,-0.0065256534
+6,Business & Finance,146,649,gpt-3.5-turbo,chat,a,-0.016834807,,a,-0.10187261,-2.3403428
+4,Art & Design,56,650,gpt-3.5-turbo,chat,a,-0.0010404328,,b,-1.7461843,-0.19426438
+93,Travel & Tourism,207,651,gpt-3.5-turbo,chat,b,,-0.038028974,b,-4.3397355,-0.016481802
+62,Politics & Governance,62,652,gpt-3.5-turbo,chat,a,-0.008306639,,b,,-0.008004416
+51,Hobbies & Leisure,74,653,gpt-3.5-turbo,chat,a,-0.016303794,-4.2611656,a,-0.07853124,-2.5886726
+14,Careers & Employment,153,654,gpt-3.5-turbo,chat,a,-0.0006894403,,a,-0.0040654596,-5.700845
+49,Hobbies & Leisure,214,655,gpt-3.5-turbo,chat,a,-0.019593948,-4.066213,a,-0.105238356,-2.3184342
+79,Social Issues & Ethics,169,656,gpt-3.5-turbo,chat,a,-0.040339105,-3.248095,b,-6.1932364,-0.0023510265
+57,Philosophy & Religion,150,657,gpt-3.5-turbo,chat,a,-0.009155373,,a,-0.011473938,
+31,Food & Culinary,144,658,gpt-3.5-turbo,chat,a,-0.00046749215,-8.383352,a,-0.012825465,-5.0046487
+71,Psychology & Sociology,10,659,gpt-3.5-turbo,chat,a,-0.0014928421,,b,-5.9808555,-0.003167741
+68,Psychology & Sociology,25,660,gpt-3.5-turbo,chat,a,-0.008399679,-5.299768,b,,-0.001566996
+74,Science & Technology,81,661,gpt-3.5-turbo,chat,a,-0.0006203425,,a,-0.01148855,-4.4931455
+40,Healthcare & Medicine,82,662,gpt-3.5-turbo,chat,a,-0.0009805283,,b,,-0.00062070007
+22,Entertainment,172,663,gpt-3.5-turbo,chat,b,-4.3264823,-0.01530583,b,-5.968225,-0.002887141
+70,Psychology & Sociology,70,664,gpt-3.5-turbo,chat,b,-0.9316166,-0.50269204,b,-2.594104,-0.07813388
+83,Social Issues & Ethics,72,665,gpt-3.5-turbo,chat,a,-0.03369561,-3.4548173,b,-5.663319,-0.0036607643
+15,Careers & Employment,101,666,gpt-3.5-turbo,chat,a,-0.028216338,-3.7777376,b,,-0.0040821973
+60,Philosophy & Religion,34,667,gpt-3.5-turbo,chat,a,-0.034065645,-3.9501042,b,,-0.035186414
+1,Art & Design,99,668,gpt-3.5-turbo,chat,a,-0.014928924,-4.3417587,b,,-0.00049036095
+15,Careers & Employment,87,669,gpt-3.5-turbo,chat,a,-0.024181826,-3.8143086,b,-1.1181396,-0.40503922
+93,Travel & Tourism,216,670,gpt-3.5-turbo,chat,a,-0.031016782,-3.5289092,a,-0.053467803,-2.976283
+78,Science & Technology,111,671,gpt-3.5-turbo,chat,b,-4.3642907,-0.0129284365,b,-5.467192,-0.0046526226
+47,Hobbies & Leisure,187,672,gpt-3.5-turbo,chat,b,-0.9516492,-0.49147844,b,-0.9099305,-0.51531917
+25,Entertainment,106,673,gpt-3.5-turbo,chat,a,-0.0135619305,-4.319718,b,-4.349698,-0.01349724
+3,Art & Design,110,674,gpt-3.5-turbo,chat,a,-0.054003064,-3.5655005,b,-4.5638037,-0.015221655
+65,Politics & Governance,43,675,gpt-3.5-turbo,chat,a,-0.0035025496,,b,,-0.06740819
+41,History & Archaeology,225,676,gpt-3.5-turbo,chat,a,-0.0014428534,,b,,-0.0012254663
+31,Food & Culinary,62,677,gpt-3.5-turbo,chat,a,-0.00021164624,-9.387545,b,-6.505011,-0.0020224971
+44,History & Archaeology,217,678,gpt-3.5-turbo,chat,a,-0.0011629577,,b,-6.0276484,-0.0038731124
+5,Art & Design,129,679,gpt-3.5-turbo,chat,a,-0.007717363,-4.9669113,a,-0.22112711,-1.626557
+78,Science & Technology,4,680,gpt-3.5-turbo,chat,b,,-0.0018625956,b,,-0.006141019
+18,Education & Learning,25,681,gpt-3.5-turbo,chat,a,-0.0013354785,-6.9119096,b,,-0.00085012865
+80,Social Issues & Ethics,22,682,gpt-3.5-turbo,chat,a,-0.000318185,,b,-5.2813673,-0.008086006
+63,Politics & Governance,1,683,gpt-3.5-turbo,chat,a,-0.005629174,,b,,-0.004434271
+12,Careers & Employment,232,684,gpt-3.5-turbo,chat,a,-0.00015812746,,a,-0.0006355932,
+69,Psychology & Sociology,157,685,gpt-3.5-turbo,chat,a,-0.0044049555,-5.753293,b,-4.714347,-0.00985643
+64,Politics & Governance,40,686,gpt-3.5-turbo,chat,b,,-0.08240871,a,-0.07617328,-2.6724963
+76,Science & Technology,215,687,gpt-3.5-turbo,chat,b,-0.83027905,-0.5739276,b,-5.900538,-0.0034107242
+87,Sports & Fitness,159,688,gpt-3.5-turbo,chat,a,-0.0034911428,-5.8562474,b,-6.970305,-0.0011334282
+72,Psychology & Sociology,114,689,gpt-3.5-turbo,chat,a,-0.00056983315,,a,-0.0008203497,
+63,Politics & Governance,212,690,gpt-3.5-turbo,chat,a,-0.37911177,-1.3280387,b,-1.8472886,-0.2410131
+66,Politics & Governance,179,691,gpt-3.5-turbo,chat,a,-0.007953084,,b,,-0.0010729424
+57,Philosophy & Religion,29,692,gpt-3.5-turbo,chat,a,-0.0016780334,,a,-0.08476577,-2.5426133
+24,Entertainment,77,693,gpt-3.5-turbo,chat,a,-0.014836258,-4.2701635,a,-0.0036709718,
+29,Fashion & Beauty,126,694,gpt-3.5-turbo,chat,b,-4.228557,-0.01711035,b,,-0.0015112893
+83,Social Issues & Ethics,107,695,gpt-3.5-turbo,chat,a,-0.05691963,-2.908402,a,-0.0049553895,-5.9016705
+4,Art & Design,177,696,gpt-3.5-turbo,chat,a,-0.34434682,-1.28215,a,-0.40422484,-1.1346612
+4,Art & Design,54,697,gpt-3.5-turbo,chat,a,-0.010416502,,a,-0.038009934,-3.3552458
+2,Art & Design,104,698,gpt-3.5-turbo,chat,a,-0.00050060876,,a,-0.0008555974,
+68,Psychology & Sociology,42,699,gpt-3.5-turbo,chat,a,-0.3136956,-1.3360078,b,-1.5856385,-0.2319798
+19,Education & Learning,107,700,gpt-3.5-turbo,chat,b,-1.966295,-0.15330295,b,,-0.0004543871
+12,Careers & Employment,177,701,gpt-3.5-turbo,chat,a,-0.002286211,,a,-0.0013264336,
+60,Philosophy & Religion,151,702,gpt-3.5-turbo,chat,a,-0.004803192,-5.4392915,b,-1.7043519,-0.20276122
+8,Business & Finance,44,703,gpt-3.5-turbo,chat,b,-1.4092721,-0.28374752,b,-3.719804,-0.03720602
+45,History & Archaeology,26,704,gpt-3.5-turbo,chat,a,-0.0030683838,,b,,-0.004255881
+32,Food & Culinary,21,705,gpt-3.5-turbo,chat,b,,-0.0015170074,b,,-0.0009330174
+83,Social Issues & Ethics,188,706,gpt-3.5-turbo,chat,a,-0.049201965,-3.0505352,b,-2.043445,-0.13996263
+46,History & Archaeology,172,707,gpt-3.5-turbo,chat,a,-0.33528107,-1.2781713,b,-3.0667596,-0.055489086
+20,Education & Learning,58,708,gpt-3.5-turbo,chat,a,-0.0010734192,,a,-0.00077877333,
+36,Healthcare & Medicine,111,709,gpt-3.5-turbo,chat,a,-0.001671611,,b,-2.7920225,-0.06385399
+72,Psychology & Sociology,163,710,gpt-3.5-turbo,chat,a,-0.012554745,-4.413508,a,-0.6356144,-0.7806473
+71,Psychology & Sociology,43,711,gpt-3.5-turbo,chat,a,-0.0010929503,-7.3805923,a,-0.55297285,-0.86739355
+19,Education & Learning,194,712,gpt-3.5-turbo,chat,a,-0.002402174,,b,,-0.0018125097
+45,History & Archaeology,104,713,gpt-3.5-turbo,chat,a,-0.054043617,-2.9628284,b,,-0.0017839412
+91,Travel & Tourism,133,714,gpt-3.5-turbo,chat,b,-2.5146823,-0.08616008,b,-2.0085874,-0.14668122
+23,Entertainment,40,715,gpt-3.5-turbo,chat,b,,-0.012705059,b,,-0.0019862098
+46,History & Archaeology,200,716,gpt-3.5-turbo,chat,b,-3.0878005,-0.053729586,a,-0.015241254,-4.3210216
+34,Food & Culinary,69,717,gpt-3.5-turbo,chat,a,-0.06427339,-2.7940097,a,-0.13399477,-2.078037
+84,Sports & Fitness,17,718,gpt-3.5-turbo,chat,b,-6.009641,-0.0028832143,b,-1.259131,-0.3386578
+73,Science & Technology,41,719,gpt-3.5-turbo,chat,a,-0.04662482,-3.1925027,a,-0.0028987823,
+73,Science & Technology,31,720,gpt-3.5-turbo,chat,b,-3.302655,-0.03810965,b,-4.0728736,-0.017596662
+80,Social Issues & Ethics,64,721,gpt-3.5-turbo,chat,a,-0.0022355437,,b,,-0.025632521
+21,Entertainment,154,722,gpt-3.5-turbo,chat,a,-0.1028444,-2.337433,b,-2.0681639,-0.13537681
+10,Business & Finance,185,723,gpt-3.5-turbo,chat,a,-0.486152,-0.9955705,b,-5.5607452,-0.005844293
+82,Social Issues & Ethics,149,724,gpt-3.5-turbo,chat,a,-0.14934424,-2.0561092,b,,-0.011375885
+14,Careers & Employment,31,725,gpt-3.5-turbo,chat,a,-0.0026544898,,b,,-0.00059032516
+26,Fashion & Beauty,180,726,gpt-3.5-turbo,chat,a,-0.003736422,,a,-0.0056276317,-5.6244783
+18,Education & Learning,27,727,gpt-3.5-turbo,chat,b,-5.976168,-0.005064283,b,-5.7382674,-0.0042298855
+88,Sports & Fitness,177,728,gpt-3.5-turbo,chat,b,-2.7649612,-0.07018862,b,-5.1930604,-0.00593034
+56,Law & Legal Issues,144,729,gpt-3.5-turbo,chat,a,-0.00016051154,,a,-0.010059447,-4.9616337
+71,Psychology & Sociology,116,730,gpt-3.5-turbo,chat,a,-0.001696011,,a,-0.0009558862,
+30,Fashion & Beauty,57,731,gpt-3.5-turbo,chat,a,-0.34534228,-1.2405506,a,-0.14357542,-2.013872
+82,Social Issues & Ethics,156,732,gpt-3.5-turbo,chat,a,-0.0006288022,,a,-0.01900509,-4.177378
+64,Politics & Governance,103,733,gpt-3.5-turbo,chat,b,,-0.05244503,b,-1.5339603,-0.30039406
+77,Science & Technology,178,734,gpt-3.5-turbo,chat,b,-5.6980257,-0.0042258473,b,,-0.0036899783
+71,Psychology & Sociology,119,735,gpt-3.5-turbo,chat,a,-0.00038479414,,b,,-0.0018354683
+62,Politics & Governance,136,736,gpt-3.5-turbo,chat,b,-1.0945208,-0.4323847,b,,-0.002307031
+40,Healthcare & Medicine,40,737,gpt-3.5-turbo,chat,a,-0.0006520323,,a,-0.008167835,-4.9203515
+63,Politics & Governance,27,738,gpt-3.5-turbo,chat,a,-0.55579466,-0.8664312,b,-4.3320365,-0.0136505915
+57,Philosophy & Religion,161,739,gpt-3.5-turbo,chat,a,-0.11206753,,b,,-0.0022937097
+39,Healthcare & Medicine,71,740,gpt-3.5-turbo,chat,b,-1.3716987,-0.29375684,b,-0.87549627,-0.5413765
+42,History & Archaeology,57,741,gpt-3.5-turbo,chat,a,-0.66112435,-0.7394973,b,,-0.0015694993
+54,Law & Legal Issues,127,742,gpt-3.5-turbo,chat,a,-0.00065631996,,a,-0.26228657,-1.4734377
+8,Business & Finance,56,743,gpt-3.5-turbo,chat,b,-4.9507422,-0.011867007,b,,-0.0056326087
+69,Psychology & Sociology,26,744,gpt-3.5-turbo,chat,a,-0.0020732908,-6.584072,b,,-0.0012780919
+33,Food & Culinary,59,745,gpt-3.5-turbo,chat,b,,-0.00039087355,b,-4.730952,-0.009874607
+35,Food & Culinary,74,746,gpt-3.5-turbo,chat,b,-1.4279435,-0.2835724,a,-0.6029601,-0.8931136
+20,Education & Learning,59,747,gpt-3.5-turbo,chat,a,-0.009515588,,a,-0.009431392,
+2,Art & Design,120,748,gpt-3.5-turbo,chat,a,-0.0036475912,,a,-0.0013246456,-7.1067286
+88,Sports & Fitness,166,749,gpt-3.5-turbo,chat,a,-0.17469852,-1.8367888,a,-0.27165163,-1.4383386
+50,Hobbies & Leisure,107,750,gpt-3.5-turbo,chat,a,-0.00020938137,,a,-0.15430151,-1.9496258
+59,Philosophy & Religion,145,751,gpt-3.5-turbo,chat,a,-0.0024134691,-6.6828713,b,,-0.009615955
+68,Psychology & Sociology,144,752,gpt-3.5-turbo,chat,a,-0.006994439,-5.121374,b,-2.0444643,-0.13943516
+52,Law & Legal Issues,20,753,gpt-3.5-turbo,chat,a,-0.0013073831,,a,-0.05776554,-2.9376674
+11,Careers & Employment,39,754,gpt-3.5-turbo,chat,a,-0.0064513893,,a,-0.004813869,-5.7007766
+85,Sports & Fitness,159,755,gpt-3.5-turbo,chat,b,-5.5009875,-0.004340749,b,,-0.0006892018
+88,Sports & Fitness,41,756,gpt-3.5-turbo,chat,b,-7.976548,-0.00059628166,b,,-0.00014323067
+85,Sports & Fitness,151,757,gpt-3.5-turbo,chat,b,-6.280276,-0.0034354194,b,,-0.0010780644
+40,Healthcare & Medicine,40,758,gpt-3.5-turbo,chat,b,-2.2126052,-0.12083504,b,,-0.012201035
+17,Education & Learning,57,759,gpt-3.5-turbo,chat,a,-0.01020719,-4.6782255,a,-0.0041158004,
+61,Philosophy & Religion,146,760,gpt-3.5-turbo,chat,a,-0.0091654165,-5.1457353,a,-0.12464565,-2.2143426
+32,Food & Culinary,65,761,gpt-3.5-turbo,chat,a,-0.02089546,-3.9109578,b,,-0.0015856742
+43,History & Archaeology,22,762,gpt-3.5-turbo,chat,b,-2.2485812,-0.112568185,b,-2.6396003,-0.07516612
+23,Entertainment,97,763,gpt-3.5-turbo,chat,b,-7.013372,-0.0015786595,b,-5.592546,-0.004796665
+78,Science & Technology,88,764,gpt-3.5-turbo,chat,b,,-0.0016022215,b,,-0.0016817249
+64,Politics & Governance,32,765,gpt-3.5-turbo,chat,a,-0.04014742,-3.329927,a,-0.01979009,-4.4298873
+81,Social Issues & Ethics,95,766,gpt-3.5-turbo,chat,a,-0.0033058012,,b,,-0.001628406
+20,Education & Learning,68,767,gpt-3.5-turbo,chat,a,-0.0023430653,,a,-0.018277187,-4.215926
+73,Science & Technology,92,768,gpt-3.5-turbo,chat,a,-0.020055592,-4.1739254,a,-0.0029523817,
+59,Philosophy & Religion,142,769,gpt-3.5-turbo,chat,b,-4.670936,-0.01427986,b,,-0.0035587312
+90,Travel & Tourism,121,770,gpt-3.5-turbo,chat,a,-0.0010310231,,b,-4.3585286,-0.01293432
+39,Healthcare & Medicine,68,771,gpt-3.5-turbo,chat,a,-0.00029565915,,a,-0.35939017,-1.1983794
+78,Science & Technology,109,772,gpt-3.5-turbo,chat,b,,-0.00069933047,b,,-0.0007007609
+13,Careers & Employment,46,773,gpt-3.5-turbo,chat,a,-0.010744301,,a,-0.0085988585,
+53,Law & Legal Issues,11,774,gpt-3.5-turbo,chat,a,-0.00021224226,,b,,-0.0013838055
+64,Politics & Governance,136,775,gpt-3.5-turbo,chat,a,-0.0064914273,-5.2338743,b,,-0.0077847736
+65,Politics & Governance,99,776,gpt-3.5-turbo,chat,a,-0.005602496,,a,-0.03414375,-3.6429846
+34,Food & Culinary,54,777,gpt-3.5-turbo,chat,a,-0.0048807734,,b,-3.5192597,-0.032960217
+62,Politics & Governance,14,778,gpt-3.5-turbo,chat,a,-0.4648002,-1.0179523,a,-0.23813099,-1.5613523
+56,Law & Legal Issues,96,779,gpt-3.5-turbo,chat,a,-0.0063617206,,b,-3.5196526,-0.034615643
+85,Sports & Fitness,119,780,gpt-3.5-turbo,chat,b,-1.9729561,-0.15039289,b,-5.3975544,-0.005252968
+68,Psychology & Sociology,67,781,gpt-3.5-turbo,chat,b,-5.633657,-0.0038713315,b,-7.5755267,-0.0008313055
+66,Politics & Governance,65,782,gpt-3.5-turbo,chat,a,-0.0018912687,,a,-0.020034442,-3.96751
+86,Sports & Fitness,91,783,gpt-3.5-turbo,chat,a,-0.003553624,-6.0590324,a,-0.041733157,-3.207213
+62,Politics & Governance,110,784,gpt-3.5-turbo,chat,a,-0.0013616629,,a,-0.0058999993,-5.4863915
+58,Philosophy & Religion,7,785,gpt-3.5-turbo,chat,a,-0.050914377,-3.019464,b,,-0.0006772888
+64,Politics & Governance,82,786,gpt-3.5-turbo,chat,b,,-0.006140784,a,-0.4451053,-1.0700805
+87,Sports & Fitness,13,787,gpt-3.5-turbo,chat,a,-0.030089583,-3.5329373,a,-0.111083165,-2.2805455
+30,Fashion & Beauty,108,788,gpt-3.5-turbo,chat,a,-0.00034380643,,a,-0.0091870325,-4.9259276
+41,History & Archaeology,127,789,gpt-3.5-turbo,chat,a,-0.0017374206,,b,,-0.0015059324
+39,Healthcare & Medicine,89,790,gpt-3.5-turbo,chat,a,-0.010400929,-4.7093735,a,-0.66481346,-0.72339576
+50,Hobbies & Leisure,37,791,gpt-3.5-turbo,chat,a,-0.0033128194,,b,-4.036021,-0.018843666
+15,Careers & Employment,10,792,gpt-3.5-turbo,chat,a,-0.0005374244,,b,,-0.0007008801
+61,Philosophy & Religion,19,793,gpt-3.5-turbo,chat,a,-0.0038454367,-6.142103,b,-2.0919404,-0.1402134
+56,Law & Legal Issues,64,794,gpt-3.5-turbo,chat,a,-0.0009099139,,b,-1.7472608,-0.19249894
+49,Hobbies & Leisure,104,795,gpt-3.5-turbo,chat,a,-0.0074956473,-5.144829,b,-4.9266872,-0.0077801836
+30,Fashion & Beauty,11,796,gpt-3.5-turbo,chat,b,-1.3306779,-0.31029972,b,-3.3499,-0.03590856
+40,Healthcare & Medicine,63,797,gpt-3.5-turbo,chat,a,-0.004503231,-5.7897015,b,,-0.0008296403
+38,Healthcare & Medicine,55,798,gpt-3.5-turbo,chat,a,-0.6916504,-0.6955223,b,-4.9009705,-0.007747648
+51,Hobbies & Leisure,82,799,gpt-3.5-turbo,chat,a,-0.45206207,-1.0131545,a,-0.076998115,-2.627705
+5,Art & Design,13,800,gpt-3.5-turbo,chat,a,-0.000947784,,a,-0.0047151605,-5.3869324
+13,Careers & Employment,29,801,gpt-3.5-turbo,chat,a,-0.0021986675,,a,-0.007661394,
+89,Travel & Tourism,36,802,gpt-3.5-turbo,chat,a,-0.04191288,-3.300059,b,-1.6712632,-0.21289879
+80,Social Issues & Ethics,102,803,gpt-3.5-turbo,chat,a,-0.01034052,,a,-0.06339166,-2.8452654
+44,History & Archaeology,27,804,gpt-3.5-turbo,chat,a,-0.0012366568,,b,,-0.001737659
+81,Social Issues & Ethics,2,805,gpt-3.5-turbo,chat,a,-0.00084405293,,b,-3.0555422,-0.050056603
+66,Politics & Governance,1,806,gpt-3.5-turbo,chat,a,-0.0073074955,,b,,-0.005037714
+87,Sports & Fitness,37,807,gpt-3.5-turbo,chat,b,,-0.007614202,a,-0.038698737,-3.4102464
+7,Business & Finance,100,808,gpt-3.5-turbo,chat,b,,-0.008893455,b,-5.6891174,-0.0065767
+37,Healthcare & Medicine,5,809,gpt-3.5-turbo,chat,a,-0.0027205874,-5.9344697,b,-5.376276,-0.00488267
+3,Art & Design,93,810,gpt-3.5-turbo,chat,a,-0.004647165,-5.7870626,b,-4.3392024,-0.019221693
+55,Law & Legal Issues,12,811,gpt-3.5-turbo,chat,a,-0.0019544447,,a,-0.00066180335,
+71,Psychology & Sociology,55,812,gpt-3.5-turbo,chat,a,-0.006857931,,b,-6.1265826,-0.0027595835
+50,Hobbies & Leisure,40,813,gpt-3.5-turbo,chat,a,-0.009394426,-4.771632,b,-4.8013973,-0.008747179
+25,Entertainment,23,814,gpt-3.5-turbo,chat,a,-0.0018923414,-6.836516,a,-0.003407755,-5.9876266
+93,Travel & Tourism,1,815,gpt-3.5-turbo,chat,a,-0.00050192,-7.843945,a,-0.024674974,-3.9124103
+41,History & Archaeology,90,816,gpt-3.5-turbo,chat,a,-0.0007069522,,b,-4.971814,-0.00745695
+74,Science & Technology,52,817,gpt-3.5-turbo,chat,a,-0.00075209374,-7.519999,a,-0.00015848507,
+3,Art & Design,48,818,gpt-3.5-turbo,chat,a,-0.0012115451,-7.1228185,b,-5.7527795,-0.003428174
+60,Philosophy & Religion,36,819,gpt-3.5-turbo,chat,a,-0.0009908917,,a,-0.008975103,-5.0282755
+78,Science & Technology,27,820,gpt-3.5-turbo,chat,b,,-0.0019041279,b,,-0.00027230257
+84,Sports & Fitness,41,821,gpt-3.5-turbo,chat,a,-0.0020614034,,b,,-0.011772875
+57,Philosophy & Religion,76,822,gpt-3.5-turbo,chat,a,-0.003698774,,b,,-0.08368892
+91,Travel & Tourism,32,823,gpt-3.5-turbo,chat,a,-0.012437716,-4.429697,b,-1.3976567,-0.28528526
+5,Art & Design,50,824,gpt-3.5-turbo,chat,a,-0.07241548,-2.6956055,b,-4.0963416,-0.018401597
+22,Entertainment,14,825,gpt-3.5-turbo,chat,a,-0.6102374,-0.78770286,b,,-0.0010584142
+86,Sports & Fitness,76,826,gpt-3.5-turbo,chat,b,,-0.008498982,b,-1.2406511,-0.34240052
+16,Education & Learning,75,827,gpt-3.5-turbo,chat,a,-0.0022391125,,a,-0.0021063634,
+26,Fashion & Beauty,40,828,gpt-3.5-turbo,chat,a,-0.008531357,,b,-5.152679,-0.008990937
+8,Business & Finance,57,829,gpt-3.5-turbo,chat,a,-0.030191487,,b,,-0.007029827
+74,Science & Technology,42,830,gpt-3.5-turbo,chat,a,-0.01762618,-4.115872,b,-1.0755551,-0.43947336
+89,Travel & Tourism,67,831,gpt-3.5-turbo,chat,b,-3.4406009,-0.033856843,a,-0.25389093,-1.507267
+9,Business & Finance,84,832,gpt-3.5-turbo,chat,a,-0.0007219645,,a,-0.0036429535,-5.7099686
+82,Social Issues & Ethics,18,833,gpt-3.5-turbo,chat,a,-0.0008386961,,a,-0.006765818,
+84,Sports & Fitness,44,834,gpt-3.5-turbo,chat,a,-0.1297671,-2.1712005,b,-4.9746294,-0.009491968
+75,Science & Technology,43,835,gpt-3.5-turbo,chat,b,-4.6429763,-0.010154449,b,-1.6837448,-0.2057174
+90,Travel & Tourism,29,836,gpt-3.5-turbo,chat,b,-3.6817453,-0.02750949,b,,-0.0009470688
+11,Careers & Employment,7,837,gpt-3.5-turbo,chat,a,-0.00431238,,a,-0.07987001,-2.5975568
+26,Fashion & Beauty,18,838,gpt-3.5-turbo,chat,a,-0.0069221035,-5.4346986,b,,-0.0032436666
+76,Science & Technology,12,839,gpt-3.5-turbo,chat,a,-0.003947913,-5.777303,a,-0.00094195403,
+34,Food & Culinary,32,840,gpt-3.5-turbo,chat,a,-0.000318185,,a,-0.0009168167,
+84,Sports & Fitness,67,841,gpt-3.5-turbo,chat,a,-0.003923807,,a,-0.0028293654,
+65,Politics & Governance,14,842,gpt-3.5-turbo,chat,b,,-0.016515339,b,,-0.016011257
+2,Art & Design,65,843,gpt-3.5-turbo,chat,a,-0.59501755,-0.80754197,a,-0.0022778886,-6.46695
+42,History & Archaeology,47,844,gpt-3.5-turbo,chat,b,,-0.009832827,b,,-0.02030034
+63,Politics & Governance,8,845,gpt-3.5-turbo,chat,a,-0.0092022745,,a,-0.25716186,-1.5179994
+35,Food & Culinary,36,846,gpt-3.5-turbo,chat,a,-0.28924412,-1.3865094,b,-2.314503,-0.10675638
+15,Careers & Employment,62,847,gpt-3.5-turbo,chat,b,-0.94959676,-0.4919075,b,-3.9981363,-0.019176198
+26,Fashion & Beauty,60,848,gpt-3.5-turbo,chat,a,-0.040125318,,b,,-0.0034433806
+28,Fashion & Beauty,20,849,gpt-3.5-turbo,chat,b,-4.208932,-0.019884983,b,-0.7714594,-0.63865453
+3,Art & Design,20,850,gpt-3.5-turbo,chat,a,-0.030104274,-3.6809964,a,-0.50023043,-0.93430865
+18,Education & Learning,32,851,gpt-3.5-turbo,chat,b,-3.9447308,-0.020488633,b,,-0.004336241
+12,Careers & Employment,45,852,gpt-3.5-turbo,chat,a,-0.001447618,,a,-0.009151002,-4.7491565
+30,Fashion & Beauty,3,853,gpt-3.5-turbo,chat,b,-1.1517725,-0.38184074,b,-3.591571,-0.028338598
+12,Careers & Employment,14,854,gpt-3.5-turbo,chat,a,-0.0028756072,,b,-5.0664573,-0.009116864
+5,Art & Design,13,855,gpt-3.5-turbo,chat,a,-0.00076912885,,a,-0.11408067,-2.2327425
+36,Healthcare & Medicine,33,856,gpt-3.5-turbo,chat,b,-1.9296426,-0.15735523,b,,-0.0011214033
+39,Healthcare & Medicine,18,857,gpt-3.5-turbo,chat,a,-0.00024727348,,b,-6.651846,-0.001634478
+63,Politics & Governance,48,858,gpt-3.5-turbo,chat,a,-0.07016506,,a,-0.0031771178,
+81,Social Issues & Ethics,22,859,gpt-3.5-turbo,chat,a,-0.3733289,-1.1777494,b,-6.4884844,-0.0020571195
+71,Psychology & Sociology,15,860,gpt-3.5-turbo,chat,a,-0.0006170084,-8.027438,b,-7.0869737,-0.0011542705
+91,Travel & Tourism,13,861,gpt-3.5-turbo,chat,a,-0.0064551816,-5.251143,b,-6.691372,-0.0020315384
+27,Fashion & Beauty,29,862,gpt-3.5-turbo,chat,b,-2.9075236,-0.081805624,b,-1.9407321,-0.1576415
+53,Law & Legal Issues,34,863,gpt-3.5-turbo,chat,a,-0.02668283,-4.221759,b,,-0.025596615
+9,Business & Finance,14,864,gpt-3.5-turbo,chat,a,-0.116703264,-2.25013,b,-6.9855785,-0.0013123787
+29,Fashion & Beauty,7,865,gpt-3.5-turbo,chat,a,-0.063341655,-2.8656182,b,,-0.0007653143
+67,Psychology & Sociology,31,866,gpt-3.5-turbo,chat,a,-0.00087215565,,b,-4.817639,-0.008793489
+18,Education & Learning,4,867,gpt-3.5-turbo,chat,a,-0.0124545535,-4.4412475,b,,-0.00062141527
+43,History & Archaeology,21,868,gpt-3.5-turbo,chat,a,-0.0017073207,,b,-3.7539995,-0.027732722
+5,Art & Design,26,869,gpt-3.5-turbo,chat,a,-0.0019430378,,b,,-0.001359521
+25,Entertainment,24,870,gpt-3.5-turbo,chat,a,-0.52673733,-0.8961965,b,-4.228041,-0.01581439
+44,History & Archaeology,31,871,gpt-3.5-turbo,chat,a,-0.002712034,-6.3771,a,-0.02024918,-3.9160507
+13,Careers & Employment,11,872,gpt-3.5-turbo,chat,b,-1.6306115,-0.22492419,b,,-0.0038499553
+14,Careers & Employment,26,873,gpt-3.5-turbo,chat,a,-0.01877639,-4.410403,b,-4.2188773,-0.01662954
+38,Healthcare & Medicine,22,874,gpt-3.5-turbo,chat,b,-3.229805,-0.05439005,b,-2.2421281,-0.13366099
+52,Law & Legal Issues,14,875,gpt-3.5-turbo,chat,a,-0.0025179924,,a,-0.0049979747,
+7,Business & Finance,2,876,gpt-3.5-turbo,chat,b,-4.04837,-0.019626215,b,-7.0099163,-0.0016862474
+58,Philosophy & Religion,1,877,gpt-3.5-turbo,chat,a,-0.015673812,-4.2433558,b,,-0.009363364
+41,History & Archaeology,2,878,gpt-3.5-turbo,chat,a,-0.011507999,-4.597039,b,-2.003788,-0.14499274
+33,Food & Culinary,14,879,gpt-3.5-turbo,chat,b,-1.009631,-0.46504867,a,-0.3262409,-1.3150715
+10,Business & Finance,2,880,gpt-3.5-turbo,chat,a,-0.019458812,-4.258053,a,-0.11469841,-2.2502518
+78,Science & Technology,27,881,gpt-3.5-turbo,chat,b,-5.0811343,-0.0071195457,b,,-0.00047261795
+11,Careers & Employment,17,882,gpt-3.5-turbo,chat,a,-0.0028735844,-6.4955854,b,-3.1323307,-0.04645038
+32,Food & Culinary,28,883,gpt-3.5-turbo,chat,b,-3.87406,-0.022310587,b,-6.5773716,-0.0021741702
+81,Social Issues & Ethics,23,884,gpt-3.5-turbo,chat,a,-0.0075174156,-5.326281,a,-0.012131802,-4.6408396
+73,Science & Technology,8,885,gpt-3.5-turbo,chat,a,-0.0018157173,,a,-0.0016380504,-6.761438
+86,Sports & Fitness,8,886,gpt-3.5-turbo,chat,a,-0.0068188547,-5.111479,b,-4.2379036,-0.0151273785
+84,Sports & Fitness,19,887,gpt-3.5-turbo,chat,a,-0.0018013193,,b,-5.2336507,-0.005901657
+51,Hobbies & Leisure,12,888,gpt-3.5-turbo,chat,a,-0.006867633,-5.335927,b,-1.687646,-0.20662221
+34,Food & Culinary,14,889,gpt-3.5-turbo,chat,a,-0.25412533,-1.4986665,a,-0.36035973,-1.2130799
+9,Business & Finance,20,890,gpt-3.5-turbo,chat,b,-2.7309654,-0.06948737,b,-6.7309985,-0.001878424
+17,Education & Learning,1,891,gpt-3.5-turbo,chat,a,-0.00040087933,,b,-1.7853053,-0.18565774
+37,Healthcare & Medicine,21,892,gpt-3.5-turbo,chat,b,-3.865749,-0.021439925,a,-0.004319503,-5.808233
+48,Hobbies & Leisure,13,893,gpt-3.5-turbo,chat,b,-1.3953679,-0.28697512,b,-3.8453658,-0.026794713
+92,Travel & Tourism,21,894,gpt-3.5-turbo,chat,b,-2.473603,-0.08887741,b,-6.108968,-0.0035580199
+65,Politics & Governance,1,895,gpt-3.5-turbo,chat,a,-0.0005290838,,b,-2.4222457,-0.09346459
+21,Entertainment,17,896,gpt-3.5-turbo,chat,a,-0.14843488,-2.1245015,b,-1.4346781,-0.27372652
+38,Healthcare & Medicine,2,897,gpt-3.5-turbo,chat,a,-0.082960315,-2.641659,b,-1.6262918,-0.2194562
+91,Travel & Tourism,14,898,gpt-3.5-turbo,chat,a,-0.0020279696,,b,-2.7569516,-0.072144784
+67,Psychology & Sociology,4,899,gpt-3.5-turbo,chat,a,-0.0011484332,-7.350422,b,-6.2682796,-0.0028338877
+49,Hobbies & Leisure,12,900,gpt-3.5-turbo,chat,a,-0.0041883294,,b,-4.4314632,-0.0150087755
+13,Careers & Employment,6,901,gpt-3.5-turbo,chat,a,-0.00127595,,b,,-0.0003737119
+6,Business & Finance,13,902,gpt-3.5-turbo,chat,a,-0.0039439946,-5.8320727,a,-0.042496055,-3.19685
+90,Travel & Tourism,8,903,gpt-3.5-turbo,chat,b,-8.238449,-0.0004922682,b,-6.420324,-0.0018036998
+81,Social Issues & Ethics,7,904,gpt-3.5-turbo,chat,a,-0.014325567,-4.3391986,b,,-0.0018905534
+86,Sports & Fitness,9,905,gpt-3.5-turbo,chat,a,-0.018073265,-4.1086206,b,-3.1354291,-0.044839717
+76,Science & Technology,3,906,gpt-3.5-turbo,chat,b,-4.580086,-0.011188817,b,-3.537743,-0.033787236
+5,Art & Design,9,907,gpt-3.5-turbo,chat,a,-0.011324731,-4.570983,b,,-0.0007276826
+88,Sports & Fitness,6,908,gpt-3.5-turbo,chat,b,-6.0428324,-0.003102373,b,,-0.00068836747
+76,Science & Technology,4,909,gpt-3.5-turbo,chat,b,-3.8133938,-0.025012324,b,-5.051755,-0.0077734366
+81,Social Issues & Ethics,2,910,gpt-3.5-turbo,chat,a,-0.0037164618,,b,-3.8111594,-0.023283217
+87,Sports & Fitness,4,911,gpt-3.5-turbo,chat,b,,-0.001431309,b,,-0.0006382157
+64,Politics & Governance,1,912,gpt-3.5-turbo,chat,a,-0.0016021024,,a,-0.014354946,
+62,Politics & Governance,1,913,gpt-3.5-turbo,chat,a,-0.0017835946,,a,-0.0046612844,
+28,Fashion & Beauty,2,914,gpt-3.5-turbo,chat,b,-6.1220007,-0.0026519904,b,-4.71789,-0.009073273
+4,Art & Design,1,915,gpt-3.5-turbo,chat,a,-0.4910484,-0.9971214,a,-0.5003812,-0.94955987

@@ -1,0 +1,14 @@
+tqdm
+openai
+anthropic
+together
+llamaapi
+requests
+scipy
+seaborn
+matplotlib
+pandas
+ipykernel
+tiktoken
+mistralai
+together

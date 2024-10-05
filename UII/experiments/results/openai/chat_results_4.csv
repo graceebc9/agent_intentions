@@ -1,0 +1,916 @@
+batch,topic,index,sample,model,api,response_1,logprobs_1a,logprobs_1b,response_2,logprobs_2a,logprobs_2b
+20,Education & Learning,799,1,gpt-4,chat,a,-4.0246043e-05,,a,-0.0001277342,
+62,Politics & Governance,755,2,gpt-4,chat,a,-0.00013285996,,a,-0.00031663533,
+3,Art & Design,52,3,gpt-4,chat,a,-3.22594e-05,,b,,-0.00046391605
+93,Travel & Tourism,727,4,gpt-4,chat,b,-4.6091905,-0.016413325,b,,-0.00014203864
+93,Travel & Tourism,283,5,gpt-4,chat,a,-0.0013430892,,a,-0.00085191673,
+12,Careers & Employment,736,6,gpt-4,chat,a,-0.002803918,,a,-7.302705e-05,
+83,Social Issues & Ethics,538,7,gpt-4,chat,a,-0.112966694,,a,-0.047260165,
+9,Business & Finance,306,8,gpt-4,chat,a,-0.00019650738,,a,-0.00037311585,-8.413991
+76,Science & Technology,694,9,gpt-4,chat,a,-0.0003582264,,a,-0.00016778296,
+72,Psychology & Sociology,726,10,gpt-4,chat,a,-0.01741897,,b,-4.997751,-0.010587785
+16,Education & Learning,767,11,gpt-4,chat,a,-0.000665495,-7.9069157,a,-0.0007071906,
+12,Careers & Employment,398,12,gpt-4,chat,a,-0.0003463097,,a,-9.72254e-05,
+11,Careers & Employment,65,13,gpt-4,chat,a,-0.0011103284,,a,-0.00015205175,-9.279933
+31,Food & Culinary,557,14,gpt-4,chat,a,-0.0002074741,,a,-0.0017747845,
+34,Food & Culinary,519,15,gpt-4,chat,a,-0.0045453506,,a,-0.82727885,-1.0450847
+90,Travel & Tourism,644,16,gpt-4,chat,a,-0.00012892624,,a,-0.00025073037,
+90,Travel & Tourism,77,17,gpt-4,chat,b,,-0.0013274992,b,-6.9115515,-0.0018683063
+43,History & Archaeology,72,18,gpt-4,chat,b,,-0.08282876,b,-0.86547,-0.5720778
+1,Art & Design,349,19,gpt-4,chat,a,-0.0024884997,,b,,-0.0029698573
+17,Education & Learning,457,20,gpt-4,chat,a,-0.00075983827,,a,-0.00031091354,
+45,History & Archaeology,259,21,gpt-4,chat,a,-0.019415785,-4.1469946,b,,-0.013240815
+92,Travel & Tourism,278,22,gpt-4,chat,b,,-0.0013801139,b,,-0.0010119688
+17,Education & Learning,39,23,gpt-4,chat,a,-0.00027527902,,a,-0.00010854974,
+63,Politics & Governance,557,24,gpt-4,chat,a,-0.9654124,-1.0999796,a,-0.021591956,-3.9812038
+31,Food & Culinary,873,25,gpt-4,chat,a,-0.0063849417,,a,-0.23109879,
+47,Hobbies & Leisure,608,26,gpt-4,chat,b,,-0.11951516,b,,-0.033954684
+19,Education & Learning,843,27,gpt-4,chat,a,-0.00017612721,,b,,-0.0012721391
+8,Business & Finance,746,28,gpt-4,chat,b,,-0.006150854,b,,-0.0008450066
+39,Healthcare & Medicine,527,29,gpt-4,chat,a,-0.002445931,-6.593003,b,,-0.007557048
+4,Art & Design,127,30,gpt-4,chat,a,-0.0028433912,,b,,-0.09932219
+30,Fashion & Beauty,53,31,gpt-4,chat,a,-1.0852785,,a,-0.057565697,
+13,Careers & Employment,865,32,gpt-4,chat,a,-0.0003799105,,a,-0.00029780483,
+66,Politics & Governance,2,33,gpt-4,chat,a,-0.0012574954,,a,-0.35073173,-1.3843354
+16,Education & Learning,548,34,gpt-4,chat,a,-3.333223e-05,,a,-7.4695905e-05,
+78,Science & Technology,740,35,gpt-4,chat,b,,-0.01988101,a,-0.0046681687,
+85,Sports & Fitness,673,36,gpt-4,chat,a,-0.005484541,,b,,-0.0032985553
+39,Healthcare & Medicine,260,37,gpt-4,chat,a,-0.005988282,,a,-0.4648355,-1.0066351
+84,Sports & Fitness,680,38,gpt-4,chat,a,-0.001756695,,a,-0.0015921076,
+64,Politics & Governance,329,39,gpt-4,chat,b,-4.375797,-0.02389472,b,-4.714,-0.013463599
+32,Food & Culinary,526,40,gpt-4,chat,a,-0.022887496,,b,,-0.010413089
+19,Education & Learning,439,41,gpt-4,chat,a,-0.00010676169,,a,-5.705376e-05,
+25,Entertainment,430,42,gpt-4,chat,a,-0.0005429041,,a,-0.022753153,-4.4062524
+76,Science & Technology,419,43,gpt-4,chat,a,-0.00011749002,,a,-0.00014025059,
+79,Social Issues & Ethics,41,44,gpt-4,chat,a,-0.0023944406,,a,-0.0011891605,
+81,Social Issues & Ethics,190,45,gpt-4,chat,a,-0.0023113114,,b,,-0.8982451
+90,Travel & Tourism,710,46,gpt-4,chat,a,-0.00019531534,,a,-0.005781019,
+56,Law & Legal Issues,579,47,gpt-4,chat,a,-0.00028100077,,a,-7.016616e-05,
+12,Careers & Employment,539,48,gpt-4,chat,a,-0.0015242677,,a,-8.053688e-05,
+43,History & Archaeology,92,49,gpt-4,chat,a,-0.0017174238,,a,-0.0024420046,
+3,Art & Design,372,50,gpt-4,chat,a,-0.00053659,,b,,-0.0009027653
+54,Law & Legal Issues,83,51,gpt-4,chat,a,-0.00010998019,,a,-9.388769e-05,
+39,Healthcare & Medicine,788,52,gpt-4,chat,a,-0.05690071,,b,,-0.012569458
+25,Entertainment,175,53,gpt-4,chat,a,-0.0004158953,,a,-0.0035898564,
+57,Philosophy & Religion,401,54,gpt-4,chat,a,-0.22119877,,a,-0.053481914,
+62,Politics & Governance,408,55,gpt-4,chat,a,-0.00019638817,,a,-0.0001688558,
+68,Psychology & Sociology,80,56,gpt-4,chat,a,-0.00018304103,,a,-0.07540693,
+47,Hobbies & Leisure,258,57,gpt-4,chat,a,-0.063992426,-3.1393576,a,-0.0010871129,
+55,Law & Legal Issues,515,58,gpt-4,chat,a,-0.0004286428,,a,-0.00029863926,
+14,Careers & Employment,499,59,gpt-4,chat,a,-0.0001558626,,a,-0.00036216015,
+50,Hobbies & Leisure,276,60,gpt-4,chat,a,-0.02510195,,b,,-0.07118317
+51,Hobbies & Leisure,823,61,gpt-4,chat,a,-0.18331325,,a,-0.003212415,
+91,Travel & Tourism,36,62,gpt-4,chat,a,-0.0029066314,,b,,-0.0034157052
+22,Entertainment,664,63,gpt-4,chat,b,,-0.007929196,b,,-0.0009675608
+90,Travel & Tourism,224,64,gpt-4,chat,a,-8.780831e-05,,a,-0.002118735,
+52,Law & Legal Issues,797,65,gpt-4,chat,a,-0.00010521204,,a,-0.00011081461,
+10,Business & Finance,840,66,gpt-4,chat,a,-0.0002515648,,a,-0.0030062273,
+89,Travel & Tourism,238,67,gpt-4,chat,a,-0.008724483,,b,,-0.076204106
+71,Psychology & Sociology,577,68,gpt-4,chat,a,-0.007023319,,a,-0.0028095099,
+63,Politics & Governance,786,69,gpt-4,chat,a,-0.02321065,-3.8818095,a,-0.010551575,
+44,History & Archaeology,296,70,gpt-4,chat,a,-0.00015109812,,b,,-0.0005059693
+37,Healthcare & Medicine,602,71,gpt-4,chat,a,-0.0012121411,,a,-0.05419629,
+11,Careers & Employment,591,72,gpt-4,chat,a,-0.00015217095,,a,-0.000107715314,
+57,Philosophy & Religion,424,73,gpt-4,chat,a,-0.0013938076,,a,-0.00049619825,
+49,Hobbies & Leisure,751,74,gpt-4,chat,a,-0.0037324992,,a,-0.0010450744,
+86,Sports & Fitness,159,75,gpt-4,chat,b,-5.75936,-0.0040995353,b,,-0.00086644123
+21,Entertainment,674,76,gpt-4,chat,a,-0.004654761,,b,,-0.24844275
+83,Social Issues & Ethics,92,77,gpt-4,chat,b,,-0.0029721148,b,,-0.00022499338
+28,Fashion & Beauty,759,78,gpt-4,chat,b,-0.8908416,-0.5736724,b,,-0.03257559
+64,Politics & Governance,784,79,gpt-4,chat,a,-0.00058210373,,a,-0.00024311233,
+22,Entertainment,428,80,gpt-4,chat,a,-0.0004251932,,a,-0.0033585625,
+84,Sports & Fitness,738,81,gpt-4,chat,a,-0.0086450605,,a,-0.0028805956,
+33,Food & Culinary,777,82,gpt-4,chat,a,-0.005653587,,b,,-0.001405948
+53,Law & Legal Issues,766,83,gpt-4,chat,a,-6.194111e-05,,a,-0.00026848805,
+26,Fashion & Beauty,102,84,gpt-4,chat,a,-0.12663428,-2.1356466,b,,-0.0016849361
+60,Philosophy & Religion,106,85,gpt-4,chat,a,-0.0021094554,,b,-3.060389,-0.050436396
+74,Science & Technology,295,86,gpt-4,chat,a,-0.0008344047,,a,-0.0009047918,
+54,Law & Legal Issues,531,87,gpt-4,chat,a,-7.696077e-05,,a,-6.0153056e-05,
+46,History & Archaeology,124,88,gpt-4,chat,a,-0.0022370897,,a,-0.11104699,-2.3493989
+91,Travel & Tourism,351,89,gpt-4,chat,a,-0.004589503,,b,,-0.061022706
+74,Science & Technology,230,90,gpt-4,chat,a,-0.00049393706,,a,-0.0032616076,
+37,Healthcare & Medicine,726,91,gpt-4,chat,a,-0.0042081596,,b,,-0.0025476008
+87,Sports & Fitness,620,92,gpt-4,chat,a,-7.8033605e-05,,b,-0.83676547,-0.6152422
+65,Politics & Governance,631,93,gpt-4,chat,a,-0.00021509947,,a,-0.0015464067,
+68,Psychology & Sociology,187,94,gpt-4,chat,a,-0.0027713554,,a,-0.009478387,
+65,Politics & Governance,183,95,gpt-4,chat,a,-0.00030984072,,a,-0.036027357,
+26,Fashion & Beauty,661,96,gpt-4,chat,a,-0.03129687,-3.5331166,b,,-0.00784723
+18,Education & Learning,27,97,gpt-4,chat,a,-0.0021801195,,b,,-0.0017588368
+2,Art & Design,613,98,gpt-4,chat,a,-0.00018995117,-8.67488,a,-8.184812e-05,-9.511438
+50,Hobbies & Leisure,158,99,gpt-4,chat,a,-8.7212284e-05,,a,-0.0018122714,
+3,Art & Design,380,100,gpt-4,chat,a,-0.00019293126,,b,-6.6577163,-0.001466177
+16,Education & Learning,179,101,gpt-4,chat,a,-0.00010616567,,a,-4.6802244e-05,
+71,Psychology & Sociology,580,102,gpt-4,chat,a,-0.0008202305,,a,-0.0018382027,
+47,Hobbies & Leisure,647,103,gpt-4,chat,b,,-0.005894311,b,,-0.012725543
+91,Travel & Tourism,561,104,gpt-4,chat,b,,-0.0013801139,b,,-0.0015973415
+91,Travel & Tourism,737,105,gpt-4,chat,a,-0.0007880675,,a,-0.0924186,-2.5258846
+9,Business & Finance,271,106,gpt-4,chat,a,-0.023470944,-3.792388,a,-0.13037083,-2.1195753
+22,Entertainment,349,107,gpt-4,chat,b,,-0.0055729793,b,,-0.0010850901
+13,Careers & Employment,396,108,gpt-4,chat,a,-7.314626e-05,,a,-0.00012201976,
+9,Business & Finance,182,109,gpt-4,chat,b,,-0.007830904,b,,-0.005603323
+65,Politics & Governance,685,110,gpt-4,chat,a,-0.00026968008,,a,-0.0004518838,
+32,Food & Culinary,166,111,gpt-4,chat,b,-3.4106224,-0.055033486,b,,-0.003871212
+71,Psychology & Sociology,265,112,gpt-4,chat,a,-1.7432603e-06,-13.312502,a,-0.0013752339,
+57,Philosophy & Religion,104,113,gpt-4,chat,a,-0.0030521005,,b,,-0.0004546255
+33,Food & Culinary,97,114,gpt-4,chat,a,-0.00039194638,,b,,-0.0077797063
+53,Law & Legal Issues,44,115,gpt-4,chat,a,-0.00012047011,,a,-0.00044914213,
+65,Politics & Governance,668,116,gpt-4,chat,a,-0.00023381444,,a,-0.008301793,
+27,Fashion & Beauty,25,117,gpt-4,chat,a,-0.010340046,,a,-0.009817835,
+68,Psychology & Sociology,583,118,gpt-4,chat,a,-0.0066622007,,a,-0.034935717,
+6,Business & Finance,405,119,gpt-4,chat,b,,-0.01071375,b,,-0.0024137038
+62,Politics & Governance,48,120,gpt-4,chat,a,-0.0002162915,,a,-0.00010342398,
+28,Fashion & Beauty,149,121,gpt-4,chat,a,-0.48873693,,b,,-0.2718196
+37,Healthcare & Medicine,386,122,gpt-4,chat,a,-0.0008790658,,a,-0.0044332054,
+88,Sports & Fitness,232,123,gpt-4,chat,b,,-0.006275844,b,,-0.005120023
+87,Sports & Fitness,225,124,gpt-4,chat,a,-0.022482058,,a,-0.14715073,
+81,Social Issues & Ethics,523,125,gpt-4,chat,a,-0.14479226,,b,,-0.30791467
+38,Healthcare & Medicine,528,126,gpt-4,chat,b,,-0.0065027974,b,-11.375011,-1.1517961e-05
+6,Business & Finance,412,127,gpt-4,chat,a,-0.0004074355,,a,-0.001701841,
+4,Art & Design,334,128,gpt-4,chat,a,-0.012999623,,a,-0.016311068,
+83,Social Issues & Ethics,170,129,gpt-4,chat,a,-0.24420853,-2.0384743,a,-0.0057952395,
+60,Philosophy & Religion,336,130,gpt-4,chat,a,-0.0006791924,,a,-0.0007592422,
+44,History & Archaeology,447,131,gpt-4,chat,a,-0.00057376316,,a,-0.0003277176,
+7,Business & Finance,455,132,gpt-4,chat,a,-0.00023309923,,a,-0.0005725711,
+4,Art & Design,190,133,gpt-4,chat,a,-0.0019408922,,a,-0.0074899695,
+45,History & Archaeology,366,134,gpt-4,chat,a,-0.007244653,-5.042134,b,,-0.0035814187
+7,Business & Finance,183,135,gpt-4,chat,a,-0.0268069,,a,-0.00056852185,
+87,Sports & Fitness,139,136,gpt-4,chat,a,-0.00028898742,,a,-4.8471098e-05,
+76,Science & Technology,157,137,gpt-4,chat,a,-0.0013745186,,a,-0.0003029306,
+6,Business & Finance,744,138,gpt-4,chat,a,-0.0088577755,,a,-0.05848213,-3.0584822
+14,Careers & Employment,506,139,gpt-4,chat,a,-0.00019007038,,a,-7.6364755e-05,
+70,Psychology & Sociology,592,140,gpt-4,chat,a,-0.16859147,-2.3841333,b,,-0.02228832
+3,Art & Design,667,141,gpt-4,chat,a,-0.00019007038,,a,-0.0032219219,
+13,Careers & Employment,720,142,gpt-4,chat,a,-3.5358695e-05,,a,-8.061054e-06,
+21,Entertainment,675,143,gpt-4,chat,a,-0.00037907605,,a,-0.025628805,
+44,History & Archaeology,697,144,gpt-4,chat,a,-0.0020166673,,a,-0.0050775683,
+52,Law & Legal Issues,539,145,gpt-4,chat,a,-0.00019889144,,a,-0.0010840173,
+10,Business & Finance,140,146,gpt-4,chat,a,-0.006322763,,a,-0.0013111939,
+59,Philosophy & Religion,514,147,gpt-4,chat,a,-0.08213631,,a,-0.020851212,
+59,Philosophy & Religion,384,148,gpt-4,chat,a,-3.5313153e-06,-12.562504,b,,-0.039805178
+42,History & Archaeology,287,149,gpt-4,chat,b,,-0.00014811802,b,,-0.00014585316
+87,Sports & Fitness,319,150,gpt-4,chat,b,,-0.11542294,b,-13.937501,-9.0883464e-07
+1,Art & Design,174,151,gpt-4,chat,a,-4.3941356e-05,,a,-0.0021458585,
+41,History & Archaeology,524,152,gpt-4,chat,a,-0.0020779325,,b,,-0.015132077
+86,Sports & Fitness,575,153,gpt-4,chat,b,,-0.00048608426,b,,-0.0001624188
+38,Healthcare & Medicine,559,154,gpt-4,chat,a,-0.59831184,-0.87956184,b,,-0.016036833
+44,History & Archaeology,202,155,gpt-4,chat,a,-0.027585682,,b,,-0.046157315
+72,Psychology & Sociology,443,156,gpt-4,chat,a,-0.005616485,,b,-1.6568451,-0.29167932
+78,Science & Technology,219,157,gpt-4,chat,a,-0.0018487935,,a,-0.00070218404,
+50,Hobbies & Leisure,499,158,gpt-4,chat,a,-0.00013822412,,b,,-0.08717275
+35,Food & Culinary,503,159,gpt-4,chat,b,,-0.04231427,b,,-0.0022669474
+77,Science & Technology,694,160,gpt-4,chat,a,-0.0056590484,,a,-0.93337065,
+72,Psychology & Sociology,449,161,gpt-4,chat,a,-0.006630813,,b,,-0.024556449
+1,Art & Design,242,162,gpt-4,chat,a,-0.0007727013,,a,-0.0006769312,
+25,Entertainment,615,163,gpt-4,chat,a,-0.0002912486,,a,-0.004602315,
+55,Law & Legal Issues,47,164,gpt-4,chat,a,-0.00016873659,,a,-0.0001008015,
+73,Science & Technology,253,165,gpt-4,chat,a,-0.0011222378,,a,-0.014342137,
+50,Hobbies & Leisure,557,166,gpt-4,chat,a,-0.008097716,,b,,-0.06857293
+81,Social Issues & Ethics,70,167,gpt-4,chat,a,-0.0029300377,,b,,-0.0010507925
+32,Food & Culinary,95,168,gpt-4,chat,b,,-0.10662609,b,,-0.0014542824
+17,Education & Learning,236,169,gpt-4,chat,a,-0.0001594387,,a,-0.00011498674,
+8,Business & Finance,442,170,gpt-4,chat,a,-0.0015249758,,a,-0.015821783,
+46,History & Archaeology,363,171,gpt-4,chat,a,-0.0047258376,,a,-0.014019174,-4.699505
+88,Sports & Fitness,639,172,gpt-4,chat,a,-0.030437121,,b,,-0.00052813016
+3,Art & Design,396,173,gpt-4,chat,a,-0.000102708764,,b,,-0.000184587
+86,Sports & Fitness,532,174,gpt-4,chat,a,-0.08326266,,b,,-0.004775907
+58,Philosophy & Religion,34,175,gpt-4,chat,a,-0.00028708015,,a,-0.008863449,-4.9475327
+51,Hobbies & Leisure,158,176,gpt-4,chat,b,,-0.030289222,b,,-0.0092296805
+58,Philosophy & Religion,282,177,gpt-4,chat,a,-0.0003607297,,a,-0.0010906854,
+42,History & Archaeology,248,178,gpt-4,chat,a,-0.0014460684,,b,-1.5820359,-0.2329034
+73,Science & Technology,136,179,gpt-4,chat,b,,-0.05719728,b,-9.250096,-9.615256e-05
+69,Psychology & Sociology,468,180,gpt-4,chat,a,-0.00053873565,,a,-0.0010372143,
+80,Social Issues & Ethics,392,181,gpt-4,chat,a,-0.000225947,,a,-0.022882959,
+17,Education & Learning,410,182,gpt-4,chat,a,-0.00012380048,,a,-7.922564e-05,
+51,Hobbies & Leisure,533,183,gpt-4,chat,a,-0.05947051,,b,,-0.0014843896
+24,Entertainment,204,184,gpt-4,chat,b,,-0.12900722,b,,-0.0006613265
+39,Healthcare & Medicine,279,185,gpt-4,chat,a,-0.0013192851,,b,-5.0172606,-0.0131939985
+40,Healthcare & Medicine,381,186,gpt-4,chat,a,-0.028528152,,a,-0.0016432846,
+19,Education & Learning,86,187,gpt-4,chat,a,-0.0001752928,,a,-0.00036239854,
+82,Social Issues & Ethics,65,188,gpt-4,chat,a,-0.0005803157,,a,-0.000599977,
+46,History & Archaeology,437,189,gpt-4,chat,b,-5.37962,-0.0046202415,a,-0.0024590103,
+18,Education & Learning,41,190,gpt-4,chat,a,-0.0014723646,,b,,-0.0058665783
+15,Careers & Employment,137,191,gpt-4,chat,a,-0.00025692896,,a,-0.0001503829,
+46,History & Archaeology,350,192,gpt-4,chat,a,-0.0121246185,,a,-0.0008083212,
+8,Business & Finance,686,193,gpt-4,chat,a,-0.004710888,,b,,-0.016104288
+19,Education & Learning,98,194,gpt-4,chat,a,-0.009243723,,a,-0.08766788,-2.5896325
+7,Business & Finance,428,195,gpt-4,chat,a,-0.00013619766,,a,-0.0031262634,
+66,Politics & Governance,490,196,gpt-4,chat,a,-0.0031773564,,b,,-0.007265371
+16,Education & Learning,268,197,gpt-4,chat,a,-5.6338537e-05,,a,-1.867018e-05,
+45,History & Archaeology,35,198,gpt-4,chat,b,,-0.002837919,b,,-0.0011879685
+22,Entertainment,145,199,gpt-4,chat,b,,-0.0020293964,b,,-0.00027885512
+1,Art & Design,512,200,gpt-4,chat,a,-0.008859549,,b,,-0.00029601678
+70,Psychology & Sociology,271,201,gpt-4,chat,b,-0.8663139,-0.5908908,b,,-0.4376359
+14,Careers & Employment,458,202,gpt-4,chat,a,-0.0001439459,,a,-7.255024e-05,
+62,Politics & Governance,156,203,gpt-4,chat,a,-0.00020306357,,a,-0.00032676398,
+43,History & Archaeology,152,204,gpt-4,chat,b,-1.4880403,-0.28667775,b,,-0.19428048
+52,Law & Legal Issues,328,205,gpt-4,chat,a,-0.0012686859,,a,-0.00070016494,
+61,Philosophy & Religion,634,206,gpt-4,chat,a,-0.43455282,,a,-0.8598785,
+63,Politics & Governance,281,207,gpt-4,chat,a,-4.3202e-07,-15.0,a,-0.001349165,
+25,Entertainment,112,208,gpt-4,chat,a,-0.000756739,,a,-0.00046439286,
+70,Psychology & Sociology,109,209,gpt-4,chat,a,-0.2554627,-1.6773376,b,,-0.045079034
+46,History & Archaeology,39,210,gpt-4,chat,a,-0.0042986074,,b,,-0.09727163
+20,Education & Learning,226,211,gpt-4,chat,a,-0.00012964146,,a,-0.0016267409,
+14,Careers & Employment,139,212,gpt-4,chat,a,-0.00017970333,,a,-0.00010592726,
+87,Sports & Fitness,570,213,gpt-4,chat,a,-0.0002843385,,a,-0.0006127171,
+7,Business & Finance,596,214,gpt-4,chat,a,-0.00123618,,a,-0.0080989,
+64,Politics & Governance,562,215,gpt-4,chat,a,-0.009407306,,b,,-0.071254544
+82,Social Issues & Ethics,399,216,gpt-4,chat,a,-0.008396248,,b,,-0.1597728
+63,Politics & Governance,661,217,gpt-4,chat,a,-0.00025275684,,a,-0.00057543203,
+41,History & Archaeology,231,218,gpt-4,chat,a,-0.0028924902,,a,-0.12756683,
+60,Philosophy & Religion,489,219,gpt-4,chat,a,-0.028097888,-4.126628,a,-0.0021791696,
+8,Business & Finance,351,220,gpt-4,chat,a,-0.0060231257,,b,,-0.0017419357
+89,Travel & Tourism,236,221,gpt-4,chat,a,-0.11131441,,b,,-0.0041230423
+68,Psychology & Sociology,73,222,gpt-4,chat,a,-0.0077825272,,b,,-0.0026516328
+32,Food & Culinary,329,223,gpt-4,chat,a,-0.0013461848,,a,-0.5289811,-1.1417512
+21,Entertainment,14,224,gpt-4,chat,a,-0.0013663082,,a,-0.08936536,
+90,Travel & Tourism,279,225,gpt-4,chat,b,,-0.0017865638,b,,-0.0006160548
+39,Healthcare & Medicine,320,226,gpt-4,chat,a,-0.23199531,,b,,-0.33913198
+34,Food & Culinary,648,227,gpt-4,chat,a,-0.02673958,,a,-0.67971385,-0.9480511
+93,Travel & Tourism,366,228,gpt-4,chat,a,-0.018102415,,a,-0.008623082,
+51,Hobbies & Leisure,63,229,gpt-4,chat,a,-0.116694145,,a,-0.022344276,-4.4967856
+80,Social Issues & Ethics,381,230,gpt-4,chat,a,-0.0018746204,,b,,-0.01050168
+48,Hobbies & Leisure,65,231,gpt-4,chat,a,-0.00035107418,,a,-0.04774182,
+11,Careers & Employment,472,232,gpt-4,chat,a,-0.000107238506,,a,-0.00031532408,
+77,Science & Technology,88,233,gpt-4,chat,a,-0.004342172,,a,-0.00031973462,
+26,Fashion & Beauty,446,234,gpt-4,chat,a,-0.007297455,-5.1022224,b,,-0.0017247996
+4,Art & Design,165,235,gpt-4,chat,a,-3.2497806e-05,,a,-0.0004243588,
+35,Food & Culinary,430,236,gpt-4,chat,a,-0.07252934,,b,,-0.010556299
+3,Art & Design,247,237,gpt-4,chat,a,-0.0033489398,,a,-0.002458176,
+9,Business & Finance,255,238,gpt-4,chat,b,,-0.014044915,b,,-0.080222026
+23,Entertainment,116,239,gpt-4,chat,a,-0.02930964,,b,,-0.00069456233
+41,History & Archaeology,587,240,gpt-4,chat,a,-0.0008938324,,a,-0.026003122,
+61,Philosophy & Religion,499,241,gpt-4,chat,a,-0.020914955,,a,-0.074878156,
+24,Entertainment,260,242,gpt-4,chat,b,,-0.040927906,b,,-0.532909
+59,Philosophy & Religion,631,243,gpt-4,chat,a,-0.00036585543,,b,,-0.047175456
+62,Politics & Governance,570,244,gpt-4,chat,a,-0.00032688316,,a,-0.010632845,
+69,Psychology & Sociology,397,245,gpt-4,chat,b,,-0.009570144,b,,-0.0006612073
+81,Social Issues & Ethics,291,246,gpt-4,chat,a,-0.030614259,,b,,-0.003798773
+74,Science & Technology,68,247,gpt-4,chat,b,-0.82153213,-0.60618865,b,,-0.0071969624
+83,Social Issues & Ethics,221,248,gpt-4,chat,b,-0.892382,-0.5490402,b,,-0.01049519
+40,Healthcare & Medicine,551,249,gpt-4,chat,a,-0.04746061,,a,-0.0012065422,
+93,Travel & Tourism,10,250,gpt-4,chat,a,-0.00034928982,,a,-0.0009963678,
+43,History & Archaeology,421,251,gpt-4,chat,a,-0.0063823373,,b,,-0.0061092665
+52,Law & Legal Issues,534,252,gpt-4,chat,a,-0.0020066726,,a,-2.4391957e-05,
+67,Psychology & Sociology,117,253,gpt-4,chat,a,-0.04290715,,b,,-0.007707181
+92,Travel & Tourism,578,254,gpt-4,chat,b,,-0.0023151187,b,,-0.016444638
+66,Politics & Governance,200,255,gpt-4,chat,a,-0.01441958,,b,,-0.04049332
+50,Hobbies & Leisure,66,256,gpt-4,chat,a,-0.000517886,,a,-0.006274775,
+12,Careers & Employment,659,257,gpt-4,chat,a,-9.9371064e-05,,a,-2.9160103e-05,
+16,Education & Learning,641,258,gpt-4,chat,a,-0.0025517656,,a,-0.0013974993,
+59,Philosophy & Religion,566,259,gpt-4,chat,a,-0.0015560439,,b,,-0.002591708
+74,Science & Technology,362,260,gpt-4,chat,a,-0.00029601678,,a,-0.00056685304,
+22,Entertainment,68,261,gpt-4,chat,b,,-0.0034231893,b,,-0.00070992863
+23,Entertainment,95,262,gpt-4,chat,b,,-0.0019687198,b,-5.487987,-0.005351636
+21,Entertainment,135,263,gpt-4,chat,a,-0.010200946,,a,-0.73573524,
+29,Fashion & Beauty,374,264,gpt-4,chat,a,-0.011788076,,b,-1.9695413,-0.18690273
+27,Fashion & Beauty,309,265,gpt-4,chat,a,-0.06613339,-2.8872051,a,-0.03748922,
+20,Education & Learning,268,266,gpt-4,chat,a,-4.477578e-05,,a,-5.8484206e-05,
+75,Science & Technology,274,267,gpt-4,chat,b,-3.51898,-0.037679587,b,,-0.009503898
+86,Sports & Fitness,58,268,gpt-4,chat,b,,-0.023504365,b,,-0.0005583932
+74,Science & Technology,197,269,gpt-4,chat,a,-0.0026443833,,a,-0.00055422477,
+68,Psychology & Sociology,500,270,gpt-4,chat,a,-0.0021146932,,a,-0.0102846,
+92,Travel & Tourism,108,271,gpt-4,chat,a,-0.017108472,,b,,-0.0055452436
+31,Food & Culinary,283,272,gpt-4,chat,a,-0.0018163134,,b,,-0.25486612
+78,Science & Technology,109,273,gpt-4,chat,b,-1.9092402,-0.1730457,a,-0.006335661,
+29,Fashion & Beauty,157,274,gpt-4,chat,b,,-0.81032956,b,,-0.022541275
+44,History & Archaeology,12,275,gpt-4,chat,a,-3.529751,,a,-0.0015490218,
+55,Law & Legal Issues,509,276,gpt-4,chat,a,-0.0024112079,,a,-0.00027957035,
+18,Education & Learning,224,277,gpt-4,chat,a,-0.0017632401,,b,,-0.0026968163
+20,Education & Learning,294,278,gpt-4,chat,a,-0.00039885283,,a,-0.0019505366,
+60,Philosophy & Religion,288,279,gpt-4,chat,a,-0.002730575,,a,-0.014283736,
+73,Science & Technology,269,280,gpt-4,chat,a,-1.0802739e-05,,a,-0.00046069757,
+31,Food & Culinary,172,281,gpt-4,chat,a,-0.0023459191,,b,,-0.002100418
+83,Social Issues & Ethics,539,282,gpt-4,chat,a,-0.24180362,,a,-0.017143512,
+76,Science & Technology,584,283,gpt-4,chat,a,-0.00053265993,,a,-0.025795529,
+12,Careers & Employment,463,284,gpt-4,chat,a,-9.770221e-05,,a,-0.0012092802,
+84,Sports & Fitness,174,285,gpt-4,chat,a,-8.697388e-05,,a,-4.990154e-05,
+7,Business & Finance,558,286,gpt-4,chat,b,,-0.2879546,a,-0.0029735414,
+30,Fashion & Beauty,158,287,gpt-4,chat,a,-0.00018816312,,a,-0.00060188427,
+67,Psychology & Sociology,455,288,gpt-4,chat,a,-0.0076779653,,a,-0.01440771,
+89,Travel & Tourism,622,289,gpt-4,chat,a,-0.033389777,,a,-0.0021209961,
+10,Business & Finance,87,290,gpt-4,chat,a,-0.0046681687,-5.814147,b,-2.1989086,-0.12688337
+88,Sports & Fitness,467,291,gpt-4,chat,b,,-0.04421776,b,,-0.002098753
+64,Politics & Governance,130,292,gpt-4,chat,a,-0.0006127171,,a,-0.00041529932,
+27,Fashion & Beauty,474,293,gpt-4,chat,a,-0.011119742,,a,-0.008537628,
+12,Careers & Employment,477,294,gpt-4,chat,a,-0.00072124926,,a,0.0,-16.9375
+12,Careers & Employment,460,295,gpt-4,chat,a,-8.43514e-05,,a,-4.9305523e-05,
+38,Healthcare & Medicine,295,296,gpt-4,chat,a,-0.16777071,-1.8894314,b,,-0.10737181
+54,Law & Legal Issues,421,297,gpt-4,chat,a,-0.00011534435,,a,-0.00052574975,
+8,Business & Finance,225,298,gpt-4,chat,a,-0.0015084356,,a,-0.010686626,
+61,Philosophy & Religion,74,299,gpt-4,chat,a,-0.3846718,,b,,-0.29060853
+65,Politics & Governance,442,300,gpt-4,chat,a,-0.00063416274,,a,-0.0012315384,
+47,Hobbies & Leisure,176,301,gpt-4,chat,b,-11.062516,-1.5809293e-05,b,,-0.0007411343
+67,Psychology & Sociology,21,302,gpt-4,chat,a,-0.00095362135,,b,,-0.04039647
+75,Science & Technology,96,303,gpt-4,chat,a,-0.0046202415,-5.37962,b,,-0.00215728
+73,Science & Technology,549,304,gpt-4,chat,a,-0.00050239684,,a,-0.0006346396,
+20,Education & Learning,217,305,gpt-4,chat,a,-8.76891e-05,,a,-9.770221e-05,
+7,Business & Finance,184,306,gpt-4,chat,a,-0.064976186,,a,-0.093869925,
+19,Education & Learning,218,307,gpt-4,chat,a,-0.008800106,,b,,-0.005060606
+11,Careers & Employment,432,308,gpt-4,chat,a,-0.0001135563,,a,-5.407367e-05,
+23,Entertainment,68,309,gpt-4,chat,b,,-0.012627013,b,,-0.0052578337
+11,Careers & Employment,571,310,gpt-4,chat,a,-0.00012403888,,a,-0.0001627764,
+41,History & Archaeology,559,311,gpt-4,chat,a,-0.0054643867,,b,,-0.015167526
+80,Social Issues & Ethics,251,312,gpt-4,chat,a,-0.0015283134,,a,-0.016407225,
+81,Social Issues & Ethics,570,313,gpt-4,chat,a,-0.00848621,,b,,-0.15104531
+32,Food & Culinary,17,314,gpt-4,chat,a,-0.047562234,,b,-1.4894313,-0.44045055
+21,Entertainment,370,315,gpt-4,chat,a,-0.0007348202,,b,,-0.07335108
+16,Education & Learning,74,316,gpt-4,chat,a,-0.00025657137,,a,-4.1914896e-05,
+65,Politics & Governance,560,317,gpt-4,chat,a,-0.0012554689,,a,-0.0053356243,
+82,Social Issues & Ethics,506,318,gpt-4,chat,a,-0.004836415,,a,-0.0006909899,
+80,Social Issues & Ethics,220,319,gpt-4,chat,a,-0.06682518,,a,-9.639097e-05,
+26,Fashion & Beauty,553,320,gpt-4,chat,a,-0.16491506,,a,-0.044916186,
+8,Business & Finance,134,321,gpt-4,chat,a,-0.028405571,,a,-0.0006805036,
+92,Travel & Tourism,297,322,gpt-4,chat,a,-6.0403323,,b,,-0.007277207
+64,Politics & Governance,50,323,gpt-4,chat,a,-0.00017994174,,a,-6.0033854e-05,
+19,Education & Learning,94,324,gpt-4,chat,a,-1.0683535e-05,,a,-0.00011462913,
+23,Entertainment,401,325,gpt-4,chat,a,-0.11932114,,b,,-0.012767437
+81,Social Issues & Ethics,459,326,gpt-4,chat,a,-0.00033057848,,b,,-0.06305427
+58,Philosophy & Religion,517,327,gpt-4,chat,a,-0.00023464888,,b,,-0.041664213
+6,Business & Finance,354,328,gpt-4,chat,b,-2.0050585,-0.1779787,b,-6.2418537,-0.0028935596
+85,Sports & Fitness,25,329,gpt-4,chat,b,,-4.6665807,b,,-0.004850769
+80,Social Issues & Ethics,560,330,gpt-4,chat,a,-0.0015468836,,a,-0.051624015,
+10,Business & Finance,24,331,gpt-4,chat,a,-0.00039385364,,a,-0.0010521037,
+1,Art & Design,96,332,gpt-4,chat,a,-0.008075954,,a,-0.043382797,-3.6159346
+64,Politics & Governance,128,333,gpt-4,chat,a,-0.0015928227,,a,-0.0003317705,
+85,Sports & Fitness,559,334,gpt-4,chat,b,,-0.0053417864,b,,-0.0060777524
+6,Business & Finance,368,335,gpt-4,chat,b,-1.225745,-0.4386279,b,,-0.020643847
+32,Food & Culinary,454,336,gpt-4,chat,a,-0.61406,-1.0965962,b,,-0.11680085
+6,Business & Finance,332,337,gpt-4,chat,b,,-0.026325496,b,-1.534222,-0.24434318
+32,Food & Culinary,518,338,gpt-4,chat,b,,-0.002814744,b,,-0.0053014695
+30,Fashion & Beauty,201,339,gpt-4,chat,a,-0.0019286326,-6.251929,a,-0.0046574916,
+36,Healthcare & Medicine,321,340,gpt-4,chat,a,-0.008667283,,b,,-0.050125998
+39,Healthcare & Medicine,413,341,gpt-4,chat,a,-0.013741363,,b,,-0.16221341
+86,Sports & Fitness,473,342,gpt-4,chat,b,,-0.00036609382,b,,-0.0007935436
+78,Science & Technology,481,343,gpt-4,chat,b,-3.7709715,-0.03043203,b,,-0.05811293
+79,Social Issues & Ethics,474,344,gpt-4,chat,a,-0.0051311697,,b,,-1.1203754
+90,Travel & Tourism,299,345,gpt-4,chat,b,,-0.020631814,b,,-0.00040421702
+33,Food & Culinary,488,346,gpt-4,chat,b,,-0.27828178,b,,-0.0038878385
+35,Food & Culinary,479,347,gpt-4,chat,b,,-0.19448493,b,,-0.12532485
+24,Entertainment,331,348,gpt-4,chat,a,-0.007959474,,b,,-0.002015479
+83,Social Issues & Ethics,505,349,gpt-4,chat,a,-0.0012623754,,b,,-0.5244322
+37,Healthcare & Medicine,28,350,gpt-4,chat,a,-0.0016229337,,b,,-0.00035310065
+39,Healthcare & Medicine,48,351,gpt-4,chat,a,-0.005261034,,a,-0.025615443,
+27,Fashion & Beauty,296,352,gpt-4,chat,a,-0.002166202,-6.541635,a,-0.29216248,-1.6714959
+9,Business & Finance,484,353,gpt-4,chat,a,-0.0226661,,b,,-0.009519132
+15,Careers & Employment,399,354,gpt-4,chat,b,,-0.0059015383,b,,-0.0012022546
+50,Hobbies & Leisure,69,355,gpt-4,chat,a,-0.0017868021,,b,,-0.031322524
+59,Philosophy & Religion,162,356,gpt-4,chat,a,-0.00011319869,,b,-0.83984053,-0.61108077
+51,Hobbies & Leisure,117,357,gpt-4,chat,a,-0.0020433175,,a,-0.002908535,
+61,Philosophy & Religion,85,358,gpt-4,chat,a,-0.028842656,,a,-0.20402613,
+10,Business & Finance,527,359,gpt-4,chat,a,-0.00051347545,,a,-0.01276661,
+30,Fashion & Beauty,265,360,gpt-4,chat,a,-9.031158e-05,-9.312591,b,,-0.024674509
+13,Careers & Employment,515,361,gpt-4,chat,a,-0.00015395533,,a,-0.00013917775,
+29,Fashion & Beauty,363,362,gpt-4,chat,b,,-0.027554143,b,,-0.01278921
+54,Law & Legal Issues,350,363,gpt-4,chat,a,-0.00015157493,,a,-0.00033296258,
+73,Science & Technology,64,364,gpt-4,chat,a,-0.05435663,,a,-0.0026899136,
+89,Travel & Tourism,545,365,gpt-4,chat,a,-0.010844893,,b,,-0.016778192
+11,Careers & Employment,50,366,gpt-4,chat,a,-0.00019316968,,a,-5.216641e-05,
+74,Science & Technology,154,367,gpt-4,chat,a,-7.9418505e-06,-11.750008,a,-0.00014740281,
+86,Sports & Fitness,150,368,gpt-4,chat,a,-0.0030914396,-6.3976035,b,,-0.0004552215
+37,Healthcare & Medicine,117,369,gpt-4,chat,a,-0.09441297,-2.406913,b,,-0.005117177
+88,Sports & Fitness,99,370,gpt-4,chat,b,,-0.16351564,b,,-0.023786813
+4,Art & Design,143,371,gpt-4,chat,a,-0.0058843526,,a,-0.029230345,
+79,Social Issues & Ethics,412,372,gpt-4,chat,a,-0.0019101927,,b,,-0.0073264325
+56,Law & Legal Issues,422,373,gpt-4,chat,a,-0.00010807293,,a,-0.0005399277,
+38,Healthcare & Medicine,304,374,gpt-4,chat,b,-4.859558,-0.008390455,b,,-0.0010981805
+34,Food & Culinary,220,375,gpt-4,chat,a,-0.03500088,-3.9256258,b,,-0.021995185
+40,Healthcare & Medicine,105,376,gpt-4,chat,a,-0.0016345973,,a,-0.004747199,
+17,Education & Learning,206,377,gpt-4,chat,a,-0.00083095155,,a,-8.244414e-05,
+22,Entertainment,71,378,gpt-4,chat,b,,-0.0152870435,b,,-7.922564e-05
+10,Business & Finance,427,379,gpt-4,chat,a,-0.0017272993,,a,-0.0003706126,
+16,Education & Learning,470,380,gpt-4,chat,b,-2.076096,-0.1878668,b,,-0.003520841
+77,Science & Technology,513,381,gpt-4,chat,a,-0.002015002,,a,-0.4137419,
+31,Food & Culinary,199,382,gpt-4,chat,a,-0.0017237269,,b,,-0.0014565436
+5,Art & Design,501,383,gpt-4,chat,b,-3.5298867,-0.040878695,b,,-0.072118826
+64,Politics & Governance,357,384,gpt-4,chat,a,-0.024068022,,a,-0.00059378205,
+34,Food & Culinary,120,385,gpt-4,chat,a,-0.05671363,,b,,-0.008204495
+66,Politics & Governance,52,386,gpt-4,chat,a,-0.0030721873,,b,-4.6462054,-0.012156992
+44,History & Archaeology,446,387,gpt-4,chat,a,-0.00034416403,,a,-0.00060497987,
+18,Education & Learning,294,388,gpt-4,chat,b,,-0.004998448,b,,-0.0015027176
+74,Science & Technology,37,389,gpt-4,chat,a,-0.00087227486,,a,-0.0014660578,
+12,Careers & Employment,443,390,gpt-4,chat,a,-0.00017326632,,a,-0.00019340808,
+38,Healthcare & Medicine,62,391,gpt-4,chat,b,-1.474813,-0.31207418,b,,-0.007816355
+72,Psychology & Sociology,93,392,gpt-4,chat,a,-0.0024008628,,a,-0.0044599087,
+91,Travel & Tourism,376,393,gpt-4,chat,b,-4.849051,-0.011166195,b,,-0.0032554308
+55,Law & Legal Issues,61,394,gpt-4,chat,a,-0.0021387208,,a,-0.00020044109,
+87,Sports & Fitness,81,395,gpt-4,chat,a,-7.314626e-05,,a,-0.000782707,
+80,Social Issues & Ethics,83,396,gpt-4,chat,a,-0.0009468304,,a,-0.08938347,
+61,Philosophy & Religion,192,397,gpt-4,chat,a,-0.039255504,,b,,-1.1324563
+64,Politics & Governance,332,398,gpt-4,chat,a,-0.00084488734,,a,-0.0004586711,
+48,Hobbies & Leisure,504,399,gpt-4,chat,a,-0.0046247495,,b,,-0.20327793
+40,Healthcare & Medicine,138,400,gpt-4,chat,a,-0.27979985,,b,,-0.07600957
+29,Fashion & Beauty,76,401,gpt-4,chat,b,,-0.0032702836,b,,-0.24214691
+15,Careers & Employment,397,402,gpt-4,chat,a,-1.3067608e-05,-11.250013,a,-0.00082880585,
+44,History & Archaeology,395,403,gpt-4,chat,a,-0.0010923543,,a,-0.0031985121,
+71,Psychology & Sociology,321,404,gpt-4,chat,a,-0.00036216015,,a,-0.00020175234,
+30,Fashion & Beauty,427,405,gpt-4,chat,a,-0.00053611316,,a,-7.064298e-05,
+6,Business & Finance,236,406,gpt-4,chat,b,,-0.01422309,b,,-0.015925381
+43,History & Archaeology,171,407,gpt-4,chat,b,,-0.028223414,b,,-0.0016864857
+45,History & Archaeology,469,408,gpt-4,chat,a,-0.0011284326,,a,-0.007619638,-4.9675503
+6,Business & Finance,471,409,gpt-4,chat,b,,-0.01123008,b,,-0.03896248
+3,Art & Design,109,410,gpt-4,chat,a,-0.0031003505,,a,-0.18185614,
+66,Politics & Governance,458,411,gpt-4,chat,a,-1.9027791e-05,-10.875019,b,,-0.0057133315
+22,Entertainment,67,412,gpt-4,chat,b,,-0.00015908109,b,,-0.002163587
+67,Psychology & Sociology,23,413,gpt-4,chat,a,-0.0013653546,,b,,-0.10842592
+11,Careers & Employment,130,414,gpt-4,chat,a,-5.0974373e-05,,a,-2.9994528e-05,
+74,Science & Technology,304,415,gpt-4,chat,a,-0.00024929992,,a,-0.00079580845,
+28,Fashion & Beauty,221,416,gpt-4,chat,a,-0.0011807043,,a,-0.0032480625,
+34,Food & Culinary,217,417,gpt-4,chat,a,-0.0012646402,,b,,-0.023376852
+47,Hobbies & Leisure,21,418,gpt-4,chat,a,-0.5204872,,b,,-0.0009186048
+13,Careers & Employment,130,419,gpt-4,chat,a,-0.00022189408,,a,-4.3464544e-05,
+66,Politics & Governance,403,420,gpt-4,chat,a,-0.00044401636,,b,,-0.0012088034
+57,Philosophy & Religion,319,421,gpt-4,chat,a,-0.034244094,,a,-0.0018971058,
+34,Food & Culinary,230,422,gpt-4,chat,a,-0.12400949,,b,,-0.010863763
+56,Law & Legal Issues,295,423,gpt-4,chat,a,-0.0011942753,,a,-7.100059e-05,
+1,Art & Design,224,424,gpt-4,chat,a,-7.481511e-05,,b,,-0.000104377614
+84,Sports & Fitness,380,425,gpt-4,chat,a,-0.0010143492,,a,-0.00024715427,
+24,Entertainment,72,426,gpt-4,chat,a,-0.91566294,,b,,-0.39997768
+60,Philosophy & Religion,391,427,gpt-4,chat,b,-3.0121028,-0.09771229,b,,-0.0017919169
+53,Law & Legal Issues,363,428,gpt-4,chat,a,-0.00018899754,,a,-0.00074685604,
+2,Art & Design,205,429,gpt-4,chat,a,-0.00011415232,,a,-0.00014954848,
+77,Science & Technology,380,430,gpt-4,chat,a,-0.005521293,-5.279432,a,-0.021690767,-4.1760335
+88,Sports & Fitness,445,431,gpt-4,chat,b,,-0.010546743,b,,-0.0036143241
+22,Entertainment,52,432,gpt-4,chat,b,,-0.0021494273,b,,-0.00013500563
+35,Food & Culinary,266,433,gpt-4,chat,a,-0.07256315,,b,,-0.0034659521
+59,Philosophy & Religion,452,434,gpt-4,chat,a,-2.486877e-05,,a,-0.0017321793,-6.7397695
+44,History & Archaeology,253,435,gpt-4,chat,a,-0.0010526961,,a,-0.061516825,
+19,Education & Learning,14,436,gpt-4,chat,a,-0.0005089494,,a,-0.00012178135,
+37,Healthcare & Medicine,443,437,gpt-4,chat,b,-4.2080903,-0.016182521,b,,-0.03051714
+48,Hobbies & Leisure,58,438,gpt-4,chat,b,,-0.0024034816,b,,-0.002908062
+59,Philosophy & Religion,207,439,gpt-4,chat,a,-0.00015550498,,a,-0.119017765,-2.694938
+92,Travel & Tourism,228,440,gpt-4,chat,b,,-0.0020385603,b,,-0.0005063269
+26,Fashion & Beauty,172,441,gpt-4,chat,a,-0.0032505544,,b,,-0.09131408
+32,Food & Culinary,216,442,gpt-4,chat,a,-0.022434505,,b,,-0.39053696
+65,Politics & Governance,251,443,gpt-4,chat,a,-0.007032905,,a,-0.0011758207,
+58,Philosophy & Religion,209,444,gpt-4,chat,a,-0.0002389402,,b,-1.0698292,-0.5540193
+20,Education & Learning,165,445,gpt-4,chat,a,-5.669615e-05,,a,-5.3954464e-05,
+21,Entertainment,436,446,gpt-4,chat,a,-0.0013523798,,a,-0.005175763,
+77,Science & Technology,10,447,gpt-4,chat,a,-0.0011621269,,a,-0.000764003,
+55,Law & Legal Issues,116,448,gpt-4,chat,a,-0.0004295964,,a,-2.486877e-05,
+20,Education & Learning,123,449,gpt-4,chat,a,-0.00011963568,,b,,-0.000952433
+73,Science & Technology,314,450,gpt-4,chat,a,-0.0004589095,,a,-0.0036670563,
+40,Healthcare & Medicine,404,451,gpt-4,chat,a,-0.004219909,,a,-0.008900311,
+40,Healthcare & Medicine,115,452,gpt-4,chat,a,-0.022920365,,a,-0.0060726567,
+25,Entertainment,308,453,gpt-4,chat,a,-0.0067589483,,b,,-0.0024464005
+92,Travel & Tourism,207,454,gpt-4,chat,a,-0.09183828,,a,-0.0135612255,
+22,Entertainment,176,455,gpt-4,chat,b,,-0.008987394,b,,-0.0019474374
+30,Fashion & Beauty,402,456,gpt-4,chat,b,-1.2765992,-0.49880522,b,,-0.072120935
+89,Travel & Tourism,84,457,gpt-4,chat,a,-0.0024568685,,a,-0.0024592488,
+78,Science & Technology,159,458,gpt-4,chat,b,,-0.4824223,a,-0.07500798,
+7,Business & Finance,16,459,gpt-4,chat,a,-0.019176664,,a,-0.00039516488,
+6,Business & Finance,329,460,gpt-4,chat,a,-0.011971968,-4.8024535,a,-0.237365,-1.637008
+27,Fashion & Beauty,31,461,gpt-4,chat,a,-0.002825085,,a,-0.031856474,
+72,Psychology & Sociology,208,462,gpt-4,chat,a,-0.019369014,,a,-0.009937293,
+73,Science & Technology,114,463,gpt-4,chat,a,-0.0014002372,,a,-0.00027134892,
+5,Art & Design,376,464,gpt-4,chat,a,-8.089449e-05,,b,,-0.0053113084
+8,Business & Finance,169,465,gpt-4,chat,a,-0.0008155853,,a,-0.00021319589,
+85,Sports & Fitness,138,466,gpt-4,chat,b,,-0.008477112,b,,-0.002443789
+76,Science & Technology,77,467,gpt-4,chat,a,-0.00043543737,,a,-0.00025323365,
+51,Hobbies & Leisure,49,468,gpt-4,chat,a,-0.17888512,,a,-0.0016706573,
+8,Business & Finance,318,469,gpt-4,chat,a,-0.031029725,,a,-0.0048684496,
+51,Hobbies & Leisure,380,470,gpt-4,chat,a,-0.0026200125,,b,,-0.003965367
+46,History & Archaeology,113,471,gpt-4,chat,a,-0.0002676536,,b,-3.1031237,-0.080285184
+18,Education & Learning,47,472,gpt-4,chat,a,-0.005292815,,b,,-0.013679516
+5,Art & Design,41,473,gpt-4,chat,a,-0.0005967585,,b,-1.0531688,-0.56346846
+76,Science & Technology,190,474,gpt-4,chat,a,-0.0006020034,,a,-0.00084738695,
+10,Business & Finance,105,475,gpt-4,chat,a,-0.002988517,,a,-0.000645599,
+79,Social Issues & Ethics,312,476,gpt-4,chat,a,-0.004377429,,b,-5.0839806,-0.008016479
+33,Food & Culinary,175,477,gpt-4,chat,b,,-4.683084,b,,-0.00731862
+25,Entertainment,110,478,gpt-4,chat,a,-0.00093825866,,b,,-0.02134168
+80,Social Issues & Ethics,64,479,gpt-4,chat,a,-0.0030076539,,a,-0.0014043984,
+54,Law & Legal Issues,173,480,gpt-4,chat,a,-0.0006000962,,a,-0.001897225,
+67,Psychology & Sociology,70,481,gpt-4,chat,a,-0.00016969022,,b,-11.187514,-1.3902034e-05
+61,Philosophy & Religion,409,482,gpt-4,chat,a,-0.0779063,,b,,-0.028797606
+9,Business & Finance,107,483,gpt-4,chat,a,-0.00025561772,,a,-0.0006071255,
+48,Hobbies & Leisure,373,484,gpt-4,chat,a,-0.07496453,-2.7358837,b,-1.4040656,-0.29430908
+44,History & Archaeology,385,485,gpt-4,chat,a,-0.00017708084,,a,-0.0003196154,
+84,Sports & Fitness,35,486,gpt-4,chat,a,-0.0004992975,,a,-0.0003801489,
+77,Science & Technology,160,487,gpt-4,chat,a,-2.9756122e-05,,a,-0.00019018957,
+40,Healthcare & Medicine,144,488,gpt-4,chat,a,-0.00059985777,,a,-0.0014805787,
+47,Hobbies & Leisure,291,489,gpt-4,chat,b,,-0.0550758,b,,-0.00034130315
+2,Art & Design,373,490,gpt-4,chat,a,-0.000181849,,a,-4.9663133e-05,
+89,Travel & Tourism,159,491,gpt-4,chat,a,-0.8718687,,b,,-0.004676592
+72,Psychology & Sociology,334,492,gpt-4,chat,a,-0.0029363406,,b,-1.3726448,-0.2972664
+87,Sports & Fitness,33,493,gpt-4,chat,a,-0.009549481,,a,-0.08383111,
+76,Science & Technology,262,494,gpt-4,chat,a,-0.016781706,,a,-0.0015339049,
+37,Healthcare & Medicine,157,495,gpt-4,chat,a,-0.009452062,,a,-0.15226224,-2.1403546
+50,Hobbies & Leisure,183,496,gpt-4,chat,a,-0.006085327,,a,-0.20094532,
+25,Entertainment,242,497,gpt-4,chat,a,-0.00027242178,,a,-0.3124263,-1.3413646
+83,Social Issues & Ethics,295,498,gpt-4,chat,a,-0.29223093,,a,-0.026221573,
+41,History & Archaeology,29,499,gpt-4,chat,a,-0.009966319,,b,,-0.005675753
+46,History & Archaeology,195,500,gpt-4,chat,b,-2.6391432,-0.09226818,a,-0.0028287696,
+91,Travel & Tourism,82,501,gpt-4,chat,b,-3.431839,-0.05683899,b,,-0.028203012
+40,Healthcare & Medicine,61,502,gpt-4,chat,a,-0.010778856,,b,,-0.0010225669
+38,Healthcare & Medicine,370,503,gpt-4,chat,b,,-0.07690816,b,,-0.0024821963
+15,Careers & Employment,135,504,gpt-4,chat,a,-0.00058460707,,a,-0.003377219,
+49,Hobbies & Leisure,317,505,gpt-4,chat,a,-0.0052028093,,a,-0.009010776,
+83,Social Issues & Ethics,209,506,gpt-4,chat,a,-0.50096905,,a,-0.006913338,
+9,Business & Finance,392,507,gpt-4,chat,a,-0.00028576894,,a,-0.0004388943,
+19,Education & Learning,268,508,gpt-4,chat,a,-0.00020759332,,a,-0.00017469678,
+52,Law & Legal Issues,112,509,gpt-4,chat,a,-0.00039778004,,a,-8.418666e-06,-11.687509
+63,Politics & Governance,1,510,gpt-4,chat,a,-0.11545046,,b,,-0.034723423
+42,History & Archaeology,299,511,gpt-4,chat,b,,-0.0013511877,b,,-0.002582797
+92,Travel & Tourism,381,512,gpt-4,chat,b,,-0.0155917825,b,,-0.009794576
+24,Entertainment,387,513,gpt-4,chat,b,,-0.0051904707,b,,-0.0007327937
+50,Hobbies & Leisure,148,514,gpt-4,chat,b,,-0.020052908,b,,-0.004079828
+50,Hobbies & Leisure,400,515,gpt-4,chat,a,-0.0153113445,,b,,-0.75050443
+62,Politics & Governance,99,516,gpt-4,chat,a,-1.1333103,,a,-0.014638095,
+5,Art & Design,223,517,gpt-4,chat,a,-0.0002484655,,b,,-0.0027852654
+32,Food & Culinary,70,518,gpt-4,chat,a,-0.008942135,,b,,-0.00042971558
+30,Fashion & Beauty,90,519,gpt-4,chat,a,-0.002581605,,a,-0.7251145,-0.7404267
+35,Food & Culinary,22,520,gpt-4,chat,b,,-0.5139062,b,,-0.020474738
+30,Fashion & Beauty,15,521,gpt-4,chat,a,-0.015510797,-4.411621,a,-0.004647642,
+24,Entertainment,217,522,gpt-4,chat,b,,-0.092757866,b,,-0.004577515
+53,Law & Legal Issues,106,523,gpt-4,chat,a,-0.00010831134,,a,-0.00014001218,
+27,Fashion & Beauty,260,524,gpt-4,chat,a,-0.017087264,,a,-0.014993171,
+12,Careers & Employment,121,525,gpt-4,chat,a,-0.0018201241,,a,-2.2365493e-05,
+28,Fashion & Beauty,277,526,gpt-4,chat,a,-0.0006099864,,a,-0.10647241,
+58,Philosophy & Religion,221,527,gpt-4,chat,a,-0.0022843108,,b,,-0.0002939903
+86,Sports & Fitness,310,528,gpt-4,chat,a,-0.005852828,,b,,-0.002524888
+29,Fashion & Beauty,41,529,gpt-4,chat,a,-0.003861236,,b,,-0.040173534
+52,Law & Legal Issues,242,530,gpt-4,chat,a,-0.00011117222,-9.673362,a,-9.996708e-05,
+52,Law & Legal Issues,39,531,gpt-4,chat,a,-6.46828e-05,,a,-9.6867785e-05,
+49,Hobbies & Leisure,69,532,gpt-4,chat,a,-0.0015762828,,a,-0.0013783294,
+56,Law & Legal Issues,273,533,gpt-4,chat,a,-0.61048275,,a,-0.00015002528,
+68,Psychology & Sociology,196,534,gpt-4,chat,b,,-0.0031343473,b,,-0.0021646523
+92,Travel & Tourism,268,535,gpt-4,chat,a,-0.005040083,,b,,-0.012998099
+68,Psychology & Sociology,231,536,gpt-4,chat,b,,-0.0009560054,b,,-0.0034697556
+31,Food & Culinary,43,537,gpt-4,chat,a,-0.0018747397,,b,,-0.0035815376
+40,Healthcare & Medicine,299,538,gpt-4,chat,a,-0.0045283847,,a,-0.0043387334,
+68,Psychology & Sociology,233,539,gpt-4,chat,a,-0.0014746295,,b,,-0.007790213
+62,Politics & Governance,134,540,gpt-4,chat,a,-0.00012987986,,a,-0.000849771,
+34,Food & Culinary,126,541,gpt-4,chat,b,,-0.011744369,b,,-0.0058334065
+5,Art & Design,257,542,gpt-4,chat,b,-2.7593312,-0.12621175,b,,-0.0046724454
+26,Fashion & Beauty,265,543,gpt-4,chat,a,-0.0067821657,-5.253179,b,,-0.0029604658
+64,Politics & Governance,58,544,gpt-4,chat,a,-0.06997301,,a,-0.0010930694,
+53,Law & Legal Issues,98,545,gpt-4,chat,a,-0.0034284121,,a,-0.00048131612,
+79,Social Issues & Ethics,107,546,gpt-4,chat,a,-0.0019287518,,b,,-0.0022244835
+93,Travel & Tourism,322,547,gpt-4,chat,a,-0.00040886595,,a,-0.00047475993,
+58,Philosophy & Religion,94,548,gpt-4,chat,a,-0.0003931384,,b,,-0.01086129
+66,Politics & Governance,252,549,gpt-4,chat,a,-0.0018700943,,b,,-0.16312565
+13,Careers & Employment,21,550,gpt-4,chat,a,-0.0003732351,,a,-0.00039194638,-8.547267
+82,Social Issues & Ethics,30,551,gpt-4,chat,a,-0.0035321286,,a,-0.00053003745,
+22,Entertainment,258,552,gpt-4,chat,b,,-0.0036187202,b,,-8.208653e-05
+18,Education & Learning,112,553,gpt-4,chat,a,-0.019240042,,b,,-0.0010636555
+42,History & Archaeology,170,554,gpt-4,chat,a,-0.00053349434,,b,,-0.015523237
+33,Food & Culinary,174,555,gpt-4,chat,a,-0.9635588,-1.1354338,b,,-0.0035900946
+31,Food & Culinary,260,556,gpt-4,chat,a,-0.0010404328,,b,,-0.6779545
+60,Philosophy & Religion,253,557,gpt-4,chat,a,-0.00061128667,,b,,-0.00022415895
+33,Food & Culinary,255,558,gpt-4,chat,b,,-0.02506127,b,,-0.01435201
+38,Healthcare & Medicine,59,559,gpt-4,chat,b,-6.1752133,-0.0040382682,b,,-0.0040943087
+82,Social Issues & Ethics,91,560,gpt-4,chat,a,-0.0010244742,,a,-0.0020135753,
+28,Fashion & Beauty,243,561,gpt-4,chat,a,-0.0046858494,,a,-0.0012049926,
+90,Travel & Tourism,294,562,gpt-4,chat,b,,-0.014217096,b,,-0.0020831665
+1,Art & Design,325,563,gpt-4,chat,a,-0.01479022,,a,-0.10278245,
+9,Business & Finance,316,564,gpt-4,chat,a,-0.0008569086,-7.132975,a,-0.022929206,-3.8287878
+57,Philosophy & Religion,310,565,gpt-4,chat,a,-0.008146428,,a,-0.0068617207,
+81,Social Issues & Ethics,154,566,gpt-4,chat,a,-0.00078199187,,b,,-0.017043665
+85,Sports & Fitness,318,567,gpt-4,chat,a,-0.025312003,,b,-16.625,-1.9361265e-07
+53,Law & Legal Issues,332,568,gpt-4,chat,a,-0.00024287392,,a,-0.00036502103,
+29,Fashion & Beauty,285,569,gpt-4,chat,b,-1.652879,-0.21306151,b,,-0.001143434
+81,Social Issues & Ethics,4,570,gpt-4,chat,a,-0.00022690064,,a,-0.022356167,-4.013237
+4,Art & Design,286,571,gpt-4,chat,a,-2.8444882e-05,,a,-1.0087517e-05,
+23,Entertainment,73,572,gpt-4,chat,a,-0.016293589,,b,,-0.0016272176
+75,Science & Technology,15,573,gpt-4,chat,b,,-0.007667317,a,-0.056944277,-3.2553144
+13,Careers & Employment,171,574,gpt-4,chat,a,-0.00024037065,,a,-0.00013500563,
+71,Psychology & Sociology,317,575,gpt-4,chat,a,-0.0011696294,,a,-0.0024411702,
+2,Art & Design,38,576,gpt-4,chat,a,-0.000121542944,,a,-5.5122365e-07,-14.687501
+85,Sports & Fitness,73,577,gpt-4,chat,b,,-0.0035400824,b,,-0.029018337
+28,Fashion & Beauty,104,578,gpt-4,chat,a,-0.007976503,,b,-2.3027332,-0.16642255
+2,Art & Design,331,579,gpt-4,chat,a,-0.003043078,,a,-5.8841815e-05,
+59,Philosophy & Religion,122,580,gpt-4,chat,a,-0.0003678709,,b,-1.8763567,-0.1683718
+53,Law & Legal Issues,41,581,gpt-4,chat,a,-0.00012142374,,a,-0.00014036978,
+57,Philosophy & Religion,266,582,gpt-4,chat,a,-0.0047551384,,a,-0.12740563,
+57,Philosophy & Religion,83,583,gpt-4,chat,a,-0.00032938644,,a,-0.13168167,
+48,Hobbies & Leisure,127,584,gpt-4,chat,a,-0.009302078,,a,-0.0440185,
+8,Business & Finance,194,585,gpt-4,chat,b,-3.8430414,-0.025483204,b,-1.5194049,-0.2542376
+49,Hobbies & Leisure,81,586,gpt-4,chat,a,-0.04374286,,b,,-0.0028509982
+79,Social Issues & Ethics,111,587,gpt-4,chat,a,-0.0003540543,,a,-0.034537006,
+93,Travel & Tourism,67,588,gpt-4,chat,b,-0.92991567,-0.53892446,b,,-0.0016842282
+76,Science & Technology,150,589,gpt-4,chat,a,-0.001241898,,a,-0.0007119551,
+60,Philosophy & Religion,243,590,gpt-4,chat,a,-0.0020291617,,a,-0.002034157,
+87,Sports & Fitness,137,591,gpt-4,chat,a,-0.0036436687,,a,-0.0012102339,
+86,Sports & Fitness,214,592,gpt-4,chat,a,-0.0011827272,,a,-0.0006658526,
+64,Politics & Governance,240,593,gpt-4,chat,a,-0.00014799883,,a,-0.00014740281,
+65,Politics & Governance,81,594,gpt-4,chat,a,-0.000912298,,a,-0.043109607,
+56,Law & Legal Issues,192,595,gpt-4,chat,a,-9.014684e-06,-11.625009,a,-6.515961e-05,
+50,Hobbies & Leisure,224,596,gpt-4,chat,a,-0.0021181428,,a,-0.0065288534,
+67,Psychology & Sociology,73,597,gpt-4,chat,a,-0.0010557954,,b,,-0.008938711
+4,Art & Design,291,598,gpt-4,chat,a,-0.001419638,,a,-0.04004951,
+66,Politics & Governance,147,599,gpt-4,chat,a,-0.012702942,,b,,-0.0016526869
+75,Science & Technology,134,600,gpt-4,chat,a,-1.0385696,,a,-0.022807335,
+43,History & Archaeology,112,601,gpt-4,chat,b,,-1.2625494,a,-0.13250226,
+27,Fashion & Beauty,34,602,gpt-4,chat,a,-0.004532539,,a,-0.020810576,
+49,Hobbies & Leisure,303,603,gpt-4,chat,a,-0.41173944,-1.0881997,b,,-0.018698009
+82,Social Issues & Ethics,230,604,gpt-4,chat,a,-0.048861794,,a,-0.055531826,
+89,Travel & Tourism,168,605,gpt-4,chat,a,-0.008379706,,a,-0.44953063,
+45,History & Archaeology,35,606,gpt-4,chat,a,-0.0020944688,,b,,-0.008046984
+67,Psychology & Sociology,221,607,gpt-4,chat,a,-0.00035584232,,a,-0.23604572,
+63,Politics & Governance,243,608,gpt-4,chat,a,-0.006771619,,a,-0.00023977463,
+61,Philosophy & Religion,104,609,gpt-4,chat,a,-0.00073672744,,a,-0.0038088614,
+14,Careers & Employment,287,610,gpt-4,chat,a,-9.364929e-05,,a,-3.3809047e-05,
+25,Entertainment,210,611,gpt-4,chat,a,-0.002384211,,a,-0.0037326184,
+35,Food & Culinary,92,612,gpt-4,chat,b,,-0.09930297,b,,-0.00053385197
+23,Entertainment,67,613,gpt-4,chat,b,,-0.025057787,a,-0.22794926,-1.6228696
+74,Science & Technology,219,614,gpt-4,chat,a,-0.0001039008,,a,-0.00018470621,
+34,Food & Culinary,215,615,gpt-4,chat,a,-0.01418572,,b,,-0.0028068947
+82,Social Issues & Ethics,234,616,gpt-4,chat,a,-4.3202e-07,-15.0,a,-0.0022267408,
+60,Philosophy & Religion,238,617,gpt-4,chat,a,-0.0018088181,,b,,-0.0011696294
+15,Careers & Employment,110,618,gpt-4,chat,a,-0.00043591417,,a,-0.04660912,
+10,Business & Finance,29,619,gpt-4,chat,a,-0.0022044976,,a,-0.007783708,
+15,Careers & Employment,262,620,gpt-4,chat,a,-0.010008103,,a,-0.02654063,
+53,Law & Legal Issues,143,621,gpt-4,chat,a,-0.0002815968,,a,-0.00060557586,
+69,Psychology & Sociology,32,622,gpt-4,chat,a,-0.0012651171,,a,-0.008121958,
+17,Education & Learning,121,623,gpt-4,chat,a,-0.003875135,,a,-0.0063810297,
+13,Careers & Employment,94,624,gpt-4,chat,a,-3.9054008e-05,,a,-6.098748e-05,-10.299828
+72,Psychology & Sociology,27,625,gpt-4,chat,a,-0.0018117945,,b,,-0.06238183
+36,Healthcare & Medicine,6,626,gpt-4,chat,a,-0.0045369235,,a,-0.0006975424,
+27,Fashion & Beauty,258,627,gpt-4,chat,a,-0.06387076,,a,-0.040671773,
+17,Education & Learning,23,628,gpt-4,chat,a,-8.590105e-05,,a,-0.0002226093,
+35,Food & Culinary,121,629,gpt-4,chat,a,-0.028646784,,b,,-0.010392903
+79,Social Issues & Ethics,93,630,gpt-4,chat,a,-0.00035262384,,a,-0.00056518416,
+31,Food & Culinary,77,631,gpt-4,chat,a,-0.00041661054,,a,-0.013707498,
+4,Art & Design,142,632,gpt-4,chat,a,-0.0002544257,,a,-3.1305768e-05,-10.375031
+58,Philosophy & Religion,89,633,gpt-4,chat,a,-0.00015538577,,b,-4.2946525,-0.020707829
+69,Psychology & Sociology,188,634,gpt-4,chat,a,-0.00028696097,,a,-0.005085276,
+41,History & Archaeology,54,635,gpt-4,chat,a,-1.7652707,,a,-0.016048681,
+57,Philosophy & Religion,277,636,gpt-4,chat,a,-0.0059073465,,b,,-0.009575691
+42,History & Archaeology,199,637,gpt-4,chat,a,-0.00034177996,,a,-0.0006737127,
+58,Philosophy & Religion,14,638,gpt-4,chat,a,-0.0006516747,,a,-0.04129698,-3.740262
+71,Psychology & Sociology,167,639,gpt-4,chat,a,-0.00022725825,,a,-7.839122e-05,
+9,Business & Finance,173,640,gpt-4,chat,a,-0.0005697139,,a,-0.0010790145,
+9,Business & Finance,94,641,gpt-4,chat,a,-0.0038271528,-5.791135,b,,-0.0018571268
+66,Politics & Governance,134,642,gpt-4,chat,a,-0.0012417788,,b,-11.125015,-1.4855664e-05
+54,Law & Legal Issues,218,643,gpt-4,chat,a,-0.00011594037,,a,-0.00020282516,
+17,Education & Learning,142,644,gpt-4,chat,a,-0.0003308169,,a,-0.00021462266,
+16,Education & Learning,98,645,gpt-4,chat,a,-6.909333e-05,,a,-0.0001278534,
+90,Travel & Tourism,270,646,gpt-4,chat,b,,-0.3211822,b,,-0.003361174
+80,Social Issues & Ethics,7,647,gpt-4,chat,a,-0.0015446186,,b,-1.9294229,-0.16321425
+21,Entertainment,69,648,gpt-4,chat,a,-0.003753529,,a,-1.1544442,
+26,Fashion & Beauty,67,649,gpt-4,chat,b,-2.2581704,-0.11180435,b,,-0.0005667338
+7,Business & Finance,96,650,gpt-4,chat,a,-0.000989819,,b,,-0.021261387
+55,Law & Legal Issues,159,651,gpt-4,chat,a,-0.00037907605,,a,-4.2391708e-05,
+78,Science & Technology,173,652,gpt-4,chat,b,,-0.038136046,b,,-0.07323177
+86,Sports & Fitness,107,653,gpt-4,chat,a,-0.060974475,,b,,-0.04755383
+87,Sports & Fitness,254,654,gpt-4,chat,a,-0.006912511,,a,-0.033217512,
+69,Psychology & Sociology,234,655,gpt-4,chat,a,-0.0006726399,,b,,-0.033399817
+43,History & Archaeology,256,656,gpt-4,chat,b,-0.72680473,-0.6750889,a,-0.0016342397,
+69,Psychology & Sociology,33,657,gpt-4,chat,a,-0.0002969704,,a,-0.0026622198,
+56,Law & Legal Issues,19,658,gpt-4,chat,a,-5.1928004e-05,,a,-0.00013727049,
+28,Fashion & Beauty,236,659,gpt-4,chat,b,,-0.08074889,b,,-0.14572926
+14,Careers & Employment,184,660,gpt-4,chat,a,-0.0007890212,,a,-0.00017159748,
+72,Psychology & Sociology,203,661,gpt-4,chat,a,-0.002352811,,b,,-0.1056133
+71,Psychology & Sociology,62,662,gpt-4,chat,a,-0.00024977676,,a,-0.002322722,-6.243114
+38,Healthcare & Medicine,180,663,gpt-4,chat,b,-4.3555675,-0.015225653,b,,-0.0020374875
+47,Hobbies & Leisure,139,664,gpt-4,chat,b,,-0.20518827,a,-0.0013255993,
+11,Careers & Employment,8,665,gpt-4,chat,a,-7.107425e-06,,a,-4.561021e-05,
+29,Fashion & Beauty,216,666,gpt-4,chat,b,,-0.00848893,a,-0.017898582,-4.419054
+54,Law & Legal Issues,22,667,gpt-4,chat,a,-7.827201e-05,,a,-7.684157e-05,
+85,Sports & Fitness,212,668,gpt-4,chat,a,-0.019368192,,b,,-0.001034357
+78,Science & Technology,77,669,gpt-4,chat,b,,-0.014213453,b,,-0.00081475085
+3,Art & Design,196,670,gpt-4,chat,a,-0.00057900813,,a,-0.00036644045,
+68,Psychology & Sociology,212,671,gpt-4,chat,a,-0.00013440961,,a,-0.00051442906,
+89,Travel & Tourism,41,672,gpt-4,chat,b,-3.940495,-0.021093907,b,,-0.0012698743
+77,Science & Technology,144,673,gpt-4,chat,a,-0.00013691289,,a,-0.00028564973,
+46,History & Archaeology,201,674,gpt-4,chat,b,,-0.05585328,a,-0.0077866665,-5.4082155
+84,Sports & Fitness,109,675,gpt-4,chat,a,-0.0026869446,,a,-0.00021462266,
+67,Psychology & Sociology,177,676,gpt-4,chat,a,-0.0002753982,,b,,-0.003420928
+41,History & Archaeology,182,677,gpt-4,chat,b,,-0.80487126,b,,-0.00748583
+34,Food & Culinary,232,678,gpt-4,chat,a,-0.27727795,,b,,-0.052743517
+72,Psychology & Sociology,133,679,gpt-4,chat,a,-0.0005110914,,a,-0.055098243,-2.9422653
+71,Psychology & Sociology,145,680,gpt-4,chat,a,-0.0025626956,,a,-0.0039067073,
+17,Education & Learning,28,681,gpt-4,chat,a,-0.000119039665,,a,-0.0060119834,
+36,Healthcare & Medicine,233,682,gpt-4,chat,a,-0.08342915,,a,-1.6762922e-05,-11.000017
+69,Psychology & Sociology,191,683,gpt-4,chat,a,-0.0027752742,,a,-0.0029854288,-5.8154855
+48,Hobbies & Leisure,232,684,gpt-4,chat,b,,-0.0017146894,b,,-0.017808996
+14,Careers & Employment,200,685,gpt-4,chat,a,-0.003170345,,a,-0.0015148617,
+58,Philosophy & Religion,7,686,gpt-4,chat,a,-0.00036679808,,b,,-0.010631906
+41,History & Archaeology,45,687,gpt-4,chat,a,-0.0025636493,,b,-1.2972423,-0.32214844
+71,Psychology & Sociology,12,688,gpt-4,chat,a,-0.0010804449,,a,-0.0028973557,
+8,Business & Finance,217,689,gpt-4,chat,b,,-0.006376414,b,,-0.0012994037
+55,Law & Legal Issues,211,690,gpt-4,chat,a,-0.00010616567,,a,-7.064298e-05,
+46,History & Archaeology,225,691,gpt-4,chat,a,-0.05580729,,b,,-0.011518257
+84,Sports & Fitness,103,692,gpt-4,chat,a,-0.0014721262,,b,,-0.60454386
+37,Healthcare & Medicine,158,693,gpt-4,chat,a,-0.030886305,,b,,-0.00723614
+45,History & Archaeology,122,694,gpt-4,chat,a,-0.00019388489,,b,,-0.0035765495
+48,Hobbies & Leisure,194,695,gpt-4,chat,a,-0.015456909,,a,-0.010061337,
+10,Business & Finance,85,696,gpt-4,chat,a,-0.0042182477,,a,-0.001306191,
+59,Philosophy & Religion,33,697,gpt-4,chat,a,-0.000210335,,a,-0.024703002,-3.8071623
+27,Fashion & Beauty,72,698,gpt-4,chat,a,-0.0038289372,,a,-0.02330674,
+39,Healthcare & Medicine,110,699,gpt-4,chat,a,-0.017414987,,a,-0.2337485,-1.6524153
+45,History & Archaeology,144,700,gpt-4,chat,a,-0.41994587,-1.0866176,b,,-0.00062236894
+56,Law & Legal Issues,123,701,gpt-4,chat,a,-0.00072303734,,a,-7.934485e-05,
+83,Social Issues & Ethics,15,702,gpt-4,chat,a,-0.0019896594,,a,-0.0072534154,
+65,Politics & Governance,23,703,gpt-4,chat,a,-0.00049619825,,a,-0.0023001318,
+70,Psychology & Sociology,132,704,gpt-4,chat,b,,-0.002100537,b,,-0.0015758061
+25,Entertainment,165,705,gpt-4,chat,a,-0.00020735491,,b,,-0.1452525
+69,Psychology & Sociology,190,706,gpt-4,chat,a,-0.00022701983,,a,-0.000800219,
+75,Science & Technology,137,707,gpt-4,chat,b,-0.9614315,-0.49311638,b,,-0.0151072955
+84,Sports & Fitness,137,708,gpt-4,chat,a,-0.0011882068,,a,-0.0011542705,
+20,Education & Learning,105,709,gpt-4,chat,a,-0.00025418727,,a,-0.00048477305,
+31,Food & Culinary,192,710,gpt-4,chat,b,,-0.0012148792,b,,-0.007606747
+33,Food & Culinary,99,711,gpt-4,chat,a,-0.46389276,,b,,-0.73373234
+26,Fashion & Beauty,106,712,gpt-4,chat,a,-0.00090133486,,b,-3.5857193,-0.0367843
+82,Social Issues & Ethics,49,713,gpt-4,chat,a,-0.100585334,,b,-3.680378,-0.03796953
+5,Art & Design,52,714,gpt-4,chat,a,-0.00019603055,,b,,-0.005404627
+52,Law & Legal Issues,186,715,gpt-4,chat,a,-0.0004191138,,a,-7.326546e-05,
+12,Careers & Employment,55,716,gpt-4,chat,a,-0.00015824666,,a,-8.43514e-05,
+78,Science & Technology,155,717,gpt-4,chat,b,,-0.011485015,b,,-0.009484174
+24,Entertainment,165,718,gpt-4,chat,a,-0.007348208,,b,,-0.008311844
+90,Travel & Tourism,123,719,gpt-4,chat,a,-0.00020151392,,a,-0.0011766551,
+4,Art & Design,70,720,gpt-4,chat,a,-0.052291524,,a,-0.20663017,
+53,Law & Legal Issues,91,721,gpt-4,chat,a,-0.0021274223,,a,-0.0006554892,
+61,Philosophy & Religion,145,722,gpt-4,chat,a,-0.06441725,,b,,-0.0037461673
+5,Art & Design,50,723,gpt-4,chat,a,-0.0018579612,,b,,-0.005125596
+54,Law & Legal Issues,147,724,gpt-4,chat,a,-9.054999e-05,,a,-4.477578e-05,
+39,Healthcare & Medicine,85,725,gpt-4,chat,a,-0.120153755,,b,,-0.12158017
+60,Philosophy & Religion,158,726,gpt-4,chat,a,-0.010247067,,a,-0.0008806155,
+24,Entertainment,16,727,gpt-4,chat,a,-0.14695007,,b,,-0.0024013396
+16,Education & Learning,177,728,gpt-4,chat,a,-0.00011188744,,a,-0.0002419203,
+18,Education & Learning,115,729,gpt-4,chat,b,,-0.017934287,b,,-0.0040684287
+62,Politics & Governance,166,730,gpt-4,chat,a,-0.00053766277,,a,-0.00016170357,
+2,Art & Design,32,731,gpt-4,chat,a,-0.00014025059,,a,-1.7716551e-05,
+13,Careers & Employment,54,732,gpt-4,chat,a,-0.00011427152,,a,-7.660316e-05,
+23,Entertainment,109,733,gpt-4,chat,b,,-0.0028278197,b,,-0.0005119258
+88,Sports & Fitness,178,734,gpt-4,chat,a,-0.0023595945,,a,-0.0028286502,
+78,Science & Technology,6,735,gpt-4,chat,b,-3.5846338,-0.028450876,b,,-0.001251062
+23,Entertainment,42,736,gpt-4,chat,a,-0.0018631916,,b,,-0.0006739511
+51,Hobbies & Leisure,110,737,gpt-4,chat,a,-0.04386358,,b,,-0.022230254
+41,History & Archaeology,52,738,gpt-4,chat,a,-0.0073101,,a,-0.0029547622,
+85,Sports & Fitness,62,739,gpt-4,chat,a,-0.008764183,,b,,-0.0047439914
+36,Healthcare & Medicine,160,740,gpt-4,chat,a,-0.00094553013,,b,,-0.0046910685
+55,Law & Legal Issues,23,741,gpt-4,chat,a,-0.0002880338,,a,-0.0002730178,
+45,History & Archaeology,103,742,gpt-4,chat,a,-0.0035860564,,b,,-0.0053041964
+21,Entertainment,158,743,gpt-4,chat,a,-0.6959684,-0.7007787,b,,-0.042758457
+33,Food & Culinary,53,744,gpt-4,chat,a,-0.33178756,,b,,-0.43680546
+37,Healthcare & Medicine,97,745,gpt-4,chat,a,-0.00076293026,,b,,-0.003084667
+46,History & Archaeology,65,746,gpt-4,chat,a,-0.032748315,,b,,-0.00543427
+4,Art & Design,105,747,gpt-4,chat,b,,-0.06880643,b,,-0.004599942
+93,Travel & Tourism,166,748,gpt-4,chat,a,-0.0005800773,,a,-0.00010640408,
+73,Science & Technology,45,749,gpt-4,chat,a,-0.050233137,,a,-0.0006391693,
+85,Sports & Fitness,134,750,gpt-4,chat,b,,-0.010644878,b,,-0.0052868845
+82,Social Issues & Ethics,45,751,gpt-4,chat,a,-0.0017557413,,b,,-0.20605554
+93,Travel & Tourism,67,752,gpt-4,chat,a,-0.0015342626,,a,-0.00020509004,
+38,Healthcare & Medicine,106,753,gpt-4,chat,a,-0.00012594614,,b,,-0.010632252
+63,Politics & Governance,116,754,gpt-4,chat,a,-0.0011933217,,a,-9.281486e-05,
+48,Hobbies & Leisure,46,755,gpt-4,chat,a,-0.018162936,,a,-0.6525668,-0.9263171
+7,Business & Finance,3,756,gpt-4,chat,a,-0.009035705,,a,-0.2915794,
+59,Philosophy & Religion,83,757,gpt-4,chat,a,-0.00017624642,,a,-0.0044266745,
+17,Education & Learning,11,758,gpt-4,chat,a,-2.8564085e-05,,a,-0.00032855204,
+77,Science & Technology,144,759,gpt-4,chat,a,-8.3874584e-05,,a,-0.0001277342,
+36,Healthcare & Medicine,116,760,gpt-4,chat,a,-0.017130502,,b,,-0.03670443
+66,Politics & Governance,46,761,gpt-4,chat,a,-0.0052175135,,b,-5.1174955,-0.011565388
+82,Social Issues & Ethics,98,762,gpt-4,chat,a,-0.7583603,,b,,-0.05085433
+89,Travel & Tourism,100,763,gpt-4,chat,a,-0.3563716,,b,,-0.001371788
+6,Business & Finance,130,764,gpt-4,chat,a,-0.002635111,-5.940135,b,,-0.0007354162
+15,Careers & Employment,11,765,gpt-4,chat,a,-0.00042388198,,a,-0.00037192382,
+67,Psychology & Sociology,54,766,gpt-4,chat,a,-0.0010194713,,a,-0.18419382,-1.8184044
+84,Sports & Fitness,51,767,gpt-4,chat,a,-0.0008612,,a,-0.0009851736,
+88,Sports & Fitness,103,768,gpt-4,chat,b,,-0.010002794,b,,-0.00025740577
+36,Healthcare & Medicine,88,769,gpt-4,chat,a,-0.0062163705,,b,,-0.00079092843
+77,Science & Technology,60,770,gpt-4,chat,a,-0.00044747329,,a,-0.019212332,-3.9831996
+24,Entertainment,133,771,gpt-4,chat,b,,-0.009590572,b,,-0.32617345
+1,Art & Design,79,772,gpt-4,chat,a,-0.0007470945,,a,-5.0616763e-05,
+18,Education & Learning,20,773,gpt-4,chat,a,-0.0020683026,,a,-0.0026933632,
+57,Philosophy & Religion,97,774,gpt-4,chat,a,-0.005325193,,b,,-0.06087813
+13,Careers & Employment,23,775,gpt-4,chat,a,-0.00011021859,,a,-0.00028064317,
+15,Careers & Employment,64,776,gpt-4,chat,a,-9.054999e-05,,a,-0.000363829,-8.039913
+31,Food & Culinary,73,777,gpt-4,chat,a,-5.2001665e-06,-12.187505,b,,-0.010942998
+19,Education & Learning,46,778,gpt-4,chat,a,-3.035214e-05,,b,,-0.0014221377
+67,Psychology & Sociology,129,779,gpt-4,chat,a,-0.00048845366,,b,,-0.013188466
+63,Politics & Governance,16,780,gpt-4,chat,a,-0.0002554985,,a,-0.000102708764,
+28,Fashion & Beauty,102,781,gpt-4,chat,a,-0.0877536,,b,,-0.09330129
+77,Science & Technology,106,782,gpt-4,chat,a,-0.0006168892,,a,-0.26860672,
+49,Hobbies & Leisure,94,783,gpt-4,chat,a,-0.0014101164,,b,,-0.08807227
+91,Travel & Tourism,130,784,gpt-4,chat,a,-0.00018613665,,a,-0.025294691,
+63,Politics & Governance,111,785,gpt-4,chat,a,-0.0006849142,,a,-0.00059878494,
+56,Law & Legal Issues,39,786,gpt-4,chat,a,-0.000113794704,,a,-7.660316e-05,
+57,Philosophy & Religion,79,787,gpt-4,chat,a,-0.013660227,,b,,-0.0090635875
+73,Science & Technology,47,788,gpt-4,chat,a,-0.05325521,,a,-0.21299253,
+48,Hobbies & Leisure,114,789,gpt-4,chat,a,-0.071877,,b,,-0.049061585
+43,History & Archaeology,7,790,gpt-4,chat,a,-0.005383049,,a,-0.07763929,
+68,Psychology & Sociology,51,791,gpt-4,chat,a,-8.852353e-05,,a,-0.0002904142,-8.501409
+47,Hobbies & Leisure,103,792,gpt-4,chat,b,,-0.14483033,a,-0.0029425172,
+56,Law & Legal Issues,49,793,gpt-4,chat,a,-0.00015383612,,a,-0.000732913,
+76,Science & Technology,92,794,gpt-4,chat,a,-9.484132e-05,,a,-0.0002939903,
+11,Careers & Employment,25,795,gpt-4,chat,a,-3.786197e-05,,a,-0.0001470452,
+10,Business & Finance,45,796,gpt-4,chat,a,-0.0011364046,,a,-0.00035381588,
+60,Philosophy & Religion,87,797,gpt-4,chat,a,-0.726042,,a,-0.03965315,
+29,Fashion & Beauty,35,798,gpt-4,chat,a,-0.01605349,-4.2596374,b,,-0.009766476
+49,Hobbies & Leisure,101,799,gpt-4,chat,a,-2.7994394,,b,,-0.024589142
+91,Travel & Tourism,36,800,gpt-4,chat,a,-0.049490746,,b,,-0.00081451243
+38,Healthcare & Medicine,29,801,gpt-4,chat,a,-0.24287978,-1.5486983,b,,-0.01729279
+71,Psychology & Sociology,92,802,gpt-4,chat,a,-0.0010942578,,a,-0.00457775,-5.5028915
+90,Travel & Tourism,83,803,gpt-4,chat,b,,-1.0443758,b,,-0.038471743
+44,History & Archaeology,1,804,gpt-4,chat,a,-6.7662884e-05,,a,-0.00042626605,
+48,Hobbies & Leisure,86,805,gpt-4,chat,b,,-0.0017035098,b,,-0.0026932477
+3,Art & Design,63,806,gpt-4,chat,a,-2.9160103e-05,,b,-1.3535014,-0.3174106
+1,Art & Design,5,807,gpt-4,chat,a,-0.0006805036,,a,-0.0020141676,-6.366535
+72,Psychology & Sociology,64,808,gpt-4,chat,a,-0.102250956,,a,-0.025799714,
+20,Education & Learning,30,809,gpt-4,chat,a,-0.00036299456,,a,-0.0006629954,
+37,Healthcare & Medicine,18,810,gpt-4,chat,a,-0.02336218,,b,,-0.027230414
+86,Sports & Fitness,61,811,gpt-4,chat,a,-0.54922074,-0.89297074,b,,-0.0024412894
+49,Hobbies & Leisure,87,812,gpt-4,chat,a,-0.013554164,,a,-0.0005449306,
+40,Healthcare & Medicine,63,813,gpt-4,chat,a,-0.0077422047,,b,,-0.0032929708
+55,Law & Legal Issues,35,814,gpt-4,chat,a,-0.00022046364,,a,-0.00027194494,
+81,Social Issues & Ethics,75,815,gpt-4,chat,b,,-0.11338762,b,,-0.006372982
+11,Careers & Employment,79,816,gpt-4,chat,a,-0.0008621499,,a,-0.00023059595,
+27,Fashion & Beauty,96,817,gpt-4,chat,a,-3.7809021,,a,-0.2801223,
+49,Hobbies & Leisure,28,818,gpt-4,chat,a,-0.001945057,,a,-0.01829954,
+2,Art & Design,51,819,gpt-4,chat,a,-5.1928004e-05,,a,-0.0002359601,
+92,Travel & Tourism,40,820,gpt-4,chat,b,-1.1836138,-0.40265363,b,,-0.028644586
+62,Politics & Governance,75,821,gpt-4,chat,a,-0.0017100441,,a,-0.008220575,
+88,Sports & Fitness,58,822,gpt-4,chat,b,,-0.18503548,b,,-0.004600892
+73,Science & Technology,33,823,gpt-4,chat,a,-0.13458866,,a,-0.0042620576,
+26,Fashion & Beauty,41,824,gpt-4,chat,b,-4.634756,-0.009755975,b,,-0.0013344056
+51,Hobbies & Leisure,31,825,gpt-4,chat,a,-0.011621714,,a,-0.0013754722,
+20,Education & Learning,46,826,gpt-4,chat,a,-0.00011915887,,b,-12.125006,-5.4385737e-06
+49,Hobbies & Leisure,38,827,gpt-4,chat,a,-0.0008576238,,a,-0.016793549,
+18,Education & Learning,16,828,gpt-4,chat,a,-7.600714e-05,,b,-5.0141296,-0.00672923
+52,Law & Legal Issues,25,829,gpt-4,chat,a,-4.298773e-05,,a,-2.2723105e-05,
+45,History & Archaeology,31,830,gpt-4,chat,a,-0.00071529276,,b,,-0.017107649
+89,Travel & Tourism,66,831,gpt-4,chat,b,-11.062516,-1.5809293e-05,b,,-0.004830838
+32,Food & Culinary,12,832,gpt-4,chat,b,,-0.00064154604,b,,-0.0031458735
+18,Education & Learning,37,833,gpt-4,chat,a,-0.006426398,,b,,-0.046917282
+53,Law & Legal Issues,57,834,gpt-4,chat,a,-0.00025382967,,a,-0.0019596787,
+25,Entertainment,20,835,gpt-4,chat,b,-4.535216,-0.014919989,b,,-0.0015694993
+41,History & Archaeology,79,836,gpt-4,chat,a,-0.0002385826,,a,-0.0010125648,
+36,Healthcare & Medicine,50,837,gpt-4,chat,a,-0.0024247677,,b,,-0.025553158
+24,Entertainment,17,838,gpt-4,chat,b,-2.3265915,-0.13334283,b,,-0.005691519
+54,Law & Legal Issues,9,839,gpt-4,chat,a,-1.2352386e-05,,a,-0.000106284875,
+23,Entertainment,76,840,gpt-4,chat,a,-0.0073489165,,b,,-0.0006700247
+35,Food & Culinary,35,841,gpt-4,chat,b,,-0.042802196,b,,-0.033232737
+7,Business & Finance,26,842,gpt-4,chat,a,-0.06336582,,a,-0.016983422,
+47,Hobbies & Leisure,5,843,gpt-4,chat,b,-0.9205025,-0.534005,a,-0.0010571029,
+15,Careers & Employment,62,844,gpt-4,chat,a,-0.00020914296,,b,,-0.0004981055
+74,Science & Technology,43,845,gpt-4,chat,b,-3.3918478,-0.03829026,a,-0.0022259066,
+35,Food & Culinary,28,846,gpt-4,chat,a,-0.0016062708,,b,,-0.7906928
+88,Sports & Fitness,30,847,gpt-4,chat,a,-0.04262869,,b,,-0.00026300468
+80,Social Issues & Ethics,60,848,gpt-4,chat,a,-0.0037440255,,a,-0.008313495,
+2,Art & Design,35,849,gpt-4,chat,a,-0.00013297916,,a,-0.000111291425,
+65,Politics & Governance,19,850,gpt-4,chat,a,-0.0002883914,,a,-0.0044443626,
+61,Philosophy & Religion,21,851,gpt-4,chat,a,-0.0018337996,,a,-0.102144524,
+2,Art & Design,26,852,gpt-4,chat,a,-4.3226137e-05,,a,-1.2352386e-05,
+91,Travel & Tourism,49,853,gpt-4,chat,a,-0.007957223,,b,-7.3756266,-0.0006265374
+26,Fashion & Beauty,52,854,gpt-4,chat,a,-0.0070564575,,b,,-0.48870435
+85,Sports & Fitness,6,855,gpt-4,chat,b,,-0.005576545,b,,-0.010729912
+35,Food & Culinary,38,856,gpt-4,chat,a,-0.54220337,-0.9625754,b,,-0.0040072845
+92,Travel & Tourism,27,857,gpt-4,chat,a,-0.0005474338,,b,,-0.0012170211
+70,Psychology & Sociology,20,858,gpt-4,chat,a,-0.010682275,,a,-0.0116782645,
+45,History & Archaeology,5,859,gpt-4,chat,a,-0.0043749367,,a,-0.0064724754,
+30,Fashion & Beauty,46,860,gpt-4,chat,a,-0.0014384466,,a,-0.0001508597,
+87,Sports & Fitness,43,861,gpt-4,chat,a,-0.7129962,-0.7515227,b,,-0.0065993215
+36,Healthcare & Medicine,31,862,gpt-4,chat,a,-0.105594635,,b,,-0.043321382
+69,Psychology & Sociology,40,863,gpt-4,chat,a,-9.1742026e-05,,a,-0.0056825182,-5.3181825
+3,Art & Design,26,864,gpt-4,chat,a,-0.0024391473,,a,-0.003977597,
+69,Psychology & Sociology,26,865,gpt-4,chat,a,-0.00020783172,,a,-0.002144074,
+51,Hobbies & Leisure,4,866,gpt-4,chat,a,-0.29014808,,b,,-0.011541584
+79,Social Issues & Ethics,39,867,gpt-4,chat,a,-0.0034775976,,a,-0.00042137867,
+15,Careers & Employment,23,868,gpt-4,chat,a,-6.134509e-05,,a,-0.00024727348,
+21,Entertainment,40,869,gpt-4,chat,a,-0.0011916565,,a,-0.0076908665,
+84,Sports & Fitness,2,870,gpt-4,chat,a,-0.0006856294,,a,-0.00059711613,
+5,Art & Design,28,871,gpt-4,chat,b,,-0.0071182493,b,,-0.00625997
+56,Law & Legal Issues,16,872,gpt-4,chat,a,-0.00095767423,,a,-0.0015516406,
+79,Social Issues & Ethics,11,873,gpt-4,chat,a,-0.009756443,,a,-0.031424183,
+29,Fashion & Beauty,42,874,gpt-4,chat,a,-0.046898294,,a,-0.0026619814,
+93,Travel & Tourism,34,875,gpt-4,chat,a,-0.5366682,,b,,-0.57688195
+80,Social Issues & Ethics,5,876,gpt-4,chat,a,-0.0008989581,,a,-0.0032008851,
+5,Art & Design,38,877,gpt-4,chat,a,-0.083438255,-2.5693772,b,-3.4752042,-0.035177093
+61,Philosophy & Religion,38,878,gpt-4,chat,b,-2.001723,-0.24378851,b,-11.5000105,-1.0206721e-05
+29,Fashion & Beauty,34,879,gpt-4,chat,b,,-0.14622785,b,,-0.0067685377
+39,Healthcare & Medicine,35,880,gpt-4,chat,a,-0.14898667,,b,,-0.04707618
+47,Hobbies & Leisure,5,881,gpt-4,chat,a,-0.00055613206,,b,,-0.0037663514
+28,Fashion & Beauty,23,882,gpt-4,chat,a,-0.00069110905,,a,-0.0018059646,
+55,Law & Legal Issues,10,883,gpt-4,chat,a,-9.639097e-05,,a,-5.8603408e-05,
+14,Careers & Employment,8,884,gpt-4,chat,a,-0.004780169,,a,-0.00028040475,
+14,Careers & Employment,15,885,gpt-4,chat,a,-0.0006994497,,a,-0.0035088456,
+62,Politics & Governance,25,886,gpt-4,chat,a,-0.07430837,,a,-0.0014142813,
+54,Law & Legal Issues,14,887,gpt-4,chat,a,-6.704273e-07,-14.312501,a,-0.00011951648,
+79,Social Issues & Ethics,8,888,gpt-4,chat,a,-0.0034045402,,a,-0.07658445,
+33,Food & Culinary,11,889,gpt-4,chat,b,,-0.0003832445,b,,-0.002496468
+91,Travel & Tourism,6,890,gpt-4,chat,b,,-0.0033231499,b,,-0.0012852332
+34,Food & Culinary,10,891,gpt-4,chat,a,-0.0045201965,,a,-0.01592855,
+30,Fashion & Beauty,2,892,gpt-4,chat,a,-0.0041049966,,a,-0.0022761042,
+93,Travel & Tourism,2,893,gpt-4,chat,a,-0.40454584,,b,,-0.0068151853
+52,Law & Legal Issues,5,894,gpt-4,chat,a,-0.00022201329,,a,-0.00010676169,
+28,Fashion & Beauty,15,895,gpt-4,chat,b,,-1.4372482,b,,-0.18138255
+81,Social Issues & Ethics,1,896,gpt-4,chat,a,-0.006117794,,a,-0.0773412,
+36,Healthcare & Medicine,14,897,gpt-4,chat,a,-0.0050053285,,a,-0.0059626913,
+16,Education & Learning,15,898,gpt-4,chat,a,-8.7212284e-05,,a,-0.00037156625,
+58,Philosophy & Religion,7,899,gpt-4,chat,a,-0.0018906725,,a,-0.00087489735,
+76,Science & Technology,4,900,gpt-4,chat,a,-0.00031973462,,a,-0.021735905,
+21,Entertainment,9,901,gpt-4,chat,a,-0.0057332446,,a,-0.039559077,
+78,Science & Technology,5,902,gpt-4,chat,a,-0.0024329745,-6.3589716,a,-0.004796546,
+43,History & Archaeology,1,903,gpt-4,chat,a,-0.72324723,-0.81664246,b,,-0.00073398574
+14,Careers & Employment,9,904,gpt-4,chat,a,-0.0003211614,,a,-0.005904265,
+5,Art & Design,7,905,gpt-4,chat,a,-0.00025835942,,b,,-0.019436594
+2,Art & Design,8,906,gpt-4,chat,a,-0.00025323365,,a,-1.5213274e-05,
+88,Sports & Fitness,1,907,gpt-4,chat,b,,-0.00684218,b,,-0.000711359
+63,Politics & Governance,1,908,gpt-4,chat,a,-0.0035424554,,b,,-0.0002477503
+33,Food & Culinary,7,909,gpt-4,chat,a,-0.2600938,-1.7175409,b,,-0.004706138
+23,Entertainment,5,910,gpt-4,chat,a,-0.0033173307,,b,-4.8962846,-0.0077672745
+43,History & Archaeology,2,911,gpt-4,chat,b,,-0.04196787,b,,-0.0053963265
+19,Education & Learning,2,912,gpt-4,chat,a,-0.009023652,,b,,-0.00044342037
+36,Healthcare & Medicine,2,913,gpt-4,chat,a,-0.0003035266,,a,-0.002175243,
+1,Art & Design,2,914,gpt-4,chat,a,-0.0005661378,,b,,-0.0046984265
+83,Social Issues & Ethics,1,915,gpt-4,chat,a,-0.0017370629,,b,,-0.00016957101

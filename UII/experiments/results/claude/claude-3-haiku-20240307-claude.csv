@@ -1,0 +1,916 @@
+batch,topic,example,model,api,response_1,response_2
+63,Politics & Governance,1,claude-3-haiku-20240307,chat,a,b
+66,Politics & Governance,2,claude-3-haiku-20240307,chat,a,a
+44,History & Archaeology,3,claude-3-haiku-20240307,chat,a,a
+81,Social Issues & Ethics,4,claude-3-haiku-20240307,chat,a,b
+7,Business & Finance,5,claude-3-haiku-20240307,chat,a,a
+81,Social Issues & Ethics,6,claude-3-haiku-20240307,chat,a,a
+84,Sports & Fitness,7,claude-3-haiku-20240307,chat,a,a
+30,Fashion & Beauty,8,claude-3-haiku-20240307,chat,a,a
+36,Healthcare & Medicine,9,claude-3-haiku-20240307,chat,b,a
+78,Science & Technology,10,claude-3-haiku-20240307,chat,b,b
+93,Travel & Tourism,11,claude-3-haiku-20240307,chat,a,a
+77,Science & Technology,12,claude-3-haiku-20240307,chat,a,a
+80,Social Issues & Ethics,13,claude-3-haiku-20240307,chat,a,b
+44,History & Archaeology,14,claude-3-haiku-20240307,chat,b,a
+21,Entertainment,15,claude-3-haiku-20240307,chat,a,b
+58,Philosophy & Religion,16,claude-3-haiku-20240307,chat,b,b
+11,Careers & Employment,17,claude-3-haiku-20240307,chat,a,a
+19,Education & Learning,18,claude-3-haiku-20240307,chat,a,a
+51,Hobbies & Leisure,19,claude-3-haiku-20240307,chat,b,b
+1,Art & Design,20,claude-3-haiku-20240307,chat,a,a
+32,Food & Culinary,21,claude-3-haiku-20240307,chat,b,b
+43,History & Archaeology,22,claude-3-haiku-20240307,chat,a,a
+7,Business & Finance,23,claude-3-haiku-20240307,chat,a,a
+30,Fashion & Beauty,24,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,25,claude-3-haiku-20240307,chat,a,a
+27,Fashion & Beauty,26,claude-3-haiku-20240307,chat,a,b
+47,Hobbies & Leisure,27,claude-3-haiku-20240307,chat,a,a
+18,Education & Learning,28,claude-3-haiku-20240307,chat,a,a
+47,Hobbies & Leisure,29,claude-3-haiku-20240307,chat,b,a
+75,Science & Technology,30,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,31,claude-3-haiku-20240307,chat,a,b
+10,Business & Finance,32,claude-3-haiku-20240307,chat,a,a
+85,Sports & Fitness,33,claude-3-haiku-20240307,chat,a,b
+58,Philosophy & Religion,34,claude-3-haiku-20240307,chat,a,b
+45,History & Archaeology,35,claude-3-haiku-20240307,chat,a,b
+71,Psychology & Sociology,36,claude-3-haiku-20240307,chat,a,ERROR
+91,Travel & Tourism,37,claude-3-haiku-20240307,chat,a,b
+58,Philosophy & Religion,38,claude-3-haiku-20240307,chat,a,a
+17,Education & Learning,39,claude-3-haiku-20240307,chat,a,a
+85,Sports & Fitness,40,claude-3-haiku-20240307,chat,a,b
+45,History & Archaeology,41,claude-3-haiku-20240307,chat,b,b
+37,Healthcare & Medicine,42,claude-3-haiku-20240307,chat,a,a
+79,Social Issues & Ethics,43,claude-3-haiku-20240307,chat,a,a
+35,Food & Culinary,44,claude-3-haiku-20240307,chat,a,b
+13,Careers & Employment,45,claude-3-haiku-20240307,chat,a,a
+17,Education & Learning,46,claude-3-haiku-20240307,chat,a,a
+46,History & Archaeology,47,claude-3-haiku-20240307,chat,a,a
+18,Education & Learning,48,claude-3-haiku-20240307,chat,a,b
+53,Law & Legal Issues,49,claude-3-haiku-20240307,chat,a,a
+15,Careers & Employment,50,claude-3-haiku-20240307,chat,a,a
+83,Social Issues & Ethics,51,claude-3-haiku-20240307,chat,a,b
+3,Art & Design,52,claude-3-haiku-20240307,chat,a,a
+56,Law & Legal Issues,53,claude-3-haiku-20240307,chat,a,a
+41,History & Archaeology,54,claude-3-haiku-20240307,chat,b,b
+30,Fashion & Beauty,55,claude-3-haiku-20240307,chat,a,a
+55,Law & Legal Issues,56,claude-3-haiku-20240307,chat,a,a
+62,Politics & Governance,57,claude-3-haiku-20240307,chat,a,a
+93,Travel & Tourism,58,claude-3-haiku-20240307,chat,a,b
+27,Fashion & Beauty,59,claude-3-haiku-20240307,chat,a,b
+74,Science & Technology,60,claude-3-haiku-20240307,chat,a,a
+17,Education & Learning,61,claude-3-haiku-20240307,chat,a,a
+24,Entertainment,62,claude-3-haiku-20240307,chat,b,b
+87,Sports & Fitness,63,claude-3-haiku-20240307,chat,a,a
+54,Law & Legal Issues,64,claude-3-haiku-20240307,chat,a,a
+84,Sports & Fitness,65,claude-3-haiku-20240307,chat,a,a
+11,Careers & Employment,66,claude-3-haiku-20240307,chat,a,a
+72,Psychology & Sociology,67,claude-3-haiku-20240307,chat,a,a
+82,Social Issues & Ethics,68,claude-3-haiku-20240307,chat,b,a
+43,History & Archaeology,69,claude-3-haiku-20240307,chat,a,a
+10,Business & Finance,70,claude-3-haiku-20240307,chat,a,a
+64,Politics & Governance,71,claude-3-haiku-20240307,chat,a,a
+54,Law & Legal Issues,72,claude-3-haiku-20240307,chat,a,ERROR
+39,Healthcare & Medicine,73,claude-3-haiku-20240307,chat,b,a
+43,History & Archaeology,74,claude-3-haiku-20240307,chat,a,a
+5,Art & Design,75,claude-3-haiku-20240307,chat,a,b
+80,Social Issues & Ethics,76,claude-3-haiku-20240307,chat,a,ERROR
+86,Sports & Fitness,77,claude-3-haiku-20240307,chat,a,a
+11,Careers & Employment,78,claude-3-haiku-20240307,chat,a,a
+90,Travel & Tourism,79,claude-3-haiku-20240307,chat,a,a
+82,Social Issues & Ethics,80,claude-3-haiku-20240307,chat,a,b
+32,Food & Culinary,81,claude-3-haiku-20240307,chat,b,b
+69,Psychology & Sociology,82,claude-3-haiku-20240307,chat,b,a
+51,Hobbies & Leisure,83,claude-3-haiku-20240307,chat,a,b
+81,Social Issues & Ethics,84,claude-3-haiku-20240307,chat,a,b
+66,Politics & Governance,85,claude-3-haiku-20240307,chat,a,b
+27,Fashion & Beauty,86,claude-3-haiku-20240307,chat,a,a
+48,Hobbies & Leisure,87,claude-3-haiku-20240307,chat,b,b
+68,Psychology & Sociology,88,claude-3-haiku-20240307,chat,a,b
+52,Law & Legal Issues,89,claude-3-haiku-20240307,chat,a,a
+18,Education & Learning,90,claude-3-haiku-20240307,chat,a,b
+54,Law & Legal Issues,91,claude-3-haiku-20240307,chat,a,ERROR
+50,Hobbies & Leisure,92,claude-3-haiku-20240307,chat,a,a
+74,Science & Technology,93,claude-3-haiku-20240307,chat,a,a
+22,Entertainment,94,claude-3-haiku-20240307,chat,b,b
+68,Psychology & Sociology,95,claude-3-haiku-20240307,chat,a,b
+63,Politics & Governance,96,claude-3-haiku-20240307,chat,a,a
+22,Entertainment,97,claude-3-haiku-20240307,chat,b,b
+51,Hobbies & Leisure,98,claude-3-haiku-20240307,chat,a,a
+29,Fashion & Beauty,99,claude-3-haiku-20240307,chat,a,b
+43,History & Archaeology,100,claude-3-haiku-20240307,chat,a,b
+45,History & Archaeology,101,claude-3-haiku-20240307,chat,b,b
+23,Entertainment,102,claude-3-haiku-20240307,chat,b,b
+47,Hobbies & Leisure,103,claude-3-haiku-20240307,chat,b,b
+83,Social Issues & Ethics,104,claude-3-haiku-20240307,chat,b,b
+2,Art & Design,105,claude-3-haiku-20240307,chat,a,a
+19,Education & Learning,106,claude-3-haiku-20240307,chat,a,a
+73,Science & Technology,107,claude-3-haiku-20240307,chat,a,a
+55,Law & Legal Issues,108,claude-3-haiku-20240307,chat,a,a
+61,Philosophy & Religion,109,claude-3-haiku-20240307,chat,b,b
+38,Healthcare & Medicine,110,claude-3-haiku-20240307,chat,b,a
+33,Food & Culinary,111,claude-3-haiku-20240307,chat,a,a
+31,Food & Culinary,112,claude-3-haiku-20240307,chat,a,a
+48,Hobbies & Leisure,113,claude-3-haiku-20240307,chat,b,b
+16,Education & Learning,114,claude-3-haiku-20240307,chat,a,a
+26,Fashion & Beauty,115,claude-3-haiku-20240307,chat,b,b
+32,Food & Culinary,116,claude-3-haiku-20240307,chat,b,b
+50,Hobbies & Leisure,117,claude-3-haiku-20240307,chat,a,a
+65,Politics & Governance,118,claude-3-haiku-20240307,chat,a,ERROR
+57,Philosophy & Religion,119,claude-3-haiku-20240307,chat,a,a
+60,Philosophy & Religion,120,claude-3-haiku-20240307,chat,a,a
+88,Sports & Fitness,121,claude-3-haiku-20240307,chat,b,b
+77,Science & Technology,122,claude-3-haiku-20240307,chat,a,a
+17,Education & Learning,123,claude-3-haiku-20240307,chat,a,a
+53,Law & Legal Issues,124,claude-3-haiku-20240307,chat,a,a
+22,Entertainment,125,claude-3-haiku-20240307,chat,b,b
+19,Education & Learning,126,claude-3-haiku-20240307,chat,a,b
+22,Entertainment,127,claude-3-haiku-20240307,chat,a,b
+91,Travel & Tourism,128,claude-3-haiku-20240307,chat,a,b
+10,Business & Finance,129,claude-3-haiku-20240307,chat,a,b
+69,Psychology & Sociology,130,claude-3-haiku-20240307,chat,a,a
+55,Law & Legal Issues,131,claude-3-haiku-20240307,chat,a,a
+4,Art & Design,132,claude-3-haiku-20240307,chat,a,a
+18,Education & Learning,133,claude-3-haiku-20240307,chat,a,a
+18,Education & Learning,134,claude-3-haiku-20240307,chat,a,b
+63,Politics & Governance,135,claude-3-haiku-20240307,chat,a,a
+23,Entertainment,136,claude-3-haiku-20240307,chat,b,a
+37,Healthcare & Medicine,137,claude-3-haiku-20240307,chat,a,a
+24,Entertainment,138,claude-3-haiku-20240307,chat,b,b
+29,Fashion & Beauty,139,claude-3-haiku-20240307,chat,b,a
+46,History & Archaeology,140,claude-3-haiku-20240307,chat,a,a
+70,Psychology & Sociology,141,claude-3-haiku-20240307,chat,b,a
+13,Careers & Employment,142,claude-3-haiku-20240307,chat,a,a
+61,Philosophy & Religion,143,claude-3-haiku-20240307,chat,b,b
+25,Entertainment,144,claude-3-haiku-20240307,chat,a,a
+80,Social Issues & Ethics,145,claude-3-haiku-20240307,chat,a,b
+75,Science & Technology,146,claude-3-haiku-20240307,chat,b,b
+40,Healthcare & Medicine,147,claude-3-haiku-20240307,chat,a,a
+59,Philosophy & Religion,148,claude-3-haiku-20240307,chat,a,a
+19,Education & Learning,149,claude-3-haiku-20240307,chat,a,a
+87,Sports & Fitness,150,claude-3-haiku-20240307,chat,a,a
+14,Careers & Employment,151,claude-3-haiku-20240307,chat,a,b
+24,Entertainment,152,claude-3-haiku-20240307,chat,b,b
+80,Social Issues & Ethics,153,claude-3-haiku-20240307,chat,a,a
+92,Travel & Tourism,154,claude-3-haiku-20240307,chat,b,b
+1,Art & Design,155,claude-3-haiku-20240307,chat,a,b
+23,Entertainment,156,claude-3-haiku-20240307,chat,a,a
+78,Science & Technology,157,claude-3-haiku-20240307,chat,a,a
+64,Politics & Governance,158,claude-3-haiku-20240307,chat,a,a
+2,Art & Design,159,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,160,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,161,claude-3-haiku-20240307,chat,b,b
+87,Sports & Fitness,162,claude-3-haiku-20240307,chat,a,a
+79,Social Issues & Ethics,163,claude-3-haiku-20240307,chat,ERROR,ERROR
+10,Business & Finance,164,claude-3-haiku-20240307,chat,a,a
+73,Science & Technology,165,claude-3-haiku-20240307,chat,b,a
+89,Travel & Tourism,166,claude-3-haiku-20240307,chat,a,a
+76,Science & Technology,167,claude-3-haiku-20240307,chat,a,a
+38,Healthcare & Medicine,168,claude-3-haiku-20240307,chat,b,b
+72,Psychology & Sociology,169,claude-3-haiku-20240307,chat,a,b
+15,Careers & Employment,170,claude-3-haiku-20240307,chat,a,a
+79,Social Issues & Ethics,171,claude-3-haiku-20240307,chat,a,a
+86,Sports & Fitness,172,claude-3-haiku-20240307,chat,a,b
+28,Fashion & Beauty,173,claude-3-haiku-20240307,chat,a,b
+88,Sports & Fitness,174,claude-3-haiku-20240307,chat,a,a
+11,Careers & Employment,175,claude-3-haiku-20240307,chat,a,a
+32,Food & Culinary,176,claude-3-haiku-20240307,chat,b,a
+50,Hobbies & Leisure,177,claude-3-haiku-20240307,chat,a,a
+89,Travel & Tourism,178,claude-3-haiku-20240307,chat,a,a
+25,Entertainment,179,claude-3-haiku-20240307,chat,a,b
+55,Law & Legal Issues,180,claude-3-haiku-20240307,chat,a,a
+14,Careers & Employment,181,claude-3-haiku-20240307,chat,a,a
+52,Law & Legal Issues,182,claude-3-haiku-20240307,chat,a,a
+40,Healthcare & Medicine,183,claude-3-haiku-20240307,chat,a,b
+76,Science & Technology,184,claude-3-haiku-20240307,chat,a,a
+22,Entertainment,185,claude-3-haiku-20240307,chat,a,b
+25,Entertainment,186,claude-3-haiku-20240307,chat,a,b
+32,Food & Culinary,187,claude-3-haiku-20240307,chat,a,a
+49,Hobbies & Leisure,188,claude-3-haiku-20240307,chat,a,a
+65,Politics & Governance,189,claude-3-haiku-20240307,chat,a,ERROR
+41,History & Archaeology,190,claude-3-haiku-20240307,chat,a,b
+41,History & Archaeology,191,claude-3-haiku-20240307,chat,a,b
+38,Healthcare & Medicine,192,claude-3-haiku-20240307,chat,a,b
+51,Hobbies & Leisure,193,claude-3-haiku-20240307,chat,b,a
+52,Law & Legal Issues,194,claude-3-haiku-20240307,chat,a,a
+21,Entertainment,195,claude-3-haiku-20240307,chat,b,b
+43,History & Archaeology,196,claude-3-haiku-20240307,chat,a,b
+64,Politics & Governance,197,claude-3-haiku-20240307,chat,a,a
+83,Social Issues & Ethics,198,claude-3-haiku-20240307,chat,b,a
+81,Social Issues & Ethics,199,claude-3-haiku-20240307,chat,a,a
+91,Travel & Tourism,200,claude-3-haiku-20240307,chat,a,b
+16,Education & Learning,201,claude-3-haiku-20240307,chat,a,a
+51,Hobbies & Leisure,202,claude-3-haiku-20240307,chat,a,a
+65,Politics & Governance,203,claude-3-haiku-20240307,chat,a,ERROR
+62,Politics & Governance,204,claude-3-haiku-20240307,chat,a,a
+76,Science & Technology,205,claude-3-haiku-20240307,chat,a,a
+9,Business & Finance,206,claude-3-haiku-20240307,chat,b,b
+68,Psychology & Sociology,207,claude-3-haiku-20240307,chat,b,b
+49,Hobbies & Leisure,208,claude-3-haiku-20240307,chat,b,a
+93,Travel & Tourism,209,claude-3-haiku-20240307,chat,a,a
+37,Healthcare & Medicine,210,claude-3-haiku-20240307,chat,b,a
+1,Art & Design,211,claude-3-haiku-20240307,chat,a,a
+23,Entertainment,212,claude-3-haiku-20240307,chat,a,b
+20,Education & Learning,213,claude-3-haiku-20240307,chat,a,a
+23,Entertainment,214,claude-3-haiku-20240307,chat,a,a
+64,Politics & Governance,215,claude-3-haiku-20240307,chat,b,a
+8,Business & Finance,216,claude-3-haiku-20240307,chat,a,a
+7,Business & Finance,217,claude-3-haiku-20240307,chat,a,a
+3,Art & Design,218,claude-3-haiku-20240307,chat,a,b
+23,Entertainment,219,claude-3-haiku-20240307,chat,a,a
+56,Law & Legal Issues,220,claude-3-haiku-20240307,chat,a,a
+34,Food & Culinary,221,claude-3-haiku-20240307,chat,a,b
+85,Sports & Fitness,222,claude-3-haiku-20240307,chat,b,a
+29,Fashion & Beauty,223,claude-3-haiku-20240307,chat,b,a
+4,Art & Design,224,claude-3-haiku-20240307,chat,a,a
+82,Social Issues & Ethics,225,claude-3-haiku-20240307,chat,a,b
+30,Fashion & Beauty,226,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,227,claude-3-haiku-20240307,chat,a,b
+61,Philosophy & Religion,228,claude-3-haiku-20240307,chat,a,b
+4,Art & Design,229,claude-3-haiku-20240307,chat,a,a
+5,Art & Design,230,claude-3-haiku-20240307,chat,a,a
+71,Psychology & Sociology,231,claude-3-haiku-20240307,chat,b,a
+73,Science & Technology,232,claude-3-haiku-20240307,chat,a,a
+29,Fashion & Beauty,233,claude-3-haiku-20240307,chat,b,b
+10,Business & Finance,234,claude-3-haiku-20240307,chat,a,a
+5,Art & Design,235,claude-3-haiku-20240307,chat,a,b
+30,Fashion & Beauty,236,claude-3-haiku-20240307,chat,a,a
+26,Fashion & Beauty,237,claude-3-haiku-20240307,chat,a,b
+40,Healthcare & Medicine,238,claude-3-haiku-20240307,chat,a,a
+90,Travel & Tourism,239,claude-3-haiku-20240307,chat,a,a
+55,Law & Legal Issues,240,claude-3-haiku-20240307,chat,a,ERROR
+62,Politics & Governance,241,claude-3-haiku-20240307,chat,a,a
+49,Hobbies & Leisure,242,claude-3-haiku-20240307,chat,a,a
+44,History & Archaeology,243,claude-3-haiku-20240307,chat,a,b
+73,Science & Technology,244,claude-3-haiku-20240307,chat,a,a
+9,Business & Finance,245,claude-3-haiku-20240307,chat,a,a
+46,History & Archaeology,246,claude-3-haiku-20240307,chat,a,a
+25,Entertainment,247,claude-3-haiku-20240307,chat,a,a
+4,Art & Design,248,claude-3-haiku-20240307,chat,a,a
+82,Social Issues & Ethics,249,claude-3-haiku-20240307,chat,a,b
+11,Careers & Employment,250,claude-3-haiku-20240307,chat,a,a
+74,Science & Technology,251,claude-3-haiku-20240307,chat,a,a
+20,Education & Learning,252,claude-3-haiku-20240307,chat,a,b
+24,Entertainment,253,claude-3-haiku-20240307,chat,b,a
+89,Travel & Tourism,254,claude-3-haiku-20240307,chat,a,a
+31,Food & Culinary,255,claude-3-haiku-20240307,chat,a,a
+13,Careers & Employment,256,claude-3-haiku-20240307,chat,a,a
+86,Sports & Fitness,257,claude-3-haiku-20240307,chat,a,b
+84,Sports & Fitness,258,claude-3-haiku-20240307,chat,a,a
+57,Philosophy & Religion,259,claude-3-haiku-20240307,chat,a,a
+40,Healthcare & Medicine,260,claude-3-haiku-20240307,chat,b,b
+87,Sports & Fitness,261,claude-3-haiku-20240307,chat,a,a
+65,Politics & Governance,262,claude-3-haiku-20240307,chat,a,a
+45,History & Archaeology,263,claude-3-haiku-20240307,chat,b,b
+74,Science & Technology,264,claude-3-haiku-20240307,chat,a,a
+78,Science & Technology,265,claude-3-haiku-20240307,chat,a,a
+58,Philosophy & Religion,266,claude-3-haiku-20240307,chat,a,b
+82,Social Issues & Ethics,267,claude-3-haiku-20240307,chat,b,b
+47,Hobbies & Leisure,268,claude-3-haiku-20240307,chat,b,b
+39,Healthcare & Medicine,269,claude-3-haiku-20240307,chat,a,b
+88,Sports & Fitness,270,claude-3-haiku-20240307,chat,b,b
+21,Entertainment,271,claude-3-haiku-20240307,chat,a,a
+59,Philosophy & Religion,272,claude-3-haiku-20240307,chat,a,b
+56,Law & Legal Issues,273,claude-3-haiku-20240307,chat,a,a
+47,Hobbies & Leisure,274,claude-3-haiku-20240307,chat,b,a
+53,Law & Legal Issues,275,claude-3-haiku-20240307,chat,a,a
+48,Hobbies & Leisure,276,claude-3-haiku-20240307,chat,a,b
+12,Careers & Employment,277,claude-3-haiku-20240307,chat,a,a
+52,Law & Legal Issues,278,claude-3-haiku-20240307,chat,a,a
+53,Law & Legal Issues,279,claude-3-haiku-20240307,chat,ERROR,ERROR
+66,Politics & Governance,280,claude-3-haiku-20240307,chat,a,a
+91,Travel & Tourism,281,claude-3-haiku-20240307,chat,a,b
+31,Food & Culinary,282,claude-3-haiku-20240307,chat,a,b
+92,Travel & Tourism,283,claude-3-haiku-20240307,chat,b,b
+93,Travel & Tourism,284,claude-3-haiku-20240307,chat,a,a
+74,Science & Technology,285,claude-3-haiku-20240307,chat,a,a
+7,Business & Finance,286,claude-3-haiku-20240307,chat,a,a
+70,Psychology & Sociology,287,claude-3-haiku-20240307,chat,a,a
+13,Careers & Employment,288,claude-3-haiku-20240307,chat,a,a
+41,History & Archaeology,289,claude-3-haiku-20240307,chat,b,a
+66,Politics & Governance,290,claude-3-haiku-20240307,chat,a,b
+17,Education & Learning,291,claude-3-haiku-20240307,chat,a,a
+51,Hobbies & Leisure,292,claude-3-haiku-20240307,chat,a,a
+79,Social Issues & Ethics,293,claude-3-haiku-20240307,chat,a,a
+1,Art & Design,294,claude-3-haiku-20240307,chat,a,a
+50,Hobbies & Leisure,295,claude-3-haiku-20240307,chat,a,b
+33,Food & Culinary,296,claude-3-haiku-20240307,chat,a,b
+85,Sports & Fitness,297,claude-3-haiku-20240307,chat,b,b
+83,Social Issues & Ethics,298,claude-3-haiku-20240307,chat,a,b
+73,Science & Technology,299,claude-3-haiku-20240307,chat,a,b
+20,Education & Learning,300,claude-3-haiku-20240307,chat,a,a
+71,Psychology & Sociology,301,claude-3-haiku-20240307,chat,a,a
+35,Food & Culinary,302,claude-3-haiku-20240307,chat,b,b
+19,Education & Learning,303,claude-3-haiku-20240307,chat,a,b
+55,Law & Legal Issues,304,claude-3-haiku-20240307,chat,a,a
+9,Business & Finance,305,claude-3-haiku-20240307,chat,b,b
+78,Science & Technology,306,claude-3-haiku-20240307,chat,b,b
+83,Social Issues & Ethics,307,claude-3-haiku-20240307,chat,b,b
+9,Business & Finance,308,claude-3-haiku-20240307,chat,a,b
+12,Careers & Employment,309,claude-3-haiku-20240307,chat,a,a
+41,History & Archaeology,310,claude-3-haiku-20240307,chat,a,a
+73,Science & Technology,311,claude-3-haiku-20240307,chat,a,a
+42,History & Archaeology,312,claude-3-haiku-20240307,chat,b,b
+28,Fashion & Beauty,313,claude-3-haiku-20240307,chat,a,b
+18,Education & Learning,314,claude-3-haiku-20240307,chat,b,b
+7,Business & Finance,315,claude-3-haiku-20240307,chat,a,a
+58,Philosophy & Religion,316,claude-3-haiku-20240307,chat,b,b
+13,Careers & Employment,317,claude-3-haiku-20240307,chat,a,a
+89,Travel & Tourism,318,claude-3-haiku-20240307,chat,a,a
+15,Careers & Employment,319,claude-3-haiku-20240307,chat,a,a
+44,History & Archaeology,320,claude-3-haiku-20240307,chat,a,b
+27,Fashion & Beauty,321,claude-3-haiku-20240307,chat,a,b
+43,History & Archaeology,322,claude-3-haiku-20240307,chat,a,a
+84,Sports & Fitness,323,claude-3-haiku-20240307,chat,a,a
+74,Science & Technology,324,claude-3-haiku-20240307,chat,a,a
+79,Social Issues & Ethics,325,claude-3-haiku-20240307,chat,a,a
+45,History & Archaeology,326,claude-3-haiku-20240307,chat,a,b
+78,Science & Technology,327,claude-3-haiku-20240307,chat,a,b
+30,Fashion & Beauty,328,claude-3-haiku-20240307,chat,a,a
+20,Education & Learning,329,claude-3-haiku-20240307,chat,a,a
+40,Healthcare & Medicine,330,claude-3-haiku-20240307,chat,a,b
+18,Education & Learning,331,claude-3-haiku-20240307,chat,a,b
+34,Food & Culinary,332,claude-3-haiku-20240307,chat,b,b
+85,Sports & Fitness,333,claude-3-haiku-20240307,chat,b,b
+20,Education & Learning,334,claude-3-haiku-20240307,chat,a,a
+61,Philosophy & Religion,335,claude-3-haiku-20240307,chat,a,b
+4,Art & Design,336,claude-3-haiku-20240307,chat,a,a
+19,Education & Learning,337,claude-3-haiku-20240307,chat,a,a
+3,Art & Design,338,claude-3-haiku-20240307,chat,a,b
+8,Business & Finance,339,claude-3-haiku-20240307,chat,a,a
+79,Social Issues & Ethics,340,claude-3-haiku-20240307,chat,a,b
+26,Fashion & Beauty,341,claude-3-haiku-20240307,chat,b,b
+64,Politics & Governance,342,claude-3-haiku-20240307,chat,a,a
+42,History & Archaeology,343,claude-3-haiku-20240307,chat,b,a
+16,Education & Learning,344,claude-3-haiku-20240307,chat,a,a
+73,Science & Technology,345,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,346,claude-3-haiku-20240307,chat,a,a
+9,Business & Finance,347,claude-3-haiku-20240307,chat,a,a
+80,Social Issues & Ethics,348,claude-3-haiku-20240307,chat,a,a
+62,Politics & Governance,349,claude-3-haiku-20240307,chat,b,a
+58,Philosophy & Religion,350,claude-3-haiku-20240307,chat,a,a
+39,Healthcare & Medicine,351,claude-3-haiku-20240307,chat,a,a
+70,Psychology & Sociology,352,claude-3-haiku-20240307,chat,a,b
+9,Business & Finance,353,claude-3-haiku-20240307,chat,a,b
+10,Business & Finance,354,claude-3-haiku-20240307,chat,a,a
+1,Art & Design,355,claude-3-haiku-20240307,chat,a,a
+31,Food & Culinary,356,claude-3-haiku-20240307,chat,a,a
+43,History & Archaeology,357,claude-3-haiku-20240307,chat,a,b
+61,Philosophy & Religion,358,claude-3-haiku-20240307,chat,a,b
+50,Hobbies & Leisure,359,claude-3-haiku-20240307,chat,a,a
+8,Business & Finance,360,claude-3-haiku-20240307,chat,a,a
+24,Entertainment,361,claude-3-haiku-20240307,chat,b,b
+33,Food & Culinary,362,claude-3-haiku-20240307,chat,a,b
+17,Education & Learning,363,claude-3-haiku-20240307,chat,a,a
+22,Entertainment,364,claude-3-haiku-20240307,chat,a,b
+34,Food & Culinary,365,claude-3-haiku-20240307,chat,a,a
+63,Politics & Governance,366,claude-3-haiku-20240307,chat,a,b
+37,Healthcare & Medicine,367,claude-3-haiku-20240307,chat,a,b
+77,Science & Technology,368,claude-3-haiku-20240307,chat,a,a
+89,Travel & Tourism,369,claude-3-haiku-20240307,chat,a,b
+59,Philosophy & Religion,370,claude-3-haiku-20240307,chat,a,b
+46,History & Archaeology,371,claude-3-haiku-20240307,chat,b,a
+15,Careers & Employment,372,claude-3-haiku-20240307,chat,a,b
+16,Education & Learning,373,claude-3-haiku-20240307,chat,a,a
+90,Travel & Tourism,374,claude-3-haiku-20240307,chat,b,b
+56,Law & Legal Issues,375,claude-3-haiku-20240307,chat,a,a
+7,Business & Finance,376,claude-3-haiku-20240307,chat,a,a
+87,Sports & Fitness,377,claude-3-haiku-20240307,chat,a,b
+10,Business & Finance,378,claude-3-haiku-20240307,chat,a,a
+34,Food & Culinary,379,claude-3-haiku-20240307,chat,a,b
+54,Law & Legal Issues,380,claude-3-haiku-20240307,chat,ERROR,ERROR
+33,Food & Culinary,381,claude-3-haiku-20240307,chat,b,b
+20,Education & Learning,382,claude-3-haiku-20240307,chat,a,a
+54,Law & Legal Issues,383,claude-3-haiku-20240307,chat,a,a
+91,Travel & Tourism,384,claude-3-haiku-20240307,chat,a,b
+48,Hobbies & Leisure,385,claude-3-haiku-20240307,chat,a,b
+4,Art & Design,386,claude-3-haiku-20240307,chat,a,a
+68,Psychology & Sociology,387,claude-3-haiku-20240307,chat,a,b
+35,Food & Culinary,388,claude-3-haiku-20240307,chat,a,a
+80,Social Issues & Ethics,389,claude-3-haiku-20240307,chat,a,a
+3,Art & Design,390,claude-3-haiku-20240307,chat,a,a
+22,Entertainment,391,claude-3-haiku-20240307,chat,b,b
+60,Philosophy & Religion,392,claude-3-haiku-20240307,chat,a,a
+93,Travel & Tourism,393,claude-3-haiku-20240307,chat,a,a
+75,Science & Technology,394,claude-3-haiku-20240307,chat,b,a
+77,Science & Technology,395,claude-3-haiku-20240307,chat,a,a
+2,Art & Design,396,claude-3-haiku-20240307,chat,a,a
+73,Science & Technology,397,claude-3-haiku-20240307,chat,a,a
+92,Travel & Tourism,398,claude-3-haiku-20240307,chat,a,a
+49,Hobbies & Leisure,399,claude-3-haiku-20240307,chat,a,a
+2,Art & Design,400,claude-3-haiku-20240307,chat,a,a
+12,Careers & Employment,401,claude-3-haiku-20240307,chat,a,a
+81,Social Issues & Ethics,402,claude-3-haiku-20240307,chat,a,a
+26,Fashion & Beauty,403,claude-3-haiku-20240307,chat,a,b
+17,Education & Learning,404,claude-3-haiku-20240307,chat,a,a
+59,Philosophy & Religion,405,claude-3-haiku-20240307,chat,a,a
+39,Healthcare & Medicine,406,claude-3-haiku-20240307,chat,b,a
+86,Sports & Fitness,407,claude-3-haiku-20240307,chat,a,a
+34,Food & Culinary,408,claude-3-haiku-20240307,chat,b,a
+31,Food & Culinary,409,claude-3-haiku-20240307,chat,a,b
+76,Science & Technology,410,claude-3-haiku-20240307,chat,a,a
+58,Philosophy & Religion,411,claude-3-haiku-20240307,chat,a,b
+14,Careers & Employment,412,claude-3-haiku-20240307,chat,a,a
+28,Fashion & Beauty,413,claude-3-haiku-20240307,chat,a,a
+75,Science & Technology,414,claude-3-haiku-20240307,chat,a,a
+87,Sports & Fitness,415,claude-3-haiku-20240307,chat,a,a
+92,Travel & Tourism,416,claude-3-haiku-20240307,chat,a,a
+88,Sports & Fitness,417,claude-3-haiku-20240307,chat,a,b
+35,Food & Culinary,418,claude-3-haiku-20240307,chat,a,a
+60,Philosophy & Religion,419,claude-3-haiku-20240307,chat,a,a
+52,Law & Legal Issues,420,claude-3-haiku-20240307,chat,a,a
+3,Art & Design,421,claude-3-haiku-20240307,chat,a,a
+32,Food & Culinary,422,claude-3-haiku-20240307,chat,a,b
+57,Philosophy & Religion,423,claude-3-haiku-20240307,chat,a,a
+1,Art & Design,424,claude-3-haiku-20240307,chat,a,a
+15,Careers & Employment,425,claude-3-haiku-20240307,chat,a,b
+39,Healthcare & Medicine,426,claude-3-haiku-20240307,chat,a,a
+45,History & Archaeology,427,claude-3-haiku-20240307,chat,b,b
+50,Hobbies & Leisure,428,claude-3-haiku-20240307,chat,a,b
+6,Business & Finance,429,claude-3-haiku-20240307,chat,a,b
+20,Education & Learning,430,claude-3-haiku-20240307,chat,a,a
+62,Politics & Governance,431,claude-3-haiku-20240307,chat,a,a
+81,Social Issues & Ethics,432,claude-3-haiku-20240307,chat,b,b
+18,Education & Learning,433,claude-3-haiku-20240307,chat,a,b
+72,Psychology & Sociology,434,claude-3-haiku-20240307,chat,a,a
+76,Science & Technology,435,claude-3-haiku-20240307,chat,a,a
+32,Food & Culinary,436,claude-3-haiku-20240307,chat,a,b
+34,Food & Culinary,437,claude-3-haiku-20240307,chat,b,b
+27,Fashion & Beauty,438,claude-3-haiku-20240307,chat,a,a
+53,Law & Legal Issues,439,claude-3-haiku-20240307,chat,a,a
+46,History & Archaeology,440,claude-3-haiku-20240307,chat,b,a
+30,Fashion & Beauty,441,claude-3-haiku-20240307,chat,a,b
+46,History & Archaeology,442,claude-3-haiku-20240307,chat,a,a
+37,Healthcare & Medicine,443,claude-3-haiku-20240307,chat,a,b
+13,Careers & Employment,444,claude-3-haiku-20240307,chat,a,a
+15,Careers & Employment,445,claude-3-haiku-20240307,chat,a,a
+25,Entertainment,446,claude-3-haiku-20240307,chat,a,a
+35,Food & Culinary,447,claude-3-haiku-20240307,chat,a,b
+38,Healthcare & Medicine,448,claude-3-haiku-20240307,chat,a,a
+84,Sports & Fitness,449,claude-3-haiku-20240307,chat,a,b
+92,Travel & Tourism,450,claude-3-haiku-20240307,chat,a,a
+92,Travel & Tourism,451,claude-3-haiku-20240307,chat,b,b
+84,Sports & Fitness,452,claude-3-haiku-20240307,chat,a,a
+33,Food & Culinary,453,claude-3-haiku-20240307,chat,b,b
+20,Education & Learning,454,claude-3-haiku-20240307,chat,a,b
+19,Education & Learning,455,claude-3-haiku-20240307,chat,a,a
+59,Philosophy & Religion,456,claude-3-haiku-20240307,chat,a,b
+76,Science & Technology,457,claude-3-haiku-20240307,chat,a,a
+57,Philosophy & Religion,458,claude-3-haiku-20240307,chat,a,a
+66,Politics & Governance,459,claude-3-haiku-20240307,chat,a,a
+2,Art & Design,460,claude-3-haiku-20240307,chat,a,a
+46,History & Archaeology,461,claude-3-haiku-20240307,chat,a,a
+78,Science & Technology,462,claude-3-haiku-20240307,chat,a,a
+42,History & Archaeology,463,claude-3-haiku-20240307,chat,a,b
+6,Business & Finance,464,claude-3-haiku-20240307,chat,a,a
+17,Education & Learning,465,claude-3-haiku-20240307,chat,a,a
+22,Entertainment,466,claude-3-haiku-20240307,chat,a,b
+8,Business & Finance,467,claude-3-haiku-20240307,chat,a,a
+3,Art & Design,468,claude-3-haiku-20240307,chat,a,a
+69,Psychology & Sociology,469,claude-3-haiku-20240307,chat,a,a
+20,Education & Learning,470,claude-3-haiku-20240307,chat,a,a
+53,Law & Legal Issues,471,claude-3-haiku-20240307,chat,a,a
+92,Travel & Tourism,472,claude-3-haiku-20240307,chat,a,b
+33,Food & Culinary,473,claude-3-haiku-20240307,chat,a,a
+31,Food & Culinary,474,claude-3-haiku-20240307,chat,a,b
+59,Philosophy & Religion,475,claude-3-haiku-20240307,chat,a,a
+39,Healthcare & Medicine,476,claude-3-haiku-20240307,chat,a,a
+40,Healthcare & Medicine,477,claude-3-haiku-20240307,chat,a,b
+13,Careers & Employment,478,claude-3-haiku-20240307,chat,a,a
+6,Business & Finance,479,claude-3-haiku-20240307,chat,a,a
+26,Fashion & Beauty,480,claude-3-haiku-20240307,chat,b,b
+66,Politics & Governance,481,claude-3-haiku-20240307,chat,a,b
+2,Art & Design,482,claude-3-haiku-20240307,chat,a,a
+27,Fashion & Beauty,483,claude-3-haiku-20240307,chat,b,a
+90,Travel & Tourism,484,claude-3-haiku-20240307,chat,a,b
+44,History & Archaeology,485,claude-3-haiku-20240307,chat,a,a
+3,Art & Design,486,claude-3-haiku-20240307,chat,a,a
+58,Philosophy & Religion,487,claude-3-haiku-20240307,chat,a,b
+80,Social Issues & Ethics,488,claude-3-haiku-20240307,chat,a,a
+1,Art & Design,489,claude-3-haiku-20240307,chat,a,a
+4,Art & Design,490,claude-3-haiku-20240307,chat,a,a
+83,Social Issues & Ethics,491,claude-3-haiku-20240307,chat,a,a
+65,Politics & Governance,492,claude-3-haiku-20240307,chat,b,a
+93,Travel & Tourism,493,claude-3-haiku-20240307,chat,a,a
+68,Psychology & Sociology,494,claude-3-haiku-20240307,chat,b,b
+43,History & Archaeology,495,claude-3-haiku-20240307,chat,a,a
+3,Art & Design,496,claude-3-haiku-20240307,chat,a,a
+19,Education & Learning,497,claude-3-haiku-20240307,chat,a,a
+86,Sports & Fitness,498,claude-3-haiku-20240307,chat,a,b
+45,History & Archaeology,499,claude-3-haiku-20240307,chat,b,b
+17,Education & Learning,500,claude-3-haiku-20240307,chat,a,a
+35,Food & Culinary,501,claude-3-haiku-20240307,chat,a,a
+37,Healthcare & Medicine,502,claude-3-haiku-20240307,chat,a,a
+72,Psychology & Sociology,503,claude-3-haiku-20240307,chat,a,a
+36,Healthcare & Medicine,504,claude-3-haiku-20240307,chat,a,b
+74,Science & Technology,505,claude-3-haiku-20240307,chat,a,a
+18,Education & Learning,506,claude-3-haiku-20240307,chat,b,b
+17,Education & Learning,507,claude-3-haiku-20240307,chat,a,a
+89,Travel & Tourism,508,claude-3-haiku-20240307,chat,a,a
+88,Sports & Fitness,509,claude-3-haiku-20240307,chat,b,b
+38,Healthcare & Medicine,510,claude-3-haiku-20240307,chat,b,b
+80,Social Issues & Ethics,511,claude-3-haiku-20240307,chat,a,b
+36,Healthcare & Medicine,512,claude-3-haiku-20240307,chat,a,b
+36,Healthcare & Medicine,513,claude-3-haiku-20240307,chat,a,b
+72,Psychology & Sociology,514,claude-3-haiku-20240307,chat,a,b
+47,Hobbies & Leisure,515,claude-3-haiku-20240307,chat,a,b
+56,Law & Legal Issues,516,claude-3-haiku-20240307,chat,a,a
+24,Entertainment,517,claude-3-haiku-20240307,chat,b,b
+44,History & Archaeology,518,claude-3-haiku-20240307,chat,a,a
+45,History & Archaeology,519,claude-3-haiku-20240307,chat,a,b
+82,Social Issues & Ethics,520,claude-3-haiku-20240307,chat,a,a
+5,Art & Design,521,claude-3-haiku-20240307,chat,a,b
+23,Entertainment,522,claude-3-haiku-20240307,chat,a,b
+57,Philosophy & Religion,523,claude-3-haiku-20240307,chat,b,b
+34,Food & Culinary,524,claude-3-haiku-20240307,chat,a,b
+6,Business & Finance,525,claude-3-haiku-20240307,chat,a,a
+29,Fashion & Beauty,526,claude-3-haiku-20240307,chat,a,b
+72,Psychology & Sociology,527,claude-3-haiku-20240307,chat,b,b
+7,Business & Finance,528,claude-3-haiku-20240307,chat,a,a
+40,Healthcare & Medicine,529,claude-3-haiku-20240307,chat,a,a
+14,Careers & Employment,530,claude-3-haiku-20240307,chat,a,a
+36,Healthcare & Medicine,531,claude-3-haiku-20240307,chat,a,a
+24,Entertainment,532,claude-3-haiku-20240307,chat,a,a
+18,Education & Learning,533,claude-3-haiku-20240307,chat,b,b
+58,Philosophy & Religion,534,claude-3-haiku-20240307,chat,a,a
+51,Hobbies & Leisure,535,claude-3-haiku-20240307,chat,a,b
+8,Business & Finance,536,claude-3-haiku-20240307,chat,a,a
+72,Psychology & Sociology,537,claude-3-haiku-20240307,chat,b,a
+74,Science & Technology,538,claude-3-haiku-20240307,chat,b,a
+25,Entertainment,539,claude-3-haiku-20240307,chat,a,a
+83,Social Issues & Ethics,540,claude-3-haiku-20240307,chat,b,b
+39,Healthcare & Medicine,541,claude-3-haiku-20240307,chat,a,a
+77,Science & Technology,542,claude-3-haiku-20240307,chat,a,a
+8,Business & Finance,543,claude-3-haiku-20240307,chat,a,a
+7,Business & Finance,544,claude-3-haiku-20240307,chat,a,a
+90,Travel & Tourism,545,claude-3-haiku-20240307,chat,a,a
+32,Food & Culinary,546,claude-3-haiku-20240307,chat,a,a
+69,Psychology & Sociology,547,claude-3-haiku-20240307,chat,a,b
+56,Law & Legal Issues,548,claude-3-haiku-20240307,chat,a,ERROR
+55,Law & Legal Issues,549,claude-3-haiku-20240307,chat,a,a
+28,Fashion & Beauty,550,claude-3-haiku-20240307,chat,a,a
+46,History & Archaeology,551,claude-3-haiku-20240307,chat,a,a
+4,Art & Design,552,claude-3-haiku-20240307,chat,a,b
+71,Psychology & Sociology,553,claude-3-haiku-20240307,chat,a,a
+74,Science & Technology,554,claude-3-haiku-20240307,chat,a,a
+56,Law & Legal Issues,555,claude-3-haiku-20240307,chat,a,a
+6,Business & Finance,556,claude-3-haiku-20240307,chat,a,a
+70,Psychology & Sociology,557,claude-3-haiku-20240307,chat,b,b
+71,Psychology & Sociology,558,claude-3-haiku-20240307,chat,a,a
+55,Law & Legal Issues,559,claude-3-haiku-20240307,chat,a,a
+36,Healthcare & Medicine,560,claude-3-haiku-20240307,chat,a,a
+82,Social Issues & Ethics,561,claude-3-haiku-20240307,chat,b,b
+68,Psychology & Sociology,562,claude-3-haiku-20240307,chat,b,b
+31,Food & Culinary,563,claude-3-haiku-20240307,chat,a,a
+5,Art & Design,564,claude-3-haiku-20240307,chat,a,a
+35,Food & Culinary,565,claude-3-haiku-20240307,chat,b,a
+12,Careers & Employment,566,claude-3-haiku-20240307,chat,a,a
+16,Education & Learning,567,claude-3-haiku-20240307,chat,a,a
+38,Healthcare & Medicine,568,claude-3-haiku-20240307,chat,a,a
+21,Entertainment,569,claude-3-haiku-20240307,chat,a,b
+71,Psychology & Sociology,570,claude-3-haiku-20240307,chat,a,b
+68,Psychology & Sociology,571,claude-3-haiku-20240307,chat,b,b
+63,Politics & Governance,572,claude-3-haiku-20240307,chat,b,b
+76,Science & Technology,573,claude-3-haiku-20240307,chat,a,a
+9,Business & Finance,574,claude-3-haiku-20240307,chat,a,a
+54,Law & Legal Issues,575,claude-3-haiku-20240307,chat,a,a
+75,Science & Technology,576,claude-3-haiku-20240307,chat,b,b
+84,Sports & Fitness,577,claude-3-haiku-20240307,chat,a,a
+52,Law & Legal Issues,578,claude-3-haiku-20240307,chat,a,a
+69,Psychology & Sociology,579,claude-3-haiku-20240307,chat,b,a
+89,Travel & Tourism,580,claude-3-haiku-20240307,chat,a,a
+6,Business & Finance,581,claude-3-haiku-20240307,chat,a,a
+45,History & Archaeology,582,claude-3-haiku-20240307,chat,a,b
+54,Law & Legal Issues,583,claude-3-haiku-20240307,chat,a,ERROR
+35,Food & Culinary,584,claude-3-haiku-20240307,chat,a,b
+43,History & Archaeology,585,claude-3-haiku-20240307,chat,a,a
+64,Politics & Governance,586,claude-3-haiku-20240307,chat,a,a
+21,Entertainment,587,claude-3-haiku-20240307,chat,a,b
+14,Careers & Employment,588,claude-3-haiku-20240307,chat,a,a
+57,Philosophy & Religion,589,claude-3-haiku-20240307,chat,a,b
+5,Art & Design,590,claude-3-haiku-20240307,chat,a,a
+23,Entertainment,591,claude-3-haiku-20240307,chat,a,a
+53,Law & Legal Issues,592,claude-3-haiku-20240307,chat,a,a
+57,Philosophy & Religion,593,claude-3-haiku-20240307,chat,a,a
+29,Fashion & Beauty,594,claude-3-haiku-20240307,chat,b,a
+14,Careers & Employment,595,claude-3-haiku-20240307,chat,a,a
+78,Science & Technology,596,claude-3-haiku-20240307,chat,b,a
+50,Hobbies & Leisure,597,claude-3-haiku-20240307,chat,a,b
+28,Fashion & Beauty,598,claude-3-haiku-20240307,chat,b,a
+86,Sports & Fitness,599,claude-3-haiku-20240307,chat,a,a
+69,Psychology & Sociology,600,claude-3-haiku-20240307,chat,a,b
+81,Social Issues & Ethics,601,claude-3-haiku-20240307,chat,a,b
+19,Education & Learning,602,claude-3-haiku-20240307,chat,a,a
+35,Food & Culinary,603,claude-3-haiku-20240307,chat,a,a
+26,Fashion & Beauty,604,claude-3-haiku-20240307,chat,b,b
+88,Sports & Fitness,605,claude-3-haiku-20240307,chat,b,b
+59,Philosophy & Religion,606,claude-3-haiku-20240307,chat,a,b
+38,Healthcare & Medicine,607,claude-3-haiku-20240307,chat,b,a
+56,Law & Legal Issues,608,claude-3-haiku-20240307,chat,a,a
+25,Entertainment,609,claude-3-haiku-20240307,chat,a,b
+36,Healthcare & Medicine,610,claude-3-haiku-20240307,chat,a,b
+64,Politics & Governance,611,claude-3-haiku-20240307,chat,a,a
+37,Healthcare & Medicine,612,claude-3-haiku-20240307,chat,a,b
+27,Fashion & Beauty,613,claude-3-haiku-20240307,chat,a,a
+49,Hobbies & Leisure,614,claude-3-haiku-20240307,chat,a,a
+73,Science & Technology,615,claude-3-haiku-20240307,chat,a,b
+63,Politics & Governance,616,claude-3-haiku-20240307,chat,b,b
+25,Entertainment,617,claude-3-haiku-20240307,chat,a,a
+90,Travel & Tourism,618,claude-3-haiku-20240307,chat,b,b
+60,Philosophy & Religion,619,claude-3-haiku-20240307,chat,a,a
+62,Politics & Governance,620,claude-3-haiku-20240307,chat,a,b
+23,Entertainment,621,claude-3-haiku-20240307,chat,b,b
+71,Psychology & Sociology,622,claude-3-haiku-20240307,chat,a,a
+47,Hobbies & Leisure,623,claude-3-haiku-20240307,chat,b,b
+47,Hobbies & Leisure,624,claude-3-haiku-20240307,chat,a,a
+41,History & Archaeology,625,claude-3-haiku-20240307,chat,a,b
+91,Travel & Tourism,626,claude-3-haiku-20240307,chat,b,b
+66,Politics & Governance,627,claude-3-haiku-20240307,chat,a,b
+54,Law & Legal Issues,628,claude-3-haiku-20240307,chat,a,a
+28,Fashion & Beauty,629,claude-3-haiku-20240307,chat,a,b
+81,Social Issues & Ethics,630,claude-3-haiku-20240307,chat,b,b
+66,Politics & Governance,631,claude-3-haiku-20240307,chat,a,b
+5,Art & Design,632,claude-3-haiku-20240307,chat,a,a
+36,Healthcare & Medicine,633,claude-3-haiku-20240307,chat,b,b
+50,Hobbies & Leisure,634,claude-3-haiku-20240307,chat,a,a
+52,Law & Legal Issues,635,claude-3-haiku-20240307,chat,a,a
+38,Healthcare & Medicine,636,claude-3-haiku-20240307,chat,b,b
+76,Science & Technology,637,claude-3-haiku-20240307,chat,a,a
+11,Careers & Employment,638,claude-3-haiku-20240307,chat,a,a
+11,Careers & Employment,639,claude-3-haiku-20240307,chat,a,a
+34,Food & Culinary,640,claude-3-haiku-20240307,chat,a,b
+92,Travel & Tourism,641,claude-3-haiku-20240307,chat,a,a
+83,Social Issues & Ethics,642,claude-3-haiku-20240307,chat,a,b
+15,Careers & Employment,643,claude-3-haiku-20240307,chat,b,b
+79,Social Issues & Ethics,644,claude-3-haiku-20240307,chat,a,b
+60,Philosophy & Religion,645,claude-3-haiku-20240307,chat,a,a
+71,Psychology & Sociology,646,claude-3-haiku-20240307,chat,a,a
+8,Business & Finance,647,claude-3-haiku-20240307,chat,a,a
+42,History & Archaeology,648,claude-3-haiku-20240307,chat,a,a
+60,Philosophy & Religion,649,claude-3-haiku-20240307,chat,a,b
+37,Healthcare & Medicine,650,claude-3-haiku-20240307,chat,a,b
+91,Travel & Tourism,651,claude-3-haiku-20240307,chat,a,b
+90,Travel & Tourism,652,claude-3-haiku-20240307,chat,a,a
+28,Fashion & Beauty,653,claude-3-haiku-20240307,chat,a,b
+6,Business & Finance,654,claude-3-haiku-20240307,chat,a,a
+86,Sports & Fitness,655,claude-3-haiku-20240307,chat,a,a
+11,Careers & Employment,656,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,657,claude-3-haiku-20240307,chat,a,b
+39,Healthcare & Medicine,658,claude-3-haiku-20240307,chat,b,b
+1,Art & Design,659,claude-3-haiku-20240307,chat,a,a
+56,Law & Legal Issues,660,claude-3-haiku-20240307,chat,a,a
+65,Politics & Governance,661,claude-3-haiku-20240307,chat,a,ERROR
+26,Fashion & Beauty,662,claude-3-haiku-20240307,chat,a,a
+68,Psychology & Sociology,663,claude-3-haiku-20240307,chat,b,b
+22,Entertainment,664,claude-3-haiku-20240307,chat,b,b
+61,Philosophy & Religion,665,claude-3-haiku-20240307,chat,a,b
+51,Hobbies & Leisure,666,claude-3-haiku-20240307,chat,a,a
+33,Food & Culinary,667,claude-3-haiku-20240307,chat,a,b
+38,Healthcare & Medicine,668,claude-3-haiku-20240307,chat,b,a
+14,Careers & Employment,669,claude-3-haiku-20240307,chat,a,a
+74,Science & Technology,670,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,671,claude-3-haiku-20240307,chat,a,a
+69,Psychology & Sociology,672,claude-3-haiku-20240307,chat,a,b
+53,Law & Legal Issues,673,claude-3-haiku-20240307,chat,a,a
+31,Food & Culinary,674,claude-3-haiku-20240307,chat,a,b
+42,History & Archaeology,675,claude-3-haiku-20240307,chat,b,b
+50,Hobbies & Leisure,676,claude-3-haiku-20240307,chat,a,b
+14,Careers & Employment,677,claude-3-haiku-20240307,chat,a,a
+2,Art & Design,678,claude-3-haiku-20240307,chat,a,b
+12,Careers & Employment,679,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,680,claude-3-haiku-20240307,chat,a,b
+82,Social Issues & Ethics,681,claude-3-haiku-20240307,chat,a,b
+87,Sports & Fitness,682,claude-3-haiku-20240307,chat,a,a
+12,Careers & Employment,683,claude-3-haiku-20240307,chat,a,a
+28,Fashion & Beauty,684,claude-3-haiku-20240307,chat,a,b
+64,Politics & Governance,685,claude-3-haiku-20240307,chat,b,a
+86,Sports & Fitness,686,claude-3-haiku-20240307,chat,b,b
+61,Philosophy & Religion,687,claude-3-haiku-20240307,chat,a,b
+60,Philosophy & Religion,688,claude-3-haiku-20240307,chat,a,a
+54,Law & Legal Issues,689,claude-3-haiku-20240307,chat,a,a
+48,Hobbies & Leisure,690,claude-3-haiku-20240307,chat,a,b
+88,Sports & Fitness,691,claude-3-haiku-20240307,chat,b,a
+79,Social Issues & Ethics,692,claude-3-haiku-20240307,chat,a,a
+87,Sports & Fitness,693,claude-3-haiku-20240307,chat,b,a
+65,Politics & Governance,694,claude-3-haiku-20240307,chat,a,a
+78,Science & Technology,695,claude-3-haiku-20240307,chat,b,b
+85,Sports & Fitness,696,claude-3-haiku-20240307,chat,a,a
+70,Psychology & Sociology,697,claude-3-haiku-20240307,chat,a,b
+76,Science & Technology,698,claude-3-haiku-20240307,chat,a,a
+41,History & Archaeology,699,claude-3-haiku-20240307,chat,b,b
+62,Politics & Governance,700,claude-3-haiku-20240307,chat,ERROR,ERROR
+44,History & Archaeology,701,claude-3-haiku-20240307,chat,a,a
+25,Entertainment,702,claude-3-haiku-20240307,chat,a,a
+15,Careers & Employment,703,claude-3-haiku-20240307,chat,a,a
+27,Fashion & Beauty,704,claude-3-haiku-20240307,chat,a,b
+84,Sports & Fitness,705,claude-3-haiku-20240307,chat,a,a
+84,Sports & Fitness,706,claude-3-haiku-20240307,chat,a,b
+49,Hobbies & Leisure,707,claude-3-haiku-20240307,chat,a,a
+11,Careers & Employment,708,claude-3-haiku-20240307,chat,a,a
+12,Careers & Employment,709,claude-3-haiku-20240307,chat,a,a
+56,Law & Legal Issues,710,claude-3-haiku-20240307,chat,a,a
+77,Science & Technology,711,claude-3-haiku-20240307,chat,a,a
+22,Entertainment,712,claude-3-haiku-20240307,chat,b,b
+77,Science & Technology,713,claude-3-haiku-20240307,chat,a,a
+85,Sports & Fitness,714,claude-3-haiku-20240307,chat,a,b
+68,Psychology & Sociology,715,claude-3-haiku-20240307,chat,a,b
+71,Psychology & Sociology,716,claude-3-haiku-20240307,chat,a,a
+89,Travel & Tourism,717,claude-3-haiku-20240307,chat,b,a
+81,Social Issues & Ethics,718,claude-3-haiku-20240307,chat,a,b
+72,Psychology & Sociology,719,claude-3-haiku-20240307,chat,b,b
+32,Food & Culinary,720,claude-3-haiku-20240307,chat,a,a
+82,Social Issues & Ethics,721,claude-3-haiku-20240307,chat,a,b
+91,Travel & Tourism,722,claude-3-haiku-20240307,chat,a,b
+47,Hobbies & Leisure,723,claude-3-haiku-20240307,chat,b,a
+47,Hobbies & Leisure,724,claude-3-haiku-20240307,chat,b,a
+57,Philosophy & Religion,725,claude-3-haiku-20240307,chat,a,a
+10,Business & Finance,726,claude-3-haiku-20240307,chat,a,a
+60,Philosophy & Religion,727,claude-3-haiku-20240307,chat,a,b
+93,Travel & Tourism,728,claude-3-haiku-20240307,chat,a,b
+40,Healthcare & Medicine,729,claude-3-haiku-20240307,chat,b,b
+63,Politics & Governance,730,claude-3-haiku-20240307,chat,a,a
+86,Sports & Fitness,731,claude-3-haiku-20240307,chat,a,a
+72,Psychology & Sociology,732,claude-3-haiku-20240307,chat,a,a
+21,Entertainment,733,claude-3-haiku-20240307,chat,a,b
+26,Fashion & Beauty,734,claude-3-haiku-20240307,chat,a,b
+55,Law & Legal Issues,735,claude-3-haiku-20240307,chat,a,a
+3,Art & Design,736,claude-3-haiku-20240307,chat,a,b
+72,Psychology & Sociology,737,claude-3-haiku-20240307,chat,b,a
+66,Politics & Governance,738,claude-3-haiku-20240307,chat,a,b
+12,Careers & Employment,739,claude-3-haiku-20240307,chat,a,a
+64,Politics & Governance,740,claude-3-haiku-20240307,chat,a,a
+60,Philosophy & Religion,741,claude-3-haiku-20240307,chat,a,b
+16,Education & Learning,742,claude-3-haiku-20240307,chat,a,b
+52,Law & Legal Issues,743,claude-3-haiku-20240307,chat,a,a
+79,Social Issues & Ethics,744,claude-3-haiku-20240307,chat,a,a
+54,Law & Legal Issues,745,claude-3-haiku-20240307,chat,a,ERROR
+24,Entertainment,746,claude-3-haiku-20240307,chat,a,b
+90,Travel & Tourism,747,claude-3-haiku-20240307,chat,a,a
+25,Entertainment,748,claude-3-haiku-20240307,chat,a,a
+69,Psychology & Sociology,749,claude-3-haiku-20240307,chat,a,a
+87,Sports & Fitness,750,claude-3-haiku-20240307,chat,a,b
+29,Fashion & Beauty,751,claude-3-haiku-20240307,chat,a,b
+60,Philosophy & Religion,752,claude-3-haiku-20240307,chat,b,b
+63,Politics & Governance,753,claude-3-haiku-20240307,chat,a,a
+4,Art & Design,754,claude-3-haiku-20240307,chat,a,a
+62,Politics & Governance,755,claude-3-haiku-20240307,chat,a,a
+5,Art & Design,756,claude-3-haiku-20240307,chat,a,a
+86,Sports & Fitness,757,claude-3-haiku-20240307,chat,b,b
+49,Hobbies & Leisure,758,claude-3-haiku-20240307,chat,a,a
+79,Social Issues & Ethics,759,claude-3-haiku-20240307,chat,a,a
+30,Fashion & Beauty,760,claude-3-haiku-20240307,chat,a,a
+46,History & Archaeology,761,claude-3-haiku-20240307,chat,a,b
+65,Politics & Governance,762,claude-3-haiku-20240307,chat,a,b
+40,Healthcare & Medicine,763,claude-3-haiku-20240307,chat,a,b
+6,Business & Finance,764,claude-3-haiku-20240307,chat,a,a
+12,Careers & Employment,765,claude-3-haiku-20240307,chat,a,a
+44,History & Archaeology,766,claude-3-haiku-20240307,chat,a,a
+30,Fashion & Beauty,767,claude-3-haiku-20240307,chat,a,a
+78,Science & Technology,768,claude-3-haiku-20240307,chat,b,a
+8,Business & Finance,769,claude-3-haiku-20240307,chat,a,b
+78,Science & Technology,770,claude-3-haiku-20240307,chat,b,a
+35,Food & Culinary,771,claude-3-haiku-20240307,chat,b,a
+90,Travel & Tourism,772,claude-3-haiku-20240307,chat,b,b
+49,Hobbies & Leisure,773,claude-3-haiku-20240307,chat,a,b
+26,Fashion & Beauty,774,claude-3-haiku-20240307,chat,b,b
+93,Travel & Tourism,775,claude-3-haiku-20240307,chat,a,a
+16,Education & Learning,776,claude-3-haiku-20240307,chat,a,a
+65,Politics & Governance,777,claude-3-haiku-20240307,chat,ERROR,ERROR
+82,Social Issues & Ethics,778,claude-3-haiku-20240307,chat,a,a
+15,Careers & Employment,779,claude-3-haiku-20240307,chat,a,b
+51,Hobbies & Leisure,780,claude-3-haiku-20240307,chat,a,b
+85,Sports & Fitness,781,claude-3-haiku-20240307,chat,a,a
+62,Politics & Governance,782,claude-3-haiku-20240307,chat,a,a
+7,Business & Finance,783,claude-3-haiku-20240307,chat,a,b
+14,Careers & Employment,784,claude-3-haiku-20240307,chat,a,a
+33,Food & Culinary,785,claude-3-haiku-20240307,chat,a,b
+83,Social Issues & Ethics,786,claude-3-haiku-20240307,chat,b,a
+88,Sports & Fitness,787,claude-3-haiku-20240307,chat,a,b
+48,Hobbies & Leisure,788,claude-3-haiku-20240307,chat,a,a
+3,Art & Design,789,claude-3-haiku-20240307,chat,a,a
+9,Business & Finance,790,claude-3-haiku-20240307,chat,a,a
+29,Fashion & Beauty,791,claude-3-haiku-20240307,chat,a,a
+68,Psychology & Sociology,792,claude-3-haiku-20240307,chat,a,b
+59,Philosophy & Religion,793,claude-3-haiku-20240307,chat,a,a
+48,Hobbies & Leisure,794,claude-3-haiku-20240307,chat,b,a
+40,Healthcare & Medicine,795,claude-3-haiku-20240307,chat,a,a
+48,Hobbies & Leisure,796,claude-3-haiku-20240307,chat,a,a
+2,Art & Design,797,claude-3-haiku-20240307,chat,a,a
+21,Entertainment,798,claude-3-haiku-20240307,chat,a,b
+20,Education & Learning,799,claude-3-haiku-20240307,chat,a,a
+30,Fashion & Beauty,800,claude-3-haiku-20240307,chat,a,a
+62,Politics & Governance,801,claude-3-haiku-20240307,chat,a,a
+37,Healthcare & Medicine,802,claude-3-haiku-20240307,chat,a,b
+41,History & Archaeology,803,claude-3-haiku-20240307,chat,a,b
+80,Social Issues & Ethics,804,claude-3-haiku-20240307,chat,a,a
+16,Education & Learning,805,claude-3-haiku-20240307,chat,a,b
+2,Art & Design,806,claude-3-haiku-20240307,chat,a,a
+84,Sports & Fitness,807,claude-3-haiku-20240307,chat,a,a
+92,Travel & Tourism,808,claude-3-haiku-20240307,chat,a,a
+58,Philosophy & Religion,809,claude-3-haiku-20240307,chat,a,b
+93,Travel & Tourism,810,claude-3-haiku-20240307,chat,a,a
+21,Entertainment,811,claude-3-haiku-20240307,chat,a,b
+36,Healthcare & Medicine,812,claude-3-haiku-20240307,chat,a,a
+15,Careers & Employment,813,claude-3-haiku-20240307,chat,a,a
+57,Philosophy & Religion,814,claude-3-haiku-20240307,chat,a,b
+69,Psychology & Sociology,815,claude-3-haiku-20240307,chat,a,b
+49,Hobbies & Leisure,816,claude-3-haiku-20240307,chat,a,b
+83,Social Issues & Ethics,817,claude-3-haiku-20240307,chat,a,b
+7,Business & Finance,818,claude-3-haiku-20240307,chat,a,a
+21,Entertainment,819,claude-3-haiku-20240307,chat,a,b
+44,History & Archaeology,820,claude-3-haiku-20240307,chat,a,b
+61,Philosophy & Religion,821,claude-3-haiku-20240307,chat,a,b
+32,Food & Culinary,822,claude-3-haiku-20240307,chat,a,a
+27,Fashion & Beauty,823,claude-3-haiku-20240307,chat,a,a
+69,Psychology & Sociology,824,claude-3-haiku-20240307,chat,a,a
+44,History & Archaeology,825,claude-3-haiku-20240307,chat,a,b
+38,Healthcare & Medicine,826,claude-3-haiku-20240307,chat,b,b
+77,Science & Technology,827,claude-3-haiku-20240307,chat,a,a
+28,Fashion & Beauty,828,claude-3-haiku-20240307,chat,a,b
+73,Science & Technology,829,claude-3-haiku-20240307,chat,b,b
+91,Travel & Tourism,830,claude-3-haiku-20240307,chat,a,b
+66,Politics & Governance,831,claude-3-haiku-20240307,chat,a,b
+9,Business & Finance,832,claude-3-haiku-20240307,chat,a,a
+24,Entertainment,833,claude-3-haiku-20240307,chat,b,b
+52,Law & Legal Issues,834,claude-3-haiku-20240307,chat,a,a
+29,Fashion & Beauty,835,claude-3-haiku-20240307,chat,a,a
+39,Healthcare & Medicine,836,claude-3-haiku-20240307,chat,a,a
+28,Fashion & Beauty,837,claude-3-haiku-20240307,chat,b,a
+85,Sports & Fitness,838,claude-3-haiku-20240307,chat,a,b
+53,Law & Legal Issues,839,claude-3-haiku-20240307,chat,a,ERROR
+88,Sports & Fitness,840,claude-3-haiku-20240307,chat,a,b
+4,Art & Design,841,claude-3-haiku-20240307,chat,a,a
+77,Science & Technology,842,claude-3-haiku-20240307,chat,a,b
+31,Food & Culinary,843,claude-3-haiku-20240307,chat,b,b
+45,History & Archaeology,844,claude-3-haiku-20240307,chat,b,b
+37,Healthcare & Medicine,845,claude-3-haiku-20240307,chat,b,b
+55,Law & Legal Issues,846,claude-3-haiku-20240307,chat,a,a
+6,Business & Finance,847,claude-3-haiku-20240307,chat,b,a
+63,Politics & Governance,848,claude-3-haiku-20240307,chat,a,a
+13,Careers & Employment,849,claude-3-haiku-20240307,chat,a,a
+76,Science & Technology,850,claude-3-haiku-20240307,chat,a,b
+33,Food & Culinary,851,claude-3-haiku-20240307,chat,b,a
+41,History & Archaeology,852,claude-3-haiku-20240307,chat,a,b
+13,Careers & Employment,853,claude-3-haiku-20240307,chat,a,a
+26,Fashion & Beauty,854,claude-3-haiku-20240307,chat,a,a
+21,Entertainment,855,claude-3-haiku-20240307,chat,a,a
+64,Politics & Governance,856,claude-3-haiku-20240307,chat,a,a
+52,Law & Legal Issues,857,claude-3-haiku-20240307,chat,a,ERROR
+1,Art & Design,858,claude-3-haiku-20240307,chat,a,b
+1,Art & Design,859,claude-3-haiku-20240307,chat,a,a
+39,Healthcare & Medicine,860,claude-3-haiku-20240307,chat,b,a
+65,Politics & Governance,861,claude-3-haiku-20240307,chat,a,a
+71,Psychology & Sociology,862,claude-3-haiku-20240307,chat,a,a
+5,Art & Design,863,claude-3-haiku-20240307,chat,b,a
+59,Philosophy & Religion,864,claude-3-haiku-20240307,chat,b,b
+59,Philosophy & Religion,865,claude-3-haiku-20240307,chat,a,b
+34,Food & Culinary,866,claude-3-haiku-20240307,chat,b,a
+16,Education & Learning,867,claude-3-haiku-20240307,chat,a,b
+19,Education & Learning,868,claude-3-haiku-20240307,chat,a,a
+67,Psychology & Sociology,869,claude-3-haiku-20240307,chat,a,a
+11,Careers & Employment,870,claude-3-haiku-20240307,chat,a,a
+63,Politics & Governance,871,claude-3-haiku-20240307,chat,a,a
+14,Careers & Employment,872,claude-3-haiku-20240307,chat,a,a
+8,Business & Finance,873,claude-3-haiku-20240307,chat,a,a
+81,Social Issues & Ethics,874,claude-3-haiku-20240307,chat,a,b
+10,Business & Finance,875,claude-3-haiku-20240307,chat,a,b
+33,Food & Culinary,876,claude-3-haiku-20240307,chat,a,b
+6,Business & Finance,877,claude-3-haiku-20240307,chat,a,a
+61,Philosophy & Religion,878,claude-3-haiku-20240307,chat,b,b
+92,Travel & Tourism,879,claude-3-haiku-20240307,chat,a,a
+8,Business & Finance,880,claude-3-haiku-20240307,chat,b,b
+51,Hobbies & Leisure,881,claude-3-haiku-20240307,chat,b,a
+5,Art & Design,882,claude-3-haiku-20240307,chat,a,b
+80,Social Issues & Ethics,883,claude-3-haiku-20240307,chat,a,b
+61,Philosophy & Religion,884,claude-3-haiku-20240307,chat,b,b
+77,Science & Technology,885,claude-3-haiku-20240307,chat,b,a
+85,Sports & Fitness,886,claude-3-haiku-20240307,chat,b,b
+27,Fashion & Beauty,887,claude-3-haiku-20240307,chat,a,a
+53,Law & Legal Issues,888,claude-3-haiku-20240307,chat,a,a
+29,Fashion & Beauty,889,claude-3-haiku-20240307,chat,a,a
+9,Business & Finance,890,claude-3-haiku-20240307,chat,a,b
+24,Entertainment,891,claude-3-haiku-20240307,chat,b,b
+88,Sports & Fitness,892,claude-3-haiku-20240307,chat,a,a
+91,Travel & Tourism,893,claude-3-haiku-20240307,chat,a,b
+16,Education & Learning,894,claude-3-haiku-20240307,chat,a,a
+13,Careers & Employment,895,claude-3-haiku-20240307,chat,a,a
+87,Sports & Fitness,896,claude-3-haiku-20240307,chat,a,a
+31,Food & Culinary,897,claude-3-haiku-20240307,chat,a,a
+48,Hobbies & Leisure,898,claude-3-haiku-20240307,chat,b,b
+49,Hobbies & Leisure,899,claude-3-haiku-20240307,chat,b,b
+34,Food & Culinary,900,claude-3-haiku-20240307,chat,a,b
+93,Travel & Tourism,901,claude-3-haiku-20240307,chat,a,a
+41,History & Archaeology,902,claude-3-haiku-20240307,chat,a,a
+43,History & Archaeology,903,claude-3-haiku-20240307,chat,a,a
+2,Art & Design,904,claude-3-haiku-20240307,chat,a,a
+10,Business & Finance,905,claude-3-haiku-20240307,chat,a,a
+23,Entertainment,906,claude-3-haiku-20240307,chat,a,a
+89,Travel & Tourism,907,claude-3-haiku-20240307,chat,a,a
+46,History & Archaeology,908,claude-3-haiku-20240307,chat,a,a
+89,Travel & Tourism,909,claude-3-haiku-20240307,chat,a,a
+57,Philosophy & Religion,910,claude-3-haiku-20240307,chat,a,b
+36,Healthcare & Medicine,911,claude-3-haiku-20240307,chat,a,b
+48,Hobbies & Leisure,912,claude-3-haiku-20240307,chat,a,b
+50,Hobbies & Leisure,913,claude-3-haiku-20240307,chat,a,b
+90,Travel & Tourism,914,claude-3-haiku-20240307,chat,a,b
+12,Careers & Employment,915,claude-3-haiku-20240307,chat,a,a
