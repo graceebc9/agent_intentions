@@ -19,12 +19,12 @@ sys.path.append(src_dir)
 sys.path.append(utils_dir)
 
 
-from utils import load_data, json_arr_to_file, run_api_call
-from utils.model_api.other_api  import   call_llama , call_claude, call_claude3, call_togetherai
-from utils import  preprocess_options_and_labels
+from src.utils import load_data, json_arr_to_file, run_api_call
+from src.utils.model_api.other_api  import   call_llama , call_claude, call_claude3, call_togetherai
+from src.utils import  preprocess_options_and_labels
 
-from utils.prompt_fns import intention_prompt_first, intention_prompt_second
-from utils.variable_prompt_fns import intention_prompt_second_fewshotlearning , intention_prompt_second_chainofthought
+from src.utils.prompt_fns import intention_prompt_first, intention_prompt_second
+from src.utils.variable_prompt_fns import intention_prompt_second_fewshotlearning , intention_prompt_second_chainofthought
 
 claude_model_family = [
     "claude-v1",
@@ -123,7 +123,7 @@ def select_prompt_based_on_model(model, scenario, pr_string, adapt_sentence, typ
     else:
         raise Exception('Invalid type of experiment')
     
-def generate_and_process_response(model, scenario, pr_string, max_tokens, mapping, first_call=True, numeric_first_response=None, type_experiment='plain', num_ex=None ):
+def generate_and_process_response(model, scenario, pr_string, max_tokens, mapping, first_call=True, numeric_first_response=None, type_experiment='plain', num_ex=None , cot=False):
 
     """Generate and process the response for the prompt."""
     if first_call:
