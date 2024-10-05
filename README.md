@@ -7,7 +7,9 @@
 This Github is the companion to the paper 'Evaluating Language Model Language Traits'
 ## Repository Structure
 
-This repository is organized into several sub-directories relating to the different experiments within the paper. 
+This repository is organised into several sub-directories relating to the different experiments within the paper. 
+
+### `/LGBT`
 
 ### `/COHERENCE`
 
@@ -21,8 +23,10 @@ This subdirectory contains all code and data related to the generation of the He
 
 This subdirectory contains the code and input data for generating the unethical instrumental intention (UII) dataset and testing language models on it.
 	 
+### `/Others`
 
-
-
+- fig1
+- fig3
+- fig4
 
 
